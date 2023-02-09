@@ -8,7 +8,7 @@ caliHealthAreasList = caliHealthAreasFile.read().splitlines()[1:]
 caliHealthAreas = pd.DataFrame({'serviceAreas': caliHealthAreasList})
 
 countiesList = pd.read_csv('CaliforniaZipCodeCounties.csv')
-countiesList.to_csv('caliHealthAreas.csv')
+caliHealthAreas.to_csv('caliHealthAreas.csv')
 
 
 
