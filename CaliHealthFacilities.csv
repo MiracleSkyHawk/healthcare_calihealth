@@ -1,0 +1,61 @@
+facility zip,facility county,facility city,facility type
+94510,Solano,Benicia,outpatient clinic
+94533,Solano,Fairfield,medium hospital
+94589,Solano,Vallejo,outpatient clinic
+94590,Solano,Vallejo,outpatient clinic
+94591,Solano,Vallejo,small hospital
+94592,Solano,Vallejo,outpatient clinic
+95602,Placer,Auburn,outpatient clinic
+95603,Placer,Auburn,outpatient clinic
+95605,Yolo,West Sacramento,outpatient clinic
+95608,Sacramento,Carmichael,small hospital
+95618,Yolo,El Macero,outpatient clinic
+95619,El Dorado,Diamond Springs,outpatient clinic
+95621,Sacramento,Citrus Heights,outpatient clinic
+95624,Sacramento,Elk Grove,medium hospital
+95628,Sacramento,Fair Oaks,outpatient clinic
+95630,Sacramento,Folsom,medium hospital
+95641,Sacramento,Isleton,outpatient clinic
+95650,Placer,Loomis,outpatient clinic
+95651,El Dorado,Lotus,outpatient clinic
+95658,Placer,Newcastle,outpatient clinic
+95661,Placer,Roseville,outpatient clinic
+95667,El Dorado,Placerville,outpatient clinic
+95670,Sacramento,Rancho Cordova,small hospital
+95678,Placer,Roseville,surgery center
+95681,Placer,Sheridan,outpatient clinic
+95682,El Dorado,Shingle Springs,outpatient clinic
+95687,Solano,Vacaville,medium hospital
+95688,Solano,Vacaville,outpatient clinic
+95691,Yolo,West Sacramento,outpatient clinic
+95695,Yolo,Woodland,outpatient clinic
+95742,Sacramento,Rancho Cordova,outpatient clinic
+95747,Placer,Roseville,medium hospital
+95758,Sacramento,Elk Grove,outpatient clinic
+95762,El Dorado,El Dorado Hills,small hospital
+95765,Placer,Rocklin,outpatient clinic
+95776,Yolo,Woodland,outpatient clinic
+95811,Sacramento,Sacramento,large hospital
+95815,Sacramento,Sacramento,outpatient clinic
+95817,Sacramento,Sacramento,outpatient clinic
+95818,Sacramento,Sacramento,outpatient clinic
+95819,Sacramento,Sacramento,outpatient clinic
+95820,Sacramento,Sacramento,outpatient clinic
+95821,Sacramento,Sacramento,outpatient clinic
+95823,Sacramento,Sacramento,urgent care
+95824,Sacramento,Sacramento,outpatient clinic
+95827,Sacramento,Sacramento,outpatient clinic
+95829,Sacramento,Sacramento,outpatient clinic
+95831,Sacramento,Sacramento,surgery center
+95832,Sacramento,Sacramento,outpatient clinic
+95833,Sacramento,Sacramento,outpatient clinic
+95834,Sacramento,Sacramento,outpatient clinic
+95841,Sacramento,Sacramento,outpatient clinic
+95842,Sacramento,Sacramento,outpatient clinic
+95843,Sacramento,Antelope,small hospital
+95932,Colusa,Colusa,outpatient clinic
+95946,Nevada,Penn Valley,outpatient clinic
+95949,Nevada,Grass Valley,outpatient clinic
+95991,Sutter,Yuba City,outpatient clinic
+95993,Sutter,Yuba City,outpatient clinic
+96145,Placer,Tahoe City,outpatient clinic

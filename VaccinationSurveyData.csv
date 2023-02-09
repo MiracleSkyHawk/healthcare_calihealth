@@ -1,0 +1,1558 @@
+,COVID Status,Gender,Race,Hispanic or Latino/A,Age,Trust in science (1-5 scale with 5 indicating most trust),Level of religious commitment (1-10 scale with 10 indicating highest trust),Political orientation (1-10 scale with 10 indicating most conservative and 1 indicating most liberal),How serious would it be for you if you contract COVID-19 in the next year? (1-10 scale with 10 being most serious),How confident are you that you can prevent getting COVID-19 in case of an outbreak? (1-5 scale with 5 being very confident),Please indicate your level of agreement with this statement: ‘My family and friends avoid crowded areas.’ (1-7 scale with 7 being strongly agree),I intend to get vaccinated for COVID-19 when the vaccine becomes available to me. (1-7 scale with 7 being Likely and 1 being Unlikely)
+0,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,16,2,2,5,8,4,7,4
+1,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,70,5,8,2,5,3,1,6
+2,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,4,7,1,5,1,7,6
+3,Had COVID,Female,Asian,Not Hispanic or Latino/A,39,5,4,4,5,1,5,7
+4,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,26,4,3,5,6,3,4,5
+5,Had COVID,Male,White,Hispanic or Latino/A,53,3,3,1,9,4,6,6
+6,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,50,5,6,5,10,1,5,7
+7,Had COVID,Female,Asian,Not Hispanic or Latino/A,50,3,1,3,3,4,4,5
+8,Had COVID,Female,White,Hispanic or Latino/A,37,5,4,2,5,1,4,7
+9,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,54,3,3,1,10,2,2,6
+10,Had COVID,Male,White,Hispanic or Latino/A,51,5,4,1,4,4,4,7
+11,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,4,4,2,7,1,7,6
+12,Hasn't had COVID,Female,White,Hispanic or Latino/A,24,4,4,3,6,1,6,6
+13,Had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,52,5,4,4,7,3,2,7
+14,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,3,3,2,7,5,3,5
+15,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,69,2,6,1,7,5,7,5
+16,Hasn't had COVID,Male,White,Hispanic or Latino/A,44,5,4,5,5,2,6,7
+17,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,41,4,2,3,6,2,7,7
+18,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,25,4,10,2,3,4,5,5
+19,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,5,7,1,3,4,5,6
+20,Hasn't had COVID,Female,White,Hispanic or Latino/A,36,5,5,3,4,2,5,7
+21,Had COVID,Male,White,Not Hispanic or Latino/A,56,2,3,3,10,4,7,5
+22,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,28,3,2,4,4,5,7,5
+23,Hasn't had COVID,Male,Other,Hispanic or Latino/A,54,5,3,2,9,3,5,7
+24,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,9,1,3,8,6,4,7,2
+25,Had COVID,Female,Asian,Hispanic or Latino/A,35,4,1,2,6,4,6,7
+26,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,51,3,9,6,8,5,4,5
+27,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,65,2,8,4,6,4,7,3
+28,Hasn't had COVID,Female,White,Hispanic or Latino/A,21,3,2,6,6,5,3,4
+29,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,38,4,5,1,8,5,7,7
+30,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,4,4,6,6,3,4,5
+31,Had COVID,Female,Other,Not Hispanic or Latino/A,36,4,3,4,8,1,4,6
+32,Hasn't had COVID,Female,White,Hispanic or Latino/A,24,5,3,4,8,3,6,7
+33,Had COVID,Female,White,Not Hispanic or Latino/A,39,3,3,4,10,4,7,6
+34,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,4,4,3,6,3,7,6
+35,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,52,4,3,3,5,2,7,6
+36,Hasn't had COVID,Male,White,Hispanic or Latino/A,17,5,3,4,6,3,7,7
+37,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,56,5,4,2,4,1,7,7
+38,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,59,4,3,3,10,3,5,5
+39,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,3,4,3,6,1,5,5
+40,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,37,4,4,2,4,2,7,5
+41,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,45,1,5,3,7,2,7,2
+42,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,68,2,3,3,9,4,5,4
+43,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,29,5,4,2,3,4,7,5
+44,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,5,3,4,6,4,2,6
+45,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,1,4,4,9,4,5,3
+46,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,37,2,4,3,4,4,5,3
+47,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,1,2,4,9,2,2,3
+48,Hasn't had COVID,Female,White,Hispanic or Latino/A,33,3,6,2,4,4,5,5
+49,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,64,2,5,4,3,1,7,2
+50,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,20,1,4,2,6,4,5,2
+51,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,5,4,1,8,5,7,7
+52,Had COVID,Female,White,Not Hispanic or Latino/A,16,3,5,6,7,3,6,5
+53,Had COVID,Female,White,Not Hispanic or Latino/A,24,2,5,4,7,3,3,4
+54,Had COVID,Female,Asian,Not Hispanic or Latino/A,45,3,8,3,8,4,3,6
+55,Had COVID,Male,White,Hispanic or Latino/A,30,4,3,4,6,3,6,6
+56,Had COVID,Female,Asian,Hispanic or Latino/A,40,2,2,1,10,4,4,5
+57,Had COVID,Male,White,Hispanic or Latino/A,33,4,6,1,7,5,4,6
+58,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,1,4,1,7,5,6,3
+59,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,5,2,3,9,3,5,7
+60,Hasn't had COVID,Female,White,Hispanic or Latino/A,20,5,5,6,7,5,5,7
+61,Had COVID,Female,White,Not Hispanic or Latino/A,55,3,1,4,8,5,1,5
+62,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,3,3,9,3,7,7
+63,Had COVID,Male,White,Not Hispanic or Latino/A,54,5,4,2,7,2,7,7
+64,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,43,5,1,2,10,5,6,7
+65,Had COVID,Female,White,Not Hispanic or Latino/A,27,3,7,5,6,4,5,5
+66,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,53,5,3,1,7,3,7,7
+67,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,6,4,10,3,5,7
+68,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,20,5,4,4,10,1,4,7
+69,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,2,8,2,3,5,4,2
+70,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,38,4,3,1,9,4,2,5
+71,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,2,2,5,10,1,6,4
+72,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,53,2,4,4,4,5,7,3
+73,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,48,3,5,5,7,5,6,5
+74,Had COVID,Female,Asian,Not Hispanic or Latino/A,45,1,5,3,5,5,6,3
+75,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,53,5,10,1,5,3,6,6
+76,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,34,5,3,2,4,2,3,6
+77,Hasn't had COVID,Male,White,Hispanic or Latino/A,32,4,3,3,7,4,7,6
+78,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,23,3,3,3,7,1,7,5
+79,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,68,3,2,2,7,4,2,5
+80,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,5,5,6,6,1,7,6
+81,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,49,2,5,4,2,3,5,3
+82,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,51,5,1,1,8,2,7,7
+83,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,26,1,5,2,10,2,4,4
+84,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,10,1,4,5,3,4,5,2
+85,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,31,1,6,1,10,5,7,4
+86,Had COVID,Male,Asian,Hispanic or Latino/A,55,5,6,1,4,3,3,7
+87,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,20,5,3,3,7,4,6,7
+88,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,38,4,4,3,7,2,7,6
+89,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,4,5,3,3,2,7,5
+90,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,14,1,7,3,8,4,5,3
+91,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,56,4,3,3,6,5,2,5
+92,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,7,7,7,5,4,6
+93,Had COVID,Female,White,Not Hispanic or Latino/A,53,5,4,2,4,2,6,7
+94,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,23,4,6,2,10,3,6,7
+95,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,39,5,3,3,4,5,5,6
+96,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,35,4,5,5,6,5,7,6
+97,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,31,4,3,1,9,2,3,5
+98,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,73,3,6,1,7,3,7,4
+99,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,53,5,4,7,9,5,6,7
+100,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,35,5,5,3,5,3,3,5
+101,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,44,4,4,1,10,2,3,6
+102,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,49,5,3,4,8,5,7,7
+103,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,27,4,7,9,4,1,4,5
+104,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,3,7,4,7,1,7,5
+105,Had COVID,Female,Asian,Not Hispanic or Latino/A,21,4,7,4,7,2,6,7
+106,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,57,1,5,3,10,4,5,3
+107,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,38,5,4,2,5,4,5,7
+108,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,33,4,3,3,8,3,3,6
+109,Had COVID,Female,White,Not Hispanic or Latino/A,29,2,2,4,10,4,7,5
+110,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,37,2,2,4,8,2,4,3
+111,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,21,4,8,4,10,2,2,5
+112,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,36,2,3,1,4,5,7,4
+113,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,58,5,4,2,6,2,7,7
+114,Hasn't had COVID,Female,White,Hispanic or Latino/A,35,1,5,4,6,5,7,3
+115,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,42,4,3,4,8,5,6,6
+116,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,2,1,3,7,5,7,4
+117,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,55,4,6,2,4,3,7,5
+118,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,22,5,3,2,5,3,6,7
+119,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,5,3,3,10,4,5,7
+120,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,31,3,5,4,4,4,2,4
+121,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,6,5,9,1,7,7
+122,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,3,1,1,3,2,4,4
+123,Had COVID,Female,White,Not Hispanic or Latino/A,9,4,4,2,8,3,2,6
+124,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,2,5,7,9,1,7,3
+125,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,3,7,3,10,5,6,6
+126,Hasn't had COVID,Female,White,Hispanic or Latino/A,61,4,4,4,9,5,2,6
+127,Hasn't had COVID,Female,White,Hispanic or Latino/A,67,2,5,3,6,4,7,4
+128,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,51,5,5,1,9,2,4,7
+129,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,52,5,6,3,9,3,7,7
+130,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,26,2,2,6,4,5,7,2
+131,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,2,4,1,5,1,7,4
+132,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,2,3,6,8,2,5,4
+133,Had COVID,Male,White,Hispanic or Latino/A,45,2,2,6,7,5,2,3
+134,Had COVID,Female,White,Hispanic or Latino/A,34,5,2,2,4,5,7,7
+135,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,51,5,4,2,6,3,7,7
+136,Had COVID,Female,White,Not Hispanic or Latino/A,29,5,5,3,10,4,7,7
+137,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,21,3,4,5,8,4,2,3
+138,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,20,2,5,7,6,1,4,2
+139,Hasn't had COVID,Male,Other,Hispanic or Latino/A,49,5,6,3,4,4,5,6
+140,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,49,4,5,3,7,3,3,6
+141,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,62,4,5,3,6,4,2,5
+142,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,45,5,3,2,5,1,6,6
+143,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,2,4,3,9,2,7,5
+144,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,4,1,1,10,2,5,7
+145,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,39,1,5,1,5,4,5,2
+146,Hasn't had COVID,Male,White,Hispanic or Latino/A,14,1,5,4,7,1,2,3
+147,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,31,4,2,3,5,5,6,6
+148,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,31,5,3,5,7,4,7,7
+149,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,11,4,4,1,9,4,2,7
+150,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,2,8,2,10,5,2,4
+151,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,2,5,6,8,4,5,3
+152,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,4,5,3,6,5,5,6
+153,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,5,4,1,6,3,7,7
+154,Hasn't had COVID,Female,White,Hispanic or Latino/A,33,4,1,1,5,3,7,6
+155,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,48,3,3,3,3,5,7,4
+156,Hasn't had COVID,Female,White,Hispanic or Latino/A,36,4,5,3,10,3,5,7
+157,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,5,2,6,10,5,5,7
+158,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,50,4,1,1,10,2,7,6
+159,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,37,2,4,3,10,5,4,3
+160,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,4,2,1,5,4,7,6
+161,Hasn't had COVID,Male,White,Hispanic or Latino/A,50,1,2,8,6,3,6,2
+162,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,61,3,8,7,8,1,1,4
+163,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,35,2,1,5,7,4,4,3
+164,Had COVID,Female,Asian,Not Hispanic or Latino/A,47,5,5,5,10,3,7,7
+165,Hasn't had COVID,Female,White,Hispanic or Latino/A,53,2,7,3,5,5,5,4
+166,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,5,8,2,10,5,4,7
+167,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,28,5,7,2,2,5,7,5
+168,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,5,3,4,5,5,5,6
+169,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,5,7,1,7,3,5,7
+170,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,1,10,4,6,4,6,3
+171,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,5,1,5,8,3,5,7
+172,Had COVID,Female,Asian,Hispanic or Latino/A,34,3,6,2,3,1,7,5
+173,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,4,1,4,10,2,7,7
+174,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,19,4,3,5,4,5,6,5
+175,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,77,1,4,3,4,5,5,2
+176,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,5,2,6,8,3,2,7
+177,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,43,1,2,3,5,5,7,3
+178,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,42,5,5,2,6,5,7,7
+179,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,24,5,2,6,5,1,7,6
+180,Hasn't had COVID,Non-Binary or Transgender,Black or African American,Hispanic or Latino/A,59,2,5,5,8,1,4,3
+181,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,31,2,3,1,7,5,7,4
+182,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,41,3,2,6,4,2,7,5
+183,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,1,6,7,4,3,7,2
+184,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,32,4,2,3,6,1,6,6
+185,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,50,3,7,3,9,4,5,4
+186,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,42,5,4,4,9,1,7,7
+187,Hasn't had COVID,Female,White,Hispanic or Latino/A,56,5,3,1,6,5,4,7
+188,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,34,5,1,5,10,3,5,7
+189,Hasn't had COVID,Male,Other,Hispanic or Latino/A,45,4,1,4,10,2,5,6
+190,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,3,3,4,6,5,2,4
+191,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,2,4,2,7,2,1,4
+192,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,9,4,4,3,8,1,2,6
+193,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,4,2,3,5,2,7,6
+194,Had COVID,Male,White,Hispanic or Latino/A,21,5,5,4,9,3,5,7
+195,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,55,3,6,7,8,3,5,5
+196,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,48,2,5,4,8,4,7,4
+197,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,37,2,2,4,9,2,5,4
+198,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,31,5,3,3,8,2,5,6
+199,Had COVID,Female,White,Not Hispanic or Latino/A,50,4,7,5,7,1,6,6
+200,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,43,3,3,1,7,3,4,5
+201,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,37,5,3,1,8,3,7,7
+202,Had COVID,Male,Asian,Not Hispanic or Latino/A,38,2,1,2,6,1,7,5
+203,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,45,3,2,4,7,4,5,5
+204,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,2,4,3,10,2,1,4
+205,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,5,3,3,2,3,7,6
+206,Hasn't had COVID,Male,White,Hispanic or Latino/A,24,2,6,2,10,1,4,5
+207,Had COVID,Male,White,Not Hispanic or Latino/A,30,5,3,4,3,3,6,6
+208,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,2,5,6,10,4,7,4
+209,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,1,4,1,3,5,7,2
+210,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,34,4,5,3,8,3,4,6
+211,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,19,4,5,6,4,3,7,4
+212,Had COVID,Female,Other,Not Hispanic or Latino/A,26,5,2,1,10,2,1,7
+213,Hasn't had COVID,Male,Other,Hispanic or Latino/A,43,5,1,2,9,4,6,7
+214,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,41,5,6,3,7,3,3,7
+215,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,4,5,3,8,4,7,6
+216,Hasn't had COVID,Male,White,Hispanic or Latino/A,49,2,4,5,9,4,5,4
+217,Hasn't had COVID,Male,White,Hispanic or Latino/A,43,5,3,1,7,3,7,7
+218,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,38,5,5,3,9,1,1,6
+219,Hasn't had COVID,Female,White,Hispanic or Latino/A,65,3,7,5,10,3,5,5
+220,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,31,4,6,1,3,2,7,6
+221,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,43,1,2,1,8,5,3,3
+222,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,20,5,8,5,10,2,4,7
+223,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,61,4,4,4,5,2,7,5
+224,Had COVID,Female,White,Not Hispanic or Latino/A,33,5,5,3,6,3,3,7
+225,Had COVID,Male,Asian,Not Hispanic or Latino/A,45,1,1,6,4,2,4,2
+226,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,51,2,5,1,8,3,1,4
+227,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,56,2,6,1,9,3,7,4
+228,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,35,5,4,2,6,2,6,7
+229,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,62,2,4,3,5,5,4,3
+230,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,5,3,1,4,2,5
+231,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,21,2,3,10,8,1,3,3
+232,Hasn't had COVID,Female,White,Hispanic or Latino/A,27,5,3,4,8,3,5,7
+233,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,60,5,1,1,5,2,7,7
+234,Hasn't had COVID,Female,White,Hispanic or Latino/A,38,5,2,2,5,3,7,7
+235,Hasn't had COVID,Male,White,Hispanic or Latino/A,41,5,2,1,5,3,7,7
+236,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,49,5,4,3,8,5,4,6
+237,Hasn't had COVID,Female,Other,Hispanic or Latino/A,44,3,4,2,10,4,5,5
+238,Hasn't had COVID,Female,White,Hispanic or Latino/A,53,5,4,1,7,3,7,7
+239,Hasn't had COVID,Female,White,Hispanic or Latino/A,7,5,2,5,8,5,4,7
+240,Had COVID,Female,Other,Not Hispanic or Latino/A,37,4,8,5,9,1,6,6
+241,Hasn't had COVID,Female,White,Hispanic or Latino/A,31,5,6,1,6,3,6,7
+242,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,39,4,4,6,7,2,6,5
+243,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,11,5,10,4,7,4,7,7
+244,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,5,7,7,6,4,6,7
+245,Hasn't had COVID,Female,White,Hispanic or Latino/A,17,5,2,7,5,5,4,6
+246,Hasn't had COVID,Female,White,Hispanic or Latino/A,29,2,2,3,9,3,5,4
+247,Hasn't had COVID,Male,White,Hispanic or Latino/A,38,1,2,5,6,4,6,3
+248,Had COVID,Female,Asian,Hispanic or Latino/A,51,5,3,1,8,5,5,7
+249,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,63,4,3,4,3,2,6,5
+250,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,37,4,7,4,9,4,6,6
+251,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,24,4,4,2,6,3,7,5
+252,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,34,5,9,8,6,1,4,6
+253,Hasn't had COVID,Female,White,Hispanic or Latino/A,34,2,4,3,7,2,2,4
+254,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,8,3,3,1,6,4,7,5
+255,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,29,4,7,5,9,4,5,5
+256,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,4,5,3,9,2,3,6
+257,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,45,1,2,1,8,4,3,2
+258,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,28,5,1,4,8,1,6,7
+259,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,41,1,2,2,9,3,5,3
+260,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,31,3,3,3,6,5,7,5
+261,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,22,5,4,1,7,2,5,7
+262,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,29,2,2,7,10,4,6,3
+263,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,32,2,4,3,7,4,7,4
+264,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,5,3,4,7,5,7,7
+265,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,4,3,3,3,4,7,5
+266,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,47,3,1,6,10,2,7,4
+267,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,41,4,2,3,8,3,4,6
+268,Hasn't had COVID,Male,White,Hispanic or Latino/A,23,1,3,3,3,4,7,2
+269,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,1,3,2,5,3,6,3
+270,Had COVID,Male,White,Hispanic or Latino/A,17,1,6,4,6,5,7,3
+271,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,4,5,1,10,1,7,7
+272,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,4,4,3,5,5,2,5
+273,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,50,5,1,1,10,1,7,7
+274,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,1,4,2,9,5,5,3
+275,Had COVID,Male,White,Not Hispanic or Latino/A,17,3,2,3,10,3,6,6
+276,Hasn't had COVID,Female,Other,Hispanic or Latino/A,42,3,1,1,10,5,4,5
+277,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,48,4,4,2,1,4,3,4
+278,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,3,1,1,10,5,6,6
+279,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,3,6,3,5,5,5,4
+280,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,12,4,8,5,7,5,5,6
+281,Hasn't had COVID,Male,White,Hispanic or Latino/A,16,5,2,3,8,3,3,7
+282,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,5,3,6,2,3,4,5
+283,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,11,3,4,4,8,2,7,4
+284,Had COVID,Male,White,Not Hispanic or Latino/A,35,5,4,7,9,2,7,7
+285,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,44,2,10,2,6,2,5,4
+286,Had COVID,Female,White,Not Hispanic or Latino/A,28,2,4,5,6,5,7,4
+287,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,26,5,5,2,6,1,4,6
+288,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,37,4,2,3,8,3,4,6
+289,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,22,2,3,2,6,4,6,4
+290,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,49,5,3,1,3,2,4,5
+291,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,20,5,2,6,7,4,3,7
+292,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,33,3,2,4,10,5,7,6
+293,Hasn't had COVID,Female,White,Hispanic or Latino/A,38,1,5,1,8,5,3,3
+294,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,5,3,2,9,4,5,7
+295,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,55,3,5,3,7,5,3,5
+296,Had COVID,Male,White,Not Hispanic or Latino/A,29,2,4,5,8,4,6,4
+297,Hasn't had COVID,Female,White,Hispanic or Latino/A,20,5,5,1,6,3,3,7
+298,Had COVID,Male,White,Not Hispanic or Latino/A,44,4,6,3,6,3,5,6
+299,Had COVID,Female,White,Not Hispanic or Latino/A,34,3,7,5,8,1,5,5
+300,Hasn't had COVID,Male,Other,Hispanic or Latino/A,52,5,5,3,10,3,6,7
+301,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,3,4,2,7,3,7,5
+302,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,41,4,5,3,4,3,7,5
+303,Hasn't had COVID,Male,White,Hispanic or Latino/A,55,5,2,2,3,2,7,7
+304,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,50,5,4,4,8,2,4,6
+305,Hasn't had COVID,Female,White,Hispanic or Latino/A,41,3,8,2,9,5,7,6
+306,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,27,5,3,1,5,1,4,6
+307,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,64,3,6,1,9,1,5,5
+308,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,17,3,3,4,10,3,6,4
+309,Had COVID,Female,White,Hispanic or Latino/A,43,1,3,4,8,1,5,3
+310,Hasn't had COVID,Male,White,Hispanic or Latino/A,42,5,1,3,9,5,7,7
+311,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,1,6,5,4,1,6,2
+312,Had COVID,Female,White,Not Hispanic or Latino/A,29,5,7,1,4,2,2,7
+313,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,2,3,4,6,3,3,3
+314,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,3,8,3,6,1,1,4
+315,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,15,3,5,2,5,2,7,4
+316,Hasn't had COVID,Female,White,Hispanic or Latino/A,23,5,1,1,5,4,4,7
+317,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,3,8,1,8,2,7,6
+318,Had COVID,Male,White,Hispanic or Latino/A,52,3,6,1,8,5,5,6
+319,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,46,1,5,7,7,3,7,3
+320,Hasn't had COVID,Female,White,Hispanic or Latino/A,27,1,3,5,9,5,7,3
+321,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,51,5,3,2,10,2,3,7
+322,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,50,5,4,1,4,5,7,7
+323,Hasn't had COVID,Male,Other,Hispanic or Latino/A,60,2,2,3,9,4,7,4
+324,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,2,3,2,7,2,7,4
+325,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,54,1,1,3,6,4,6,3
+326,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,52,5,5,1,9,3,3,7
+327,Hasn't had COVID,Male,White,Hispanic or Latino/A,12,3,4,1,9,3,5,6
+328,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,30,3,4,3,4,3,4,5
+329,Hasn't had COVID,Male,White,Hispanic or Latino/A,19,1,5,3,9,5,7,3
+330,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,3,4,6,2,7,5
+331,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,2,1,2,6,4,5,4
+332,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,48,4,4,2,10,3,6,7
+333,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,36,1,3,1,10,4,5,3
+334,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,32,2,7,2,6,1,4,4
+335,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,11,3,3,4,8,3,3,5
+336,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,5,8,1,6,5,6,7
+337,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,63,1,8,4,5,4,2,2
+338,Hasn't had COVID,Female,White,Hispanic or Latino/A,19,3,6,7,9,4,5,5
+339,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,58,3,3,4,1,5,7,3
+340,Hasn't had COVID,Non-Binary or Transgender,Asian,Hispanic or Latino/A,46,2,1,3,8,2,7,5
+341,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,51,2,3,1,10,3,7,5
+342,Hasn't had COVID,Male,White,Hispanic or Latino/A,54,4,7,1,7,1,4,6
+343,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,1,4,3,6,1,7,3
+344,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,20,3,9,4,10,2,7,6
+345,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,3,8,2,6,4,7,5
+346,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,3,4,3,10,5,7,6
+347,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,1,5,1,10,2,6,4
+348,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,64,4,4,3,6,1,5,6
+349,Had COVID,Female,White,Not Hispanic or Latino/A,34,1,5,2,5,2,3,3
+350,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,32,1,4,1,8,4,7,3
+351,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,52,1,4,3,7,5,5,3
+352,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,24,5,3,2,9,2,1,7
+353,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,31,5,3,1,10,4,2,6
+354,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,4,5,2,5,5,4,5
+355,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,6,3,4,2,8,2,6,5
+356,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,39,3,6,3,7,3,7,4
+357,Had COVID,Female,White,Not Hispanic or Latino/A,39,1,7,3,5,5,7,3
+358,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,22,5,2,1,9,4,2,6
+359,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,39,5,3,4,8,4,7,7
+360,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,42,3,5,3,7,1,4,4
+361,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,58,2,10,2,8,5,4,4
+362,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,12,3,4,1,5,5,7,5
+363,Hasn't had COVID,Female,White,Hispanic or Latino/A,46,5,5,1,5,3,7,7
+364,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,15,5,5,2,10,4,7,7
+365,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,55,4,3,2,6,2,5,6
+366,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,5,6,6,8,2,4,7
+367,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,61,1,4,2,10,5,7,4
+368,Had COVID,Male,White,Hispanic or Latino/A,27,4,4,5,5,2,5,6
+369,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,3,5,5,7,3,1,4
+370,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,17,2,1,4,10,4,5,4
+371,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,41,3,3,1,10,5,2,4
+372,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,39,5,4,1,10,3,3,7
+373,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,4,3,2,7,2,1,6
+374,Had COVID,Male,Other,Not Hispanic or Latino/A,44,5,2,2,4,3,1,6
+375,Hasn't had COVID,Female,White,Hispanic or Latino/A,20,5,3,2,3,1,6,7
+376,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,57,2,3,3,4,3,3,3
+377,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,48,4,2,4,10,5,3,5
+378,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,4,2,3,9,1,7,7
+379,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,55,5,1,3,8,1,7,7
+380,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,16,5,1,5,5,3,2,6
+381,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,3,6,3,9,3,5,5
+382,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,54,3,2,3,7,5,7,5
+383,Had COVID,Female,White,Not Hispanic or Latino/A,24,3,2,2,6,3,4,5
+384,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,19,5,3,6,7,2,7,7
+385,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,2,3,3,8,4,6,4
+386,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,20,3,4,1,6,1,3,5
+387,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,37,5,2,5,4,3,7,5
+388,Hasn't had COVID,Male,White,Hispanic or Latino/A,40,5,8,6,4,1,4,6
+389,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,5,4,3,5,2,2,6
+390,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,49,4,5,4,10,4,5,7
+391,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,14,5,4,5,10,5,7,7
+392,Had COVID,Male,Asian,Not Hispanic or Latino/A,24,5,6,2,3,1,5,7
+393,Hasn't had COVID,Male,White,Hispanic or Latino/A,59,5,6,2,6,5,4,7
+394,Had COVID,Male,White,Not Hispanic or Latino/A,45,2,1,5,4,5,2,3
+395,Hasn't had COVID,Male,White,Hispanic or Latino/A,55,2,1,4,6,4,3,3
+396,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,58,3,3,6,5,3,5,4
+397,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,62,5,8,2,6,2,4,7
+398,Had COVID,Male,White,Not Hispanic or Latino/A,56,1,3,3,7,1,7,3
+399,Hasn't had COVID,Female,White,Hispanic or Latino/A,51,5,6,4,9,1,7,7
+400,Had COVID,Male,White,Not Hispanic or Latino/A,33,4,5,4,7,5,4,6
+401,Had COVID,Male,White,Not Hispanic or Latino/A,36,3,3,1,6,4,5,5
+402,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,45,2,4,4,8,3,7,3
+403,Hasn't had COVID,Male,Other,Hispanic or Latino/A,45,3,6,3,8,3,3,5
+404,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,5,5,4,9,1,5,7
+405,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,1,4,2,8,2,5,3
+406,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,5,2,4,8,5,2,7
+407,Had COVID,Male,White,Not Hispanic or Latino/A,27,4,4,5,7,5,5,6
+408,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,3,5,4,10,2,6,6
+409,Hasn't had COVID,Female,White,Hispanic or Latino/A,43,4,2,4,8,3,2,6
+410,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,5,2,6,5,2,4,6
+411,Hasn't had COVID,Male,White,Hispanic or Latino/A,51,5,1,4,10,3,7,7
+412,Had COVID,Male,White,Not Hispanic or Latino/A,37,5,6,4,2,3,7,6
+413,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,43,4,1,5,4,2,7,5
+414,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,2,4,1,7,1,7,4
+415,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,26,5,7,2,10,4,7,7
+416,Had COVID,Female,White,Not Hispanic or Latino/A,25,5,3,2,9,3,6,7
+417,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,5,4,2,9,3,7,7
+418,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,4,4,3,7,3,5,5
+419,Had COVID,Male,White,Not Hispanic or Latino/A,51,4,5,1,7,4,6,7
+420,Hasn't had COVID,Female,White,Hispanic or Latino/A,61,3,7,7,10,3,3,5
+421,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,43,5,5,1,8,2,3,7
+422,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,46,3,4,3,8,2,7,6
+423,Hasn't had COVID,Male,White,Hispanic or Latino/A,7,5,1,2,9,3,5,7
+424,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,39,3,3,7,6,1,3,4
+425,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,5,4,2,5,1,4,7
+426,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,62,3,3,1,8,3,7,6
+427,Hasn't had COVID,Female,White,Hispanic or Latino/A,37,4,4,3,6,4,5,6
+428,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,39,5,3,4,8,5,3,7
+429,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,20,5,1,2,6,2,7,7
+430,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,17,2,3,2,10,3,7,4
+431,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,5,5,3,4,2,4,6
+432,Hasn't had COVID,Female,White,Hispanic or Latino/A,73,4,4,4,8,1,7,7
+433,Had COVID,Female,White,Not Hispanic or Latino/A,38,5,3,4,3,4,2,6
+434,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,4,5,1,3,4,5,5
+435,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,25,5,9,3,10,4,7,7
+436,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,23,5,2,3,10,5,5,7
+437,Had COVID,Female,Asian,Not Hispanic or Latino/A,29,2,4,3,5,2,5,4
+438,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,5,3,2,8,2,4,7
+439,Had COVID,Male,White,Not Hispanic or Latino/A,33,5,3,3,6,3,5,7
+440,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,36,5,4,4,4,5,6,5
+441,Had COVID,Male,White,Hispanic or Latino/A,31,4,3,7,10,2,7,7
+442,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,61,5,7,5,3,4,6,6
+443,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,4,6,5,3,2,7,5
+444,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,34,1,3,4,3,3,4,1
+445,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,52,4,6,5,4,1,7,6
+446,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,3,7,4,3,3,7,4
+447,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,11,5,5,1,8,4,5,7
+448,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,60,5,4,2,10,2,4,7
+449,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,48,5,4,4,10,5,6,7
+450,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,48,5,4,4,10,4,4,7
+451,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,5,9,2,3,2,5,6
+452,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,36,4,5,1,6,2,6,7
+453,Had COVID,Female,Asian,Hispanic or Latino/A,52,5,3,2,8,4,6,7
+454,Hasn't had COVID,Non-Binary or Transgender,Black or African American,Not Hispanic or Latino/A,49,5,7,1,8,4,7,7
+455,Hasn't had COVID,Female,White,Hispanic or Latino/A,28,4,3,2,7,4,6,6
+456,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,3,2,2,4,5,6,4
+457,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,4,2,2,9,3,7,7
+458,Hasn't had COVID,Male,White,Hispanic or Latino/A,27,3,2,1,10,5,7,6
+459,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,39,5,7,3,7,3,4,7
+460,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,23,2,2,1,8,5,7,4
+461,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,19,2,3,6,3,4,7,3
+462,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,51,5,3,3,6,1,5,7
+463,Had COVID,Male,White,Not Hispanic or Latino/A,61,4,3,1,10,3,7,7
+464,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,4,7,6,8,4,6,6
+465,Had COVID,Male,Asian,Hispanic or Latino/A,39,4,3,6,3,3,5,6
+466,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,17,5,2,4,10,3,7,7
+467,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,57,5,7,3,6,5,4,7
+468,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,61,4,7,5,7,4,6,6
+469,Had COVID,Male,White,Not Hispanic or Latino/A,29,1,6,4,10,3,5,4
+470,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,3,1,5,9,2,6,6
+471,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,31,4,2,5,7,1,4,6
+472,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,49,1,2,6,9,5,7,2
+473,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,36,5,2,4,9,3,7,7
+474,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,31,2,3,4,4,1,3,2
+475,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,46,4,4,2,7,2,6,6
+476,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,79,3,6,3,7,4,7,5
+477,Hasn't had COVID,Female,White,Hispanic or Latino/A,51,5,8,5,10,1,6,7
+478,Hasn't had COVID,Male,White,Hispanic or Latino/A,24,5,6,3,6,5,6,7
+479,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,5,2,2,4,1,2,5
+480,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,30,5,2,5,10,3,4,6
+481,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,1,5,3,2,2,5,2
+482,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,3,7,1,4,3,7,5
+483,Hasn't had COVID,Male,White,Hispanic or Latino/A,32,4,6,2,5,3,5,6
+484,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,5,2,3,6,3,5,7
+485,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,59,5,6,5,8,3,6,6
+486,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,24,5,4,3,4,5,3,6
+487,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,1,5,3,6,1,6,3
+488,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,48,4,3,1,6,3,3,6
+489,Had COVID,Male,Asian,Not Hispanic or Latino/A,26,5,4,1,5,3,4,7
+490,Hasn't had COVID,Female,White,Hispanic or Latino/A,44,3,1,1,5,1,3,5
+491,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,47,3,6,2,8,4,2,4
+492,Hasn't had COVID,Male,White,Hispanic or Latino/A,30,2,8,4,6,3,4,4
+493,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,1,5,3,4,2,4,2
+494,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,31,2,4,2,10,2,5,4
+495,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,51,5,3,1,4,2,4,7
+496,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,4,3,5,10,1,6,6
+497,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,48,2,5,9,8,1,7,3
+498,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,59,5,5,4,10,5,4,7
+499,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,2,1,3,4,5,7,3
+500,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,5,6,1,8,1,7,7
+501,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,22,2,3,2,6,5,1,4
+502,Hasn't had COVID,Female,Other,Hispanic or Latino/A,42,2,2,1,9,1,5,5
+503,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,49,2,1,2,5,2,7,3
+504,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,1,5,6,6,3,3,2
+505,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,21,2,8,3,8,1,4,4
+506,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,52,1,2,3,10,1,7,4
+507,Hasn't had COVID,Male,White,Hispanic or Latino/A,44,5,4,6,10,4,4,7
+508,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,57,4,2,3,10,4,7,7
+509,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,3,4,1,5,3,7,4
+510,Hasn't had COVID,Female,White,Hispanic or Latino/A,31,3,4,5,6,4,3,4
+511,Hasn't had COVID,Female,White,Hispanic or Latino/A,56,1,2,2,9,1,3,3
+512,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,1,3,5,10,1,5,3
+513,Hasn't had COVID,Female,White,Hispanic or Latino/A,32,4,7,4,5,1,6,6
+514,Hasn't had COVID,Female,White,Hispanic or Latino/A,59,5,5,2,7,2,4,7
+515,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,47,4,2,1,6,5,2,6
+516,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,75,5,5,2,5,4,7,7
+517,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,58,5,2,3,3,1,2,6
+518,Had COVID,Male,White,Not Hispanic or Latino/A,13,4,3,2,10,3,7,7
+519,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,63,3,4,3,4,4,5,4
+520,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,3,5,5,5,5,4,4
+521,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,12,2,5,2,7,1,6,3
+522,Hasn't had COVID,Female,White,Hispanic or Latino/A,37,2,1,2,6,4,7,4
+523,Had COVID,Female,Asian,Not Hispanic or Latino/A,10,3,4,5,7,5,7,5
+524,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,18,3,2,5,3,2,4,4
+525,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,36,3,4,3,5,1,2,5
+526,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,3,1,4,4,3,3,4
+527,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,58,5,3,3,4,4,7,5
+528,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,4,2,1,7,2,5,6
+529,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,47,5,2,4,10,2,5,7
+530,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,59,5,5,3,7,2,4,7
+531,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,44,1,7,1,2,5,5,2
+532,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,5,6,7,6,1,4,6
+533,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,37,4,4,1,8,1,6,7
+534,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,39,5,3,7,4,3,5,5
+535,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,5,5,2,10,3,2,6
+536,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,60,5,2,5,7,2,3,7
+537,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,12,5,5,4,6,3,4,6
+538,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,22,4,2,4,10,4,7,7
+539,Had COVID,Female,White,Not Hispanic or Latino/A,40,2,4,7,10,1,7,5
+540,Hasn't had COVID,Female,White,Hispanic or Latino/A,53,2,2,1,4,5,7,4
+541,Hasn't had COVID,Male,White,Hispanic or Latino/A,40,4,2,3,5,2,1,5
+542,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,5,4,4,6,4,5,7
+543,Hasn't had COVID,Female,White,Hispanic or Latino/A,47,2,3,3,4,5,6,3
+544,Hasn't had COVID,Male,White,Hispanic or Latino/A,68,5,3,1,5,2,7,7
+545,Had COVID,Male,White,Hispanic or Latino/A,38,4,5,6,1,3,7,5
+546,Had COVID,Female,White,Not Hispanic or Latino/A,53,4,5,2,2,2,3,5
+547,Had COVID,Female,Black or African American,Hispanic or Latino/A,20,5,3,1,9,3,5,7
+548,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,2,3,5,9,3,5,4
+549,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,23,1,1,3,9,4,6,2
+550,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,5,8,1,3,2,4,7
+551,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,6,2,4,5,7,2,4,3
+552,Had COVID,Male,Other,Hispanic or Latino/A,27,5,6,6,10,3,4,7
+553,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,44,2,4,4,6,2,6,3
+554,Had COVID,Male,Asian,Hispanic or Latino/A,70,2,5,1,10,4,5,6
+555,Had COVID,Male,Asian,Hispanic or Latino/A,41,5,2,7,10,1,7,7
+556,Hasn't had COVID,Male,White,Hispanic or Latino/A,52,3,1,5,5,1,7,5
+557,Hasn't had COVID,Female,White,Hispanic or Latino/A,38,2,2,4,6,1,7,4
+558,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,12,4,6,2,5,4,7,6
+559,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,54,4,3,4,4,4,7,4
+560,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,2,1,7,4,2,7,3
+561,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,1,6,1,5,1,5,3
+562,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,32,3,3,5,7,1,7,4
+563,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,42,5,4,1,6,2,7,6
+564,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,3,2,2,5,5,5,4
+565,Had COVID,Male,White,Not Hispanic or Latino/A,36,5,4,1,10,2,7,7
+566,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,53,3,4,5,3,5,7,3
+567,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,3,4,5,10,5,6,5
+568,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,47,3,4,3,10,1,6,6
+569,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,3,4,1,7,3,3,5
+570,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,21,3,7,1,7,3,5,5
+571,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,17,2,1,2,7,5,7,4
+572,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,3,7,3,7,3,6,5
+573,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,28,5,6,2,9,5,1,7
+574,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,52,3,6,1,9,5,5,5
+575,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,17,3,4,4,9,3,7,5
+576,Had COVID,Male,Asian,Hispanic or Latino/A,46,1,5,4,3,2,6,3
+577,Had COVID,Male,Other,Not Hispanic or Latino/A,42,3,7,6,3,5,6,4
+578,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,29,3,5,2,7,2,2,4
+579,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,2,4,2,5,1,7,3
+580,Hasn't had COVID,Male,White,Hispanic or Latino/A,35,2,4,2,2,3,5,3
+581,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,47,4,3,5,3,2,7,5
+582,Had COVID,Female,White,Not Hispanic or Latino/A,24,3,2,6,9,4,7,5
+583,Had COVID,Female,Asian,Not Hispanic or Latino/A,48,2,3,1,4,3,4,4
+584,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,51,1,4,4,5,3,4,3
+585,Hasn't had COVID,Male,White,Hispanic or Latino/A,39,5,5,2,8,5,5,7
+586,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,3,2,3,9,2,4,5
+587,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,2,5,7,6,5,3,3
+588,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,43,2,6,1,10,2,4,5
+589,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,37,4,9,3,10,3,5,7
+590,Had COVID,Female,White,Not Hispanic or Latino/A,31,5,2,5,10,4,5,7
+591,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,57,2,6,2,9,2,5,4
+592,Hasn't had COVID,Male,White,Hispanic or Latino/A,37,4,7,4,4,4,6,5
+593,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,51,2,4,7,2,1,4,2
+594,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,2,2,2,8,5,6,3
+595,Had COVID,Female,White,Not Hispanic or Latino/A,42,2,1,1,7,3,2,4
+596,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,24,3,5,4,9,2,5,6
+597,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,55,5,1,1,8,4,5,6
+598,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,28,5,8,1,6,2,7,7
+599,Hasn't had COVID,Female,White,Hispanic or Latino/A,40,3,2,1,7,3,4,5
+600,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,21,3,5,3,8,2,4,5
+601,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,49,3,2,2,6,5,5,5
+602,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,41,5,5,2,4,5,4,5
+603,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,5,6,4,10,4,7,7
+604,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,5,6,2,6,5,6,6
+605,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,5,5,4,6,2,6,7
+606,Had COVID,Female,White,Not Hispanic or Latino/A,16,5,1,2,7,2,7,7
+607,Had COVID,Male,White,Hispanic or Latino/A,63,5,7,2,10,3,7,7
+608,Hasn't had COVID,Male,White,Hispanic or Latino/A,20,2,5,7,4,5,5,3
+609,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,4,4,1,8,2,3,6
+610,Hasn't had COVID,Male,White,Hispanic or Latino/A,52,3,3,7,4,2,6,4
+611,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,28,3,7,7,7,2,5,4
+612,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,42,5,3,7,7,5,4,5
+613,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,3,1,2,4,2,4,4
+614,Had COVID,Female,White,Hispanic or Latino/A,37,1,5,3,10,3,5,4
+615,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,45,5,1,1,10,1,4,7
+616,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,36,5,2,4,4,5,5,5
+617,Had COVID,Male,Asian,Not Hispanic or Latino/A,38,5,4,1,4,1,7,7
+618,Had COVID,Male,White,Not Hispanic or Latino/A,34,5,7,3,7,3,4,7
+619,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,2,5,2,8,5,5,4
+620,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,67,1,7,2,6,3,7,2
+621,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,56,1,8,1,5,2,5,3
+622,Hasn't had COVID,Female,White,Hispanic or Latino/A,42,4,3,2,6,1,7,6
+623,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,68,3,3,3,9,2,1,5
+624,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,4,3,7,9,3,7,6
+625,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,62,1,1,2,7,1,6,2
+626,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,2,6,3,9,3,7,5
+627,Hasn't had COVID,Male,White,Hispanic or Latino/A,32,5,1,6,8,5,3,7
+628,Hasn't had COVID,Male,White,Hispanic or Latino/A,37,5,3,3,8,2,7,7
+629,Had COVID,Male,Other,Hispanic or Latino/A,53,5,2,2,5,4,1,6
+630,Hasn't had COVID,Female,White,Hispanic or Latino/A,29,1,5,4,2,1,7,2
+631,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,38,5,4,2,8,5,6,7
+632,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,5,2,5,8,1,6,6
+633,Had COVID,Female,White,Not Hispanic or Latino/A,38,4,3,1,5,2,7,6
+634,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,1,8,4,4,1,7,2
+635,Hasn't had COVID,Male,White,Hispanic or Latino/A,45,4,7,8,5,4,1,5
+636,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,31,2,4,3,5,2,7,3
+637,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,3,4,1,7,4,3,5
+638,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,3,6,2,7,4,5,5
+639,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,32,5,5,1,8,3,6,7
+640,Had COVID,Male,White,Not Hispanic or Latino/A,30,4,3,1,3,3,6,6
+641,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,2,2,2,5,4,7,4
+642,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,52,5,6,4,5,1,2,5
+643,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,5,4,4,5,3,7,7
+644,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,7,1,5,1,7,3,4,3
+645,Hasn't had COVID,Female,White,Hispanic or Latino/A,33,5,4,5,7,4,6,7
+646,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,5,4,2,10,5,7,7
+647,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,2,3,6,8,1,2,3
+648,Hasn't had COVID,Male,White,Hispanic or Latino/A,17,1,2,1,8,4,3,3
+649,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,26,3,7,1,5,3,5,4
+650,Hasn't had COVID,Female,White,Hispanic or Latino/A,44,5,4,2,7,1,7,7
+651,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,4,2,2,9,5,6,6
+652,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,5,7,5,4,3,7,6
+653,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,60,5,4,4,8,2,6,7
+654,Hasn't had COVID,Male,White,Hispanic or Latino/A,52,2,5,3,4,2,6,4
+655,Hasn't had COVID,Non-Binary or Transgender,Asian,Hispanic or Latino/A,41,3,6,1,9,3,3,6
+656,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,4,4,9,3,7,5
+657,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,51,5,5,4,8,5,2,7
+658,Hasn't had COVID,Female,White,Hispanic or Latino/A,33,2,4,3,8,5,6,4
+659,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,2,4,1,6,1,7,4
+660,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,51,2,3,1,3,3,5,3
+661,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,3,6,3,6,1,6,5
+662,Hasn't had COVID,Male,White,Hispanic or Latino/A,17,5,3,3,8,5,3,7
+663,Hasn't had COVID,Female,Other,Hispanic or Latino/A,62,5,3,5,9,3,5,7
+664,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,51,2,5,3,7,4,3,3
+665,Had COVID,Female,White,Not Hispanic or Latino/A,57,4,5,3,8,1,6,7
+666,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,41,4,2,1,8,5,5,5
+667,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,4,3,3,8,5,4,6
+668,Had COVID,Female,White,Not Hispanic or Latino/A,48,4,3,3,8,5,7,7
+669,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,23,5,7,6,10,5,7,7
+670,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,2,6,1,6,5,5,4
+671,Had COVID,Male,Other,Not Hispanic or Latino/A,53,3,3,3,5,5,7,5
+672,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,20,3,1,4,9,2,3,5
+673,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,28,3,7,4,8,3,2,5
+674,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,4,3,3,6,4,7,6
+675,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,23,1,3,2,7,4,2,3
+676,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,5,1,1,6,5,4,7
+677,Had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,17,5,1,7,4,2,6,6
+678,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,66,4,5,6,8,2,7,7
+679,Hasn't had COVID,Male,White,Hispanic or Latino/A,21,2,5,4,6,4,6,4
+680,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,49,2,1,5,8,1,3,3
+681,Had COVID,Female,Asian,Not Hispanic or Latino/A,34,5,5,1,4,2,7,7
+682,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,8,3,5,4,8,5,7,5
+683,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,54,4,5,1,6,5,6,6
+684,Hasn't had COVID,Female,White,Hispanic or Latino/A,43,3,1,1,5,4,6,5
+685,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,61,5,1,2,4,3,5,5
+686,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,23,3,2,3,6,3,7,5
+687,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,37,1,8,4,10,1,4,3
+688,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,36,1,7,7,8,2,4,1
+689,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,34,5,4,2,4,5,2,5
+690,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,2,4,1,2,5,7,3
+691,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,41,2,5,1,6,5,7,4
+692,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,59,2,3,1,6,5,7,4
+693,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,2,4,1,7,3,7,4
+694,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,49,2,7,1,10,1,4,5
+695,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,28,5,3,4,7,2,7,7
+696,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,2,1,6,7,5,3,3
+697,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,1,2,4,8,1,7,3
+698,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,30,5,1,6,6,4,4,7
+699,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,52,5,4,3,7,5,7,7
+700,Hasn't had COVID,Male,White,Hispanic or Latino/A,40,5,4,1,10,5,3,7
+701,Had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,8,3,3,2,5,1,5,5
+702,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,3,5,2,10,2,7,6
+703,Hasn't had COVID,Female,Other,Hispanic or Latino/A,67,2,3,3,10,2,5,4
+704,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,5,6,5,10,5,5,7
+705,Had COVID,Male,Asian,Not Hispanic or Latino/A,11,5,5,3,5,1,5,7
+706,Had COVID,Male,White,Not Hispanic or Latino/A,17,4,3,3,7,4,4,6
+707,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,37,3,4,5,10,4,7,5
+708,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,28,1,2,1,10,5,4,2
+709,Had COVID,Male,White,Not Hispanic or Latino/A,40,5,2,1,1,4,7,6
+710,Hasn't had COVID,Male,White,Hispanic or Latino/A,48,4,4,3,6,2,3,6
+711,Hasn't had COVID,Male,Other,Hispanic or Latino/A,28,5,2,3,7,3,4,7
+712,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,49,5,3,4,6,3,7,7
+713,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,53,5,2,1,8,3,6,7
+714,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,42,2,7,2,9,2,5,4
+715,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,27,4,6,2,5,5,7,6
+716,Had COVID,Female,White,Hispanic or Latino/A,38,1,8,5,5,2,2,2
+717,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,39,3,3,3,10,4,4,4
+718,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,30,3,2,2,10,5,4,6
+719,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,2,2,3,8,3,5,4
+720,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,33,2,3,1,5,3,7,4
+721,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,22,5,6,7,4,2,6,5
+722,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,2,6,3,7,2,7,4
+723,Had COVID,Female,White,Hispanic or Latino/A,28,2,5,4,10,1,4,5
+724,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,18,4,7,3,9,2,6,6
+725,Hasn't had COVID,Female,White,Hispanic or Latino/A,33,4,3,5,10,2,7,7
+726,Had COVID,Female,Black or African American,Hispanic or Latino/A,39,5,3,2,8,5,7,7
+727,Hasn't had COVID,Male,White,Hispanic or Latino/A,28,1,7,5,4,1,5,2
+728,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,45,5,3,4,4,3,2,6
+729,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,48,4,5,2,5,3,5,5
+730,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,5,6,2,8,3,3,7
+731,Had COVID,Male,White,Not Hispanic or Latino/A,50,3,6,6,5,4,5,4
+732,Had COVID,Male,White,Not Hispanic or Latino/A,75,3,1,4,6,3,4,5
+733,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,32,5,6,2,10,1,7,7
+734,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,5,6,5,5,5,2,6
+735,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,41,3,3,1,6,1,5,4
+736,Had COVID,Male,White,Not Hispanic or Latino/A,54,3,3,1,9,2,7,6
+737,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,1,3,4,2,4,1,1
+738,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,46,5,3,5,2,5,7,6
+739,Had COVID,Female,Asian,Not Hispanic or Latino/A,64,2,8,1,9,4,3,5
+740,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,26,4,6,1,4,4,5,5
+741,Hasn't had COVID,Female,White,Hispanic or Latino/A,15,2,2,4,6,2,5,4
+742,Hasn't had COVID,Male,White,Hispanic or Latino/A,52,5,3,3,5,3,6,7
+743,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,46,4,6,2,10,4,3,7
+744,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,71,4,7,4,4,3,6,5
+745,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,63,3,2,3,5,4,5,4
+746,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,2,3,7,10,3,5,4
+747,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,31,5,2,4,9,4,7,7
+748,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,33,5,3,2,4,3,7,6
+749,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,51,3,5,4,4,5,5,4
+750,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,19,3,4,2,8,2,7,6
+751,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,50,4,3,1,10,5,5,7
+752,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,5,6,6,3,5,4,6
+753,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,5,5,7,10,5,6,7
+754,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,69,5,6,3,7,5,7,7
+755,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,1,1,2,3,5,6,2
+756,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,2,4,2,5,3,2,3
+757,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,4,6,3,4,4,5,5
+758,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,15,4,1,4,8,3,6,6
+759,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,47,2,1,3,8,3,3,3
+760,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,25,2,5,2,10,1,7,5
+761,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,2,3,2,6,4,1,3
+762,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,46,5,5,4,10,3,6,7
+763,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,29,3,8,1,4,3,5,3
+764,Hasn't had COVID,Male,White,Hispanic or Latino/A,20,2,5,3,9,5,5,4
+765,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,5,6,3,7,2,7,6
+766,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,3,5,1,10,4,7,6
+767,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,19,5,5,3,8,3,6,6
+768,Had COVID,Male,White,Hispanic or Latino/A,42,3,2,5,6,3,5,5
+769,Had COVID,Male,White,Not Hispanic or Latino/A,39,3,6,1,8,2,5,6
+770,Had COVID,Female,Asian,Not Hispanic or Latino/A,30,5,5,3,5,2,3,7
+771,Had COVID,Female,White,Not Hispanic or Latino/A,31,2,4,4,5,4,6,4
+772,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,42,2,4,4,10,2,5,5
+773,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,3,2,7,4,5,7
+774,Had COVID,Female,Asian,Not Hispanic or Latino/A,34,5,8,1,5,2,5,7
+775,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,39,1,6,3,9,3,6,3
+776,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,48,4,3,2,3,1,2,5
+777,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,2,4,4,10,5,7,4
+778,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,4,5,5,9,3,4,6
+779,Had COVID,Male,White,Not Hispanic or Latino/A,47,3,5,2,1,5,7,4
+780,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,4,7,5,1,4,6
+781,Hasn't had COVID,Female,White,Hispanic or Latino/A,40,4,1,2,3,5,2,5
+782,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,1,3,3,9,3,4,3
+783,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,52,3,7,3,3,2,4,4
+784,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,21,5,4,5,5,3,6,7
+785,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,1,4,5,10,4,3,3
+786,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,3,4,3,6,1,6,5
+787,Had COVID,Female,White,Not Hispanic or Latino/A,67,3,7,2,9,2,3,6
+788,Hasn't had COVID,Female,White,Hispanic or Latino/A,24,2,3,5,5,3,7,4
+789,Hasn't had COVID,Female,White,Hispanic or Latino/A,27,2,5,4,10,5,6,5
+790,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,49,4,4,3,5,2,4,6
+791,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,50,1,8,2,10,1,1,3
+792,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,25,2,2,5,5,5,5,2
+793,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,3,4,2,5,3,7,5
+794,Hasn't had COVID,Female,White,Hispanic or Latino/A,52,1,2,2,10,4,3,3
+795,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,57,5,7,2,10,3,6,7
+796,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,24,1,4,2,3,1,7,3
+797,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,69,3,3,7,4,4,6,4
+798,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,4,4,6,8,1,2,6
+799,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,4,3,8,7,5,3,5
+800,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,34,5,4,1,6,5,7,6
+801,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,8,5,6,1,7,5
+802,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,44,5,2,4,9,1,3,7
+803,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,32,2,5,2,5,1,4,4
+804,Hasn't had COVID,Female,Other,Hispanic or Latino/A,24,5,7,4,10,1,7,7
+805,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,3,6,5,5,5,3,4
+806,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,32,2,4,1,7,3,2,3
+807,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,1,7,1,10,4,1,3
+808,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,66,1,3,5,7,1,3,2
+809,Had COVID,Female,White,Hispanic or Latino/A,31,5,2,4,6,5,7,7
+810,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,53,5,6,2,9,2,4,7
+811,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,1,2,3,4,4,4,2
+812,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,12,5,4,2,4,2,7,7
+813,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,2,4,1,4,4,7,4
+814,Had COVID,Female,White,Not Hispanic or Latino/A,33,3,5,3,4,4,2,4
+815,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,37,3,3,4,7,5,4,3
+816,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,4,4,4,7,2,6,6
+817,Hasn't had COVID,Female,White,Hispanic or Latino/A,9,4,7,2,4,2,6,6
+818,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,32,5,2,1,7,5,7,7
+819,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,5,4,1,10,3,1,7
+820,Hasn't had COVID,Male,White,Hispanic or Latino/A,45,4,1,2,5,2,2,6
+821,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,42,3,4,3,7,5,4,5
+822,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,4,4,2,8,5,3,6
+823,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,24,2,4,4,6,2,7,3
+824,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,30,2,3,4,9,5,6,4
+825,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,25,2,2,5,6,4,6,3
+826,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,4,3,4,6,5,7,6
+827,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,2,4,1,5,2,1,3
+828,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,53,2,6,3,5,5,7,3
+829,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,21,5,3,2,6,2,3,6
+830,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,44,1,5,3,6,5,4,2
+831,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,30,2,4,1,6,3,7,4
+832,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,25,3,6,3,7,5,1,5
+833,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,5,4,2,10,4,6,7
+834,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,1,4,4,10,2,6,4
+835,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,24,5,2,4,4,4,6,5
+836,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,3,3,2,9,4,5,6
+837,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,31,3,2,4,9,3,4,5
+838,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,56,3,5,2,8,2,6,5
+839,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,55,5,3,2,5,1,5,6
+840,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,67,3,4,6,4,2,4,3
+841,Hasn't had COVID,Female,White,Hispanic or Latino/A,23,5,5,1,10,5,6,7
+842,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,4,3,3,4,1,3,4
+843,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,2,3,2,8,1,6,4
+844,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,3,3,2,6,3,5,5
+845,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,52,3,4,3,3,4,2,4
+846,Hasn't had COVID,Female,White,Hispanic or Latino/A,20,2,1,4,6,3,3,3
+847,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,41,5,4,4,7,5,6,7
+848,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,5,5,2,8,3,6,7
+849,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,22,3,6,2,8,5,1,4
+850,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,46,5,3,3,10,2,3,7
+851,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,70,5,4,7,6,2,7,7
+852,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,73,4,3,1,9,1,5,7
+853,Hasn't had COVID,Female,White,Hispanic or Latino/A,27,3,4,2,4,2,4,5
+854,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,22,3,4,6,3,3,7,4
+855,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,24,5,4,5,9,1,3,7
+856,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,28,5,2,4,10,3,7,7
+857,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,67,5,2,1,10,3,7,7
+858,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,23,5,2,3,7,2,6,7
+859,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,29,4,4,3,9,5,7,5
+860,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,56,5,4,4,8,1,5,6
+861,Hasn't had COVID,Female,White,Hispanic or Latino/A,37,4,2,1,10,3,4,7
+862,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,2,6,4,7,5,7,4
+863,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,1,7,1,4,5,6,2
+864,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,3,5,1,6,3,6,5
+865,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,18,5,7,3,8,5,3,6
+866,Hasn't had COVID,Female,White,Hispanic or Latino/A,38,4,4,2,7,5,1,6
+867,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,4,2,2,6,5,6,6
+868,Hasn't had COVID,Female,White,Hispanic or Latino/A,22,5,3,4,10,1,7,7
+869,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,35,4,3,2,10,2,4,7
+870,Hasn't had COVID,Female,Other,Hispanic or Latino/A,44,1,4,3,6,5,4,2
+871,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,56,3,1,2,5,1,4,5
+872,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,41,5,5,1,7,4,7,7
+873,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,5,6,2,10,2,7,7
+874,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,51,5,2,5,9,2,7,7
+875,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,4,3,8,4,2,7
+876,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,32,5,2,1,6,5,7,7
+877,Had COVID,Male,White,Not Hispanic or Latino/A,54,3,5,4,8,3,7,5
+878,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,3,3,4,5,3,7,5
+879,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,56,5,6,3,10,5,7,7
+880,Hasn't had COVID,Female,White,Hispanic or Latino/A,9,3,5,4,10,3,6,6
+881,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,25,1,5,1,9,2,2,2
+882,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,24,1,2,3,7,5,4,3
+883,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,32,5,2,3,10,4,7,7
+884,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,26,3,3,5,8,1,4,4
+885,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,41,5,4,3,10,4,7,7
+886,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,5,3,2,8,1,7,7
+887,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,41,4,3,1,4,3,6,5
+888,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,40,3,4,3,6,4,5,5
+889,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,5,2,4,10,1,3,7
+890,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,37,4,2,3,10,2,6,6
+891,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,5,5,2,9,1,7,7
+892,Hasn't had COVID,Non-Binary or Transgender,Black or African American,Not Hispanic or Latino/A,40,3,4,2,5,5,7,4
+893,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,69,2,1,3,5,2,6,4
+894,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,57,4,2,6,9,3,7,6
+895,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,48,5,3,3,6,4,6,7
+896,Had COVID,Male,White,Not Hispanic or Latino/A,64,2,5,1,8,3,1,4
+897,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,71,5,2,2,6,4,4,7
+898,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,68,3,4,4,8,2,5,5
+899,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,4,2,3,10,2,4,6
+900,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,16,5,4,4,10,2,1,7
+901,Had COVID,Male,White,Not Hispanic or Latino/A,33,4,6,9,7,5,7,6
+902,Had COVID,Female,Asian,Not Hispanic or Latino/A,48,3,3,4,6,2,5,5
+903,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,4,2,7,3,6,7
+904,Had COVID,Male,White,Not Hispanic or Latino/A,42,1,6,2,10,3,4,4
+905,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,4,5,2,5,4,4,5
+906,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,1,9,5,10,4,7,3
+907,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,50,5,1,3,9,4,3,7
+908,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,34,4,2,4,3,4,5,4
+909,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,5,5,2,10,1,6,7
+910,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,51,5,5,1,8,2,7,7
+911,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,12,5,2,6,9,4,5,7
+912,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,2,7,2,6,2,7,4
+913,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,3,2,6,3,2,5,4
+914,Had COVID,Male,White,Not Hispanic or Latino/A,24,5,1,4,8,3,7,7
+915,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,3,4,4,7,4,4,5
+916,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,17,2,5,3,6,3,4,4
+917,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,5,3,1,6,4,7,7
+918,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,35,4,1,1,8,3,6,6
+919,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,44,5,5,3,8,2,3,6
+920,Hasn't had COVID,Male,White,Hispanic or Latino/A,60,3,6,5,6,5,1,4
+921,Hasn't had COVID,Female,White,Hispanic or Latino/A,48,3,5,5,8,5,4,5
+922,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,26,2,3,3,10,2,2,4
+923,Had COVID,Male,White,Hispanic or Latino/A,59,5,1,4,10,3,6,7
+924,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,4,5,1,7,3,5,6
+925,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,17,1,1,1,9,3,5,3
+926,Hasn't had COVID,Female,White,Hispanic or Latino/A,53,5,9,2,6,3,7,7
+927,Hasn't had COVID,Male,White,Hispanic or Latino/A,22,3,5,2,3,2,7,5
+928,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,1,8,5,4,3,4,2
+929,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,5,2,2,7,3,5,7
+930,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,4,5,1,10,2,6,7
+931,Had COVID,Female,White,Hispanic or Latino/A,52,5,1,3,6,2,7,7
+932,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,2,8,5,7,3,5,4
+933,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,42,2,4,7,6,2,7,2
+934,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,4,3,2,9,2,3,6
+935,Hasn't had COVID,Female,White,Hispanic or Latino/A,64,5,4,4,8,5,6,7
+936,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,20,2,1,3,7,1,7,3
+937,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,3,5,5,10,3,6,5
+938,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,5,5,5,3,4,7,6
+939,Had COVID,Female,White,Not Hispanic or Latino/A,34,3,2,4,6,3,7,5
+940,Had COVID,Female,Asian,Not Hispanic or Latino/A,53,2,4,1,6,3,7,5
+941,Had COVID,Male,White,Not Hispanic or Latino/A,24,5,5,1,8,5,7,7
+942,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,21,3,2,3,4,4,6,3
+943,Hasn't had COVID,Male,White,Hispanic or Latino/A,46,5,5,2,9,1,5,7
+944,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,27,5,4,2,4,4,7,7
+945,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,10,5,2,1,8,5,7,7
+946,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,53,3,2,6,8,2,2,5
+947,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,5,2,3,10,4,2,7
+948,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,48,5,1,3,6,5,3,6
+949,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,16,5,7,6,8,4,3,6
+950,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,46,5,6,3,7,3,7,6
+951,Hasn't had COVID,Female,White,Hispanic or Latino/A,15,5,5,1,6,5,7,7
+952,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,26,3,5,5,9,3,6,5
+953,Hasn't had COVID,Male,White,Hispanic or Latino/A,41,4,6,2,10,3,5,7
+954,Hasn't had COVID,Male,White,Hispanic or Latino/A,46,4,6,1,10,5,5,7
+955,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,43,5,2,2,6,3,3,7
+956,Had COVID,Male,White,Not Hispanic or Latino/A,16,4,3,6,8,5,7,6
+957,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,43,4,2,7,9,1,1,6
+958,Hasn't had COVID,Female,White,Hispanic or Latino/A,19,3,8,4,3,3,6,4
+959,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,47,5,6,4,9,2,5,7
+960,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,30,4,5,3,7,2,7,7
+961,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,52,5,4,1,9,2,7,7
+962,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,5,5,1,5,1,7,7
+963,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,49,5,6,6,3,4,4,6
+964,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,4,7,1,7,3,6,6
+965,Had COVID,Male,White,Not Hispanic or Latino/A,57,5,5,1,5,5,4,7
+966,Hasn't had COVID,Male,White,Hispanic or Latino/A,82,5,2,3,7,4,2,7
+967,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,1,4,5,8,3,4,2
+968,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,5,2,3,10,4,5,7
+969,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,3,6,1,9,3,7,6
+970,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,4,4,5,10,1,6,6
+971,Hasn't had COVID,Female,White,Hispanic or Latino/A,30,2,2,4,10,5,1,4
+972,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,63,5,5,5,10,1,6,6
+973,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,2,4,2,7,3,4,4
+974,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,43,3,4,4,6,1,7,4
+975,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,27,1,2,1,7,5,5,2
+976,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,67,2,1,5,5,3,7,3
+977,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,5,3,3,10,5,6,7
+978,Had COVID,Female,White,Not Hispanic or Latino/A,31,5,3,6,8,3,4,7
+979,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,2,4,1,6,2,7,4
+980,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,4,7,3,10,3,7,7
+981,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,12,5,5,1,9,5,5,7
+982,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,49,5,8,3,7,2,7,7
+983,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,39,2,4,3,5,5,4,3
+984,Hasn't had COVID,Male,White,Hispanic or Latino/A,19,4,1,1,8,1,6,7
+985,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,27,5,3,3,7,2,7,7
+986,Had COVID,Female,White,Hispanic or Latino/A,42,5,3,4,3,5,7,7
+987,Hasn't had COVID,Male,Other,Hispanic or Latino/A,45,3,7,4,10,4,7,5
+988,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,34,5,2,3,10,2,4,6
+989,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,2,2,4,10,1,7,5
+990,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,4,4,1,10,5,6,7
+991,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,5,4,2,10,4,5,7
+992,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,49,1,1,4,5,4,2,1
+993,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,2,4,2,9,4,3,4
+994,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,3,3,3,3,4,1,4
+995,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,18,4,4,3,9,5,5,5
+996,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,41,2,5,5,4,1,7,4
+997,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,5,5,1,10,3,4,7
+998,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,5,3,3,10,3,7,7
+999,Had COVID,Male,White,Not Hispanic or Latino/A,46,2,7,2,10,1,2,5
+1000,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,42,1,1,4,3,5,6,2
+1001,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,32,4,5,2,7,4,5,6
+1002,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,5,1,2,8,2,4,6
+1003,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,5,3,2,5,3,7,7
+1004,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,49,4,5,5,8,5,7,6
+1005,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,47,1,4,3,4,2,3,2
+1006,Hasn't had COVID,Male,Other,Hispanic or Latino/A,14,1,3,2,6,1,4,3
+1007,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,42,1,6,4,6,3,7,3
+1008,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,47,5,3,4,6,2,6,7
+1009,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,16,4,7,1,10,2,5,7
+1010,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,18,5,4,2,7,3,7,7
+1011,Had COVID,Female,White,Not Hispanic or Latino/A,26,4,8,3,7,3,5,6
+1012,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,3,3,4,6,5,7,5
+1013,Had COVID,Male,White,Hispanic or Latino/A,15,5,3,2,6,1,3,7
+1014,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,44,1,5,5,6,3,1,1
+1015,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,44,3,4,6,4,1,1,3
+1016,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,31,2,10,2,10,2,5,5
+1017,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,5,5,3,8,5,5,7
+1018,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,3,3,4,8,5,3,5
+1019,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,41,4,6,5,8,5,5,6
+1020,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,4,5,2,9,3,7,7
+1021,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,14,4,5,2,3,2,4,4
+1022,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,5,2,2,4,4,7,7
+1023,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,1,9,1,9,3,4,3
+1024,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,24,5,3,5,10,4,4,7
+1025,Had COVID,Male,White,Hispanic or Latino/A,58,3,5,3,6,5,5,5
+1026,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,38,5,4,5,10,5,5,7
+1027,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,40,4,5,2,5,3,6,5
+1028,Hasn't had COVID,Female,White,Hispanic or Latino/A,48,4,3,7,10,1,7,7
+1029,Had COVID,Female,Asian,Not Hispanic or Latino/A,30,3,3,2,5,1,4,5
+1030,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,28,3,5,2,4,4,3,5
+1031,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,28,5,1,4,4,4,1,6
+1032,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,16,5,6,5,5,2,3,5
+1033,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,61,5,2,4,5,5,7,7
+1034,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,41,5,4,1,5,3,4,7
+1035,Had COVID,Male,White,Not Hispanic or Latino/A,49,4,3,1,8,5,1,6
+1036,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,4,4,4,10,1,2,6
+1037,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,29,3,3,1,5,5,4,3
+1038,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,5,6,7,5,5,5,6
+1039,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,37,5,10,3,9,5,5,7
+1040,Had COVID,Female,White,Hispanic or Latino/A,27,3,1,5,7,3,7,5
+1041,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,5,6,3,5,1,7,7
+1042,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,28,1,2,1,7,4,6,2
+1043,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,2,7,6,7,4,4,3
+1044,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,56,4,3,4,7,3,6,6
+1045,Hasn't had COVID,Female,White,Hispanic or Latino/A,26,3,4,4,5,2,6,5
+1046,Had COVID,Female,White,Not Hispanic or Latino/A,62,3,3,2,6,1,7,5
+1047,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,71,5,5,1,4,5,3,6
+1048,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,52,2,2,1,5,4,5,4
+1049,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,4,7,8,7,5,7,5
+1050,Had COVID,Male,White,Not Hispanic or Latino/A,35,5,7,4,4,2,5,7
+1051,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,5,3,5,4,1,7,6
+1052,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,38,5,4,2,10,3,6,7
+1053,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,3,2,5,8,5,7,5
+1054,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,1,5,3,6,1,3,3
+1055,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,31,5,4,1,8,4,4,7
+1056,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,44,5,4,3,6,2,7,6
+1057,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,5,4,1,6,1,5,7
+1058,Hasn't had COVID,Female,White,Hispanic or Latino/A,11,5,9,4,7,5,5,7
+1059,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,5,8,3,8,1,6,7
+1060,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,29,4,9,4,2,2,5,4
+1061,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,44,3,6,3,7,5,5,5
+1062,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,5,3,3,6,1,5,7
+1063,Hasn't had COVID,Female,White,Hispanic or Latino/A,63,5,2,1,10,1,6,7
+1064,Had COVID,Female,White,Not Hispanic or Latino/A,71,4,3,3,5,4,4,6
+1065,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,24,3,4,5,8,5,6,5
+1066,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,3,7,1,10,3,3,6
+1067,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,37,5,4,5,5,3,7,6
+1068,Hasn't had COVID,Male,White,Hispanic or Latino/A,4,5,2,5,4,4,4,6
+1069,Hasn't had COVID,Non-Binary or Transgender,Black or African American,Not Hispanic or Latino/A,31,3,5,2,6,4,7,4
+1070,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,28,3,5,2,6,4,7,5
+1071,Had COVID,Male,Asian,Not Hispanic or Latino/A,28,4,2,1,10,2,7,7
+1072,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,57,5,2,5,7,2,5,7
+1073,Had COVID,Male,White,Not Hispanic or Latino/A,57,4,5,2,6,5,6,6
+1074,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,39,5,3,2,7,1,5,7
+1075,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,5,2,4,7,3,6,7
+1076,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,26,2,6,3,9,3,5,5
+1077,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,48,5,7,3,5,3,6,6
+1078,Had COVID,Female,Asian,Not Hispanic or Latino/A,11,5,4,4,10,3,4,7
+1079,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,4,3,2,7,4,3,6
+1080,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,2,4,2,7,1,2,4
+1081,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,2,4,3,8,2,7,4
+1082,Hasn't had COVID,Male,White,Hispanic or Latino/A,47,5,7,2,8,1,7,7
+1083,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,1,5,5,10,2,6,3
+1084,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,34,1,1,2,10,1,7,4
+1085,Had COVID,Female,White,Not Hispanic or Latino/A,25,4,3,2,5,3,4,6
+1086,Had COVID,Male,White,Hispanic or Latino/A,30,5,2,4,9,5,5,7
+1087,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,22,1,2,4,5,2,4,3
+1088,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,5,5,7,6,2,4,6
+1089,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,18,5,2,2,8,2,7,7
+1090,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,5,5,4,10,5,7,7
+1091,Had COVID,Female,White,Hispanic or Latino/A,26,4,1,3,2,5,5,5
+1092,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,31,4,2,6,6,3,4,4
+1093,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,48,5,3,1,9,2,6,7
+1094,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,50,2,3,1,10,3,6,5
+1095,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,19,5,4,4,5,1,6,6
+1096,Had COVID,Female,White,Not Hispanic or Latino/A,24,5,3,5,7,1,7,7
+1097,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,67,2,4,2,5,5,5,4
+1098,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,17,1,3,2,7,3,7,3
+1099,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,40,1,3,6,6,3,7,3
+1100,Had COVID,Male,White,Not Hispanic or Latino/A,58,1,7,3,8,2,4,3
+1101,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,5,4,6,9,5,6,7
+1102,Hasn't had COVID,Female,White,Hispanic or Latino/A,20,4,7,2,3,3,7,6
+1103,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,4,2,3,10,4,7,7
+1104,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,65,3,5,1,5,3,6,5
+1105,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,5,1,2,9,5,7,7
+1106,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,55,5,2,4,5,3,4,5
+1107,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,47,4,6,2,2,3,2,5
+1108,Had COVID,Male,Asian,Not Hispanic or Latino/A,31,2,1,7,4,5,4,3
+1109,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,64,5,1,1,7,2,4,7
+1110,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,32,4,9,5,8,3,5,5
+1111,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,8,2,3,3,4,5,6,2
+1112,Hasn't had COVID,Female,White,Hispanic or Latino/A,41,4,2,3,8,3,4,6
+1113,Hasn't had COVID,Female,White,Hispanic or Latino/A,50,2,6,6,10,4,5,4
+1114,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,1,5,5,5,1,3,2
+1115,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,44,3,3,5,10,5,4,4
+1116,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,31,4,4,3,8,3,7,6
+1117,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,62,4,2,2,9,5,7,5
+1118,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,27,4,8,5,9,1,7,5
+1119,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,67,3,4,2,10,3,2,6
+1120,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,24,5,4,4,9,2,7,7
+1121,Hasn't had COVID,Female,White,Hispanic or Latino/A,34,5,1,4,9,3,6,7
+1122,Had COVID,Female,White,Not Hispanic or Latino/A,22,1,4,3,6,3,4,3
+1123,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,4,1,4,5,5,6,5
+1124,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,4,6,3,5,4,2,5
+1125,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,54,3,3,4,3,3,7,4
+1126,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,44,5,3,3,10,2,7,7
+1127,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,5,5,4,9,1,5,7
+1128,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,29,4,4,4,6,3,7,6
+1129,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,2,4,4,5,5,7,3
+1130,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,44,4,1,2,6,5,7,6
+1131,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,3,4,1,8,5,4,5
+1132,Hasn't had COVID,Male,White,Hispanic or Latino/A,21,3,1,6,6,5,7,4
+1133,Hasn't had COVID,Male,White,Hispanic or Latino/A,42,3,2,4,5,4,4,4
+1134,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,37,5,2,6,8,5,6,7
+1135,Hasn't had COVID,Female,White,Hispanic or Latino/A,19,1,1,3,8,3,7,3
+1136,Hasn't had COVID,Female,White,Hispanic or Latino/A,48,5,2,3,7,5,7,7
+1137,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,23,5,2,4,5,4,4,6
+1138,Had COVID,Male,Other,Hispanic or Latino/A,31,1,2,1,8,2,4,3
+1139,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,31,3,5,5,6,3,6,5
+1140,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,23,5,2,3,5,4,7,6
+1141,Had COVID,Male,White,Not Hispanic or Latino/A,34,5,3,2,7,1,4,7
+1142,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,5,3,4,10,3,6,7
+1143,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,5,3,3,7,1,6,7
+1144,Had COVID,Female,Black or African American,Hispanic or Latino/A,25,2,5,2,10,5,4,4
+1145,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,4,7,1,7,3,3,6
+1146,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,5,1,5,5,5,5,6
+1147,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,38,4,5,1,7,3,1,6
+1148,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,26,2,4,3,7,4,4,4
+1149,Hasn't had COVID,Female,Other,Hispanic or Latino/A,16,2,6,4,6,4,5,3
+1150,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,43,3,6,1,4,2,2,3
+1151,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,35,4,5,1,10,3,4,7
+1152,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,44,3,4,6,10,4,7,4
+1153,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,4,4,2,4,3,7,6
+1154,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,4,1,2,10,1,5,7
+1155,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,33,2,6,3,2,3,2,2
+1156,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,21,4,4,1,9,3,5,7
+1157,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,3,4,6,1,3,4
+1158,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,66,4,3,6,8,3,5,6
+1159,Hasn't had COVID,Female,White,Hispanic or Latino/A,56,5,7,6,8,2,7,7
+1160,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,60,3,6,1,9,5,4,6
+1161,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,3,4,8,9,3,7,5
+1162,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,23,4,3,1,5,4,6,6
+1163,Hasn't had COVID,Male,White,Hispanic or Latino/A,27,1,4,1,10,3,7,4
+1164,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,49,5,4,4,2,3,6,6
+1165,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,63,5,5,5,7,3,1,5
+1166,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,37,5,3,5,9,3,7,7
+1167,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,1,1,3,10,5,4,3
+1168,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,25,2,5,3,8,1,2,3
+1169,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,2,7,2,8,1,6,5
+1170,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,55,4,3,3,6,1,6,6
+1171,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,4,3,5,8,5,7,6
+1172,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,4,6,2,5,4,4,6
+1173,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,48,1,4,4,10,3,3,3
+1174,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,63,5,1,3,5,1,6,6
+1175,Hasn't had COVID,Female,White,Hispanic or Latino/A,52,4,3,3,8,4,7,6
+1176,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,32,3,2,6,7,3,7,5
+1177,Hasn't had COVID,Female,White,Hispanic or Latino/A,68,3,5,6,8,4,4,5
+1178,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,64,1,1,5,8,3,7,3
+1179,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,23,5,5,5,1,5,7,6
+1180,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,4,1,6,10,3,6,6
+1181,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,40,2,3,6,7,4,5,4
+1182,Had COVID,Female,Black or African American,Hispanic or Latino/A,32,4,4,1,9,5,5,6
+1183,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,10,1,5,1,8,2,6,2
+1184,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,3,4,5,6,1,6,5
+1185,Had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,5,7,5,7,5,7,6
+1186,Hasn't had COVID,Male,White,Hispanic or Latino/A,67,5,4,1,3,3,5,7
+1187,Had COVID,Male,White,Hispanic or Latino/A,37,4,5,5,3,4,7,5
+1188,Had COVID,Female,White,Not Hispanic or Latino/A,26,2,4,3,5,2,7,4
+1189,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,2,5,3,3,2,4,3
+1190,Hasn't had COVID,Male,White,Hispanic or Latino/A,67,3,4,4,10,1,5,6
+1191,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,33,1,3,3,6,2,5,3
+1192,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,16,5,9,2,7,5,7,6
+1193,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,4,1,6,2,7,5
+1194,Hasn't had COVID,Male,White,Hispanic or Latino/A,57,3,5,1,7,3,4,5
+1195,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,15,5,5,3,5,4,6,7
+1196,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,52,4,4,4,7,5,6,5
+1197,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,53,5,4,1,4,5,7,6
+1198,Had COVID,Male,White,Not Hispanic or Latino/A,34,3,2,2,8,4,7,6
+1199,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,15,5,1,2,9,4,2,7
+1200,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,5,4,3,9,3,7,7
+1201,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,67,4,1,3,1,1,7,6
+1202,Hasn't had COVID,Female,White,Hispanic or Latino/A,50,3,5,2,7,5,7,5
+1203,Had COVID,Female,White,Not Hispanic or Latino/A,37,1,4,2,5,5,7,3
+1204,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,16,2,6,6,5,1,7,3
+1205,Had COVID,Female,Black or African American,Hispanic or Latino/A,23,3,7,5,5,4,7,4
+1206,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,55,3,8,1,9,3,7,6
+1207,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,39,5,7,3,8,5,6,7
+1208,Hasn't had COVID,Female,White,Hispanic or Latino/A,66,2,3,1,10,5,6,5
+1209,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,46,4,2,5,8,2,3,5
+1210,Hasn't had COVID,Male,White,Hispanic or Latino/A,52,5,2,2,8,3,7,7
+1211,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,49,5,3,3,8,2,4,7
+1212,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,67,4,5,3,10,4,7,7
+1213,Had COVID,Female,White,Hispanic or Latino/A,56,3,4,4,6,2,3,5
+1214,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,37,3,5,4,7,4,5,5
+1215,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,22,5,3,4,8,3,7,7
+1216,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,26,5,4,5,7,2,5,7
+1217,Had COVID,Male,Asian,Hispanic or Latino/A,43,2,2,3,10,2,7,6
+1218,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,46,5,7,4,5,3,5,7
+1219,Hasn't had COVID,Male,White,Hispanic or Latino/A,41,3,1,2,4,2,2,4
+1220,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,24,2,5,3,8,3,5,3
+1221,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,69,4,3,1,10,1,4,7
+1222,Hasn't had COVID,Female,White,Hispanic or Latino/A,36,1,4,4,10,4,5,3
+1223,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,4,5,6,2,6,1,2,7
+1224,Had COVID,Female,Other,Hispanic or Latino/A,9,5,1,3,9,1,5,7
+1225,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,31,5,5,2,9,1,6,7
+1226,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,47,2,5,5,9,5,7,4
+1227,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,5,4,2,9,4,7,7
+1228,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,18,4,2,4,9,1,5,5
+1229,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,51,4,3,5,4,3,4,5
+1230,Had COVID,Male,White,Not Hispanic or Latino/A,38,2,2,5,4,1,5,3
+1231,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,2,4,4,5,5,7,3
+1232,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,45,2,5,7,5,3,2,3
+1233,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,2,4,7,3,6,7
+1234,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,3,3,2,10,1,6,6
+1235,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,14,4,6,5,5,2,5,6
+1236,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,3,7,3,5,2,2,4
+1237,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,4,7,4,5,1,5,4
+1238,Had COVID,Female,Other,Not Hispanic or Latino/A,34,2,2,3,8,5,7,4
+1239,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,43,2,6,1,9,3,6,4
+1240,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,50,1,2,3,5,5,4,3
+1241,Hasn't had COVID,Male,White,Hispanic or Latino/A,24,1,8,4,4,2,7,3
+1242,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,27,3,2,3,10,4,7,5
+1243,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,4,1,1,8,2,3,6
+1244,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,26,5,5,4,7,3,7,7
+1245,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,4,1,2,8,5,7,6
+1246,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,1,3,2,7,4,4,3
+1247,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,49,3,6,6,10,5,5,5
+1248,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,22,5,6,6,4,5,7,6
+1249,Hasn't had COVID,Female,White,Hispanic or Latino/A,22,3,5,4,7,2,6,5
+1250,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,3,9,1,10,5,7,6
+1251,Hasn't had COVID,Female,White,Hispanic or Latino/A,35,1,4,3,4,4,7,3
+1252,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,56,2,5,2,6,2,3,3
+1253,Hasn't had COVID,Male,White,Hispanic or Latino/A,59,1,3,2,10,4,3,3
+1254,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,46,5,4,3,5,2,5,7
+1255,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,3,5,1,8,5,6,5
+1256,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,2,9,1,6,4,7,4
+1257,Had COVID,Male,Other,Not Hispanic or Latino/A,33,5,5,4,9,2,7,7
+1258,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,12,5,3,7,5,3,2,6
+1259,Hasn't had COVID,Male,White,Hispanic or Latino/A,25,3,2,5,10,5,3,5
+1260,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,34,5,1,2,3,5,7,7
+1261,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,18,3,3,5,6,4,6,5
+1262,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,31,2,4,4,3,5,2,3
+1263,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,17,1,7,4,6,2,7,2
+1264,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,3,1,3,9,3,7,5
+1265,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,36,1,6,3,10,3,6,2
+1266,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,4,4,3,8,1,4,5
+1267,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,46,4,2,3,6,1,7,6
+1268,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,4,2,1,6,2,4,6
+1269,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,7,3,2,2,6,1,6,5
+1270,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,50,4,4,2,2,5,7,5
+1271,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,34,1,6,3,8,3,5,2
+1272,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,43,4,2,3,9,3,2,6
+1273,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,32,4,3,5,4,4,7,6
+1274,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,39,3,3,2,9,5,5,6
+1275,Hasn't had COVID,Female,White,Hispanic or Latino/A,64,3,4,1,5,3,2,5
+1276,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,22,4,6,2,8,4,6,6
+1277,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,17,5,6,3,5,1,3,5
+1278,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,28,5,7,3,5,1,7,6
+1279,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,5,5,3,8,1,4,7
+1280,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,2,4,1,3,5,7,3
+1281,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,35,3,4,3,7,2,7,4
+1282,Had COVID,Male,White,Not Hispanic or Latino/A,40,2,4,4,10,4,3,4
+1283,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,42,3,2,5,9,5,3,5
+1284,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,4,6,4,5,1,3,5
+1285,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,3,5,5,10,1,7,6
+1286,Had COVID,Male,Asian,Hispanic or Latino/A,49,1,3,1,6,5,4,3
+1287,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,4,7,4,10,4,5,6
+1288,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,40,3,5,3,6,5,6,5
+1289,Had COVID,Female,Asian,Not Hispanic or Latino/A,60,4,5,3,9,4,7,7
+1290,Had COVID,Female,Other,Not Hispanic or Latino/A,41,3,4,3,9,2,7,6
+1291,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,47,5,5,4,8,2,5,7
+1292,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,32,3,5,6,6,5,6,4
+1293,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,30,3,5,7,4,5,7,4
+1294,Had COVID,Male,Asian,Hispanic or Latino/A,33,5,3,2,6,1,7,7
+1295,Had COVID,Male,White,Not Hispanic or Latino/A,60,4,6,2,8,5,5,6
+1296,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,49,2,6,6,7,1,3,3
+1297,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,55,2,3,3,4,4,5,2
+1298,Had COVID,Female,Asian,Hispanic or Latino/A,68,5,5,2,5,1,6,7
+1299,Hasn't had COVID,Female,White,Hispanic or Latino/A,65,2,2,6,9,1,5,4
+1300,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,4,2,3,9,1,6,7
+1301,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,4,5,5,3,3,5,5
+1302,Hasn't had COVID,Male,White,Hispanic or Latino/A,42,5,7,1,7,2,4,7
+1303,Hasn't had COVID,Male,White,Hispanic or Latino/A,16,5,7,3,4,5,2,6
+1304,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,59,3,7,1,6,1,7,4
+1305,Hasn't had COVID,Female,White,Hispanic or Latino/A,29,5,2,1,6,4,4,7
+1306,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,2,5,3,8,2,2,4
+1307,Hasn't had COVID,Male,White,Hispanic or Latino/A,38,4,4,3,3,5,5,5
+1308,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,34,1,6,7,7,3,6,2
+1309,Hasn't had COVID,Female,White,Hispanic or Latino/A,25,5,6,1,2,1,3,6
+1310,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,55,3,1,4,7,2,3,4
+1311,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,5,2,5,6,3,7,7
+1312,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,5,4,1,5,3,3,7
+1313,Had COVID,Male,White,Not Hispanic or Latino/A,31,3,2,3,8,5,7,5
+1314,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,3,4,3,5,2,3,4
+1315,Hasn't had COVID,Female,White,Hispanic or Latino/A,21,3,5,3,9,4,1,5
+1316,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,32,2,5,2,5,5,6,3
+1317,Had COVID,Female,Asian,Not Hispanic or Latino/A,36,4,4,1,8,5,6,7
+1318,Had COVID,Male,White,Hispanic or Latino/A,29,4,6,2,9,2,4,7
+1319,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,56,1,4,4,5,5,5,2
+1320,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,20,5,3,3,6,1,5,7
+1321,Hasn't had COVID,Female,White,Hispanic or Latino/A,44,4,4,2,8,5,3,6
+1322,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,4,4,3,4,1,3,5
+1323,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,30,2,2,1,9,3,5,3
+1324,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,21,4,3,3,9,4,5,6
+1325,Hasn't had COVID,Non-Binary or Transgender,Asian,Hispanic or Latino/A,47,1,3,3,10,4,4,4
+1326,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,31,2,5,4,5,5,4,3
+1327,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,35,3,3,4,6,1,6,5
+1328,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,5,6,1,6,4,6,7
+1329,Hasn't had COVID,Male,White,Hispanic or Latino/A,75,3,5,3,7,5,6,5
+1330,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,42,3,2,2,10,3,7,5
+1331,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,12,4,7,8,10,3,6,5
+1332,Had COVID,Female,Other,Not Hispanic or Latino/A,53,2,6,3,8,4,6,4
+1333,Had COVID,Female,White,Not Hispanic or Latino/A,13,5,5,6,9,5,2,7
+1334,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,2,4,1,7,5,4,4
+1335,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,28,3,3,3,6,4,3,3
+1336,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,5,1,4,7,1,3,7
+1337,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,60,4,7,1,9,2,6,7
+1338,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,48,5,5,3,8,4,7,7
+1339,Had COVID,Female,Other,Not Hispanic or Latino/A,38,4,3,2,8,5,5,6
+1340,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,10,5,3,1,5,3,7,6
+1341,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,35,5,3,3,5,4,4,6
+1342,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,49,3,6,3,6,3,7,5
+1343,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,20,4,3,1,8,5,1,6
+1344,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,35,5,3,5,10,2,4,7
+1345,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,4,3,4,8,2,3,6
+1346,Hasn't had COVID,Non-Binary or Transgender,Asian,Hispanic or Latino/A,35,2,4,2,8,5,5,5
+1347,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,3,7,3,7,4,5,4
+1348,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,47,5,4,5,7,3,4,7
+1349,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,52,3,10,2,8,1,6,6
+1350,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,58,4,2,1,3,5,7,5
+1351,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,7,5,5,1,7,7
+1352,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,18,5,3,7,10,2,7,7
+1353,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,55,2,3,1,10,1,3,5
+1354,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,38,2,1,3,8,4,6,4
+1355,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,5,1,5,7,5,7,7
+1356,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,5,5,4,9,2,7,7
+1357,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,5,8,3,9,5,7,7
+1358,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,5,3,5,8,3,7,7
+1359,Hasn't had COVID,Male,White,Hispanic or Latino/A,61,5,3,4,10,1,7,7
+1360,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,5,2,3,8,5,7,7
+1361,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,44,4,4,2,6,3,1,5
+1362,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,4,8,1,10,2,7,6
+1363,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,54,3,4,3,8,1,7,5
+1364,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,12,5,4,1,5,2,7,7
+1365,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,5,4,3,8,5,5,7
+1366,Had COVID,Male,White,Not Hispanic or Latino/A,55,2,6,4,5,2,7,4
+1367,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,10,4,4,3,6,4,7,6
+1368,Hasn't had COVID,Female,White,Hispanic or Latino/A,35,5,4,2,6,1,5,7
+1369,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,31,5,3,2,9,5,5,6
+1370,Had COVID,Female,White,Hispanic or Latino/A,23,4,5,3,8,2,6,7
+1371,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,45,5,4,4,7,3,4,6
+1372,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,5,7,4,7,2,4,7
+1373,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,25,4,5,4,6,5,7,5
+1374,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,5,6,4,7,4,7,7
+1375,Had COVID,Male,Other,Hispanic or Latino/A,38,2,1,1,10,1,6,5
+1376,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,57,4,4,3,9,2,6,7
+1377,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,43,5,5,2,6,5,2,6
+1378,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,35,4,3,1,6,2,4,6
+1379,Hasn't had COVID,Female,White,Hispanic or Latino/A,53,4,9,4,4,2,4,5
+1380,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,49,5,4,2,7,2,6,6
+1381,Had COVID,Female,White,Not Hispanic or Latino/A,59,3,6,2,6,1,6,5
+1382,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,2,5,5,6,5,3,3
+1383,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,19,5,7,4,4,4,7,6
+1384,Had COVID,Female,White,Not Hispanic or Latino/A,19,5,3,4,7,5,6,7
+1385,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,47,5,5,5,7,3,5,7
+1386,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,28,5,1,5,10,5,7,7
+1387,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,5,3,3,6,1,7,6
+1388,Had COVID,Female,White,Not Hispanic or Latino/A,35,5,4,4,7,5,7,7
+1389,Hasn't had COVID,Male,White,Hispanic or Latino/A,44,1,4,1,10,1,5,4
+1390,Had COVID,Male,Asian,Hispanic or Latino/A,44,3,4,2,9,5,5,6
+1391,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,55,3,2,3,4,1,7,5
+1392,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,41,5,3,5,10,3,5,6
+1393,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,29,5,3,3,4,2,4,6
+1394,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,38,3,4,4,6,1,6,5
+1395,Had COVID,Male,Other,Hispanic or Latino/A,47,5,5,2,8,3,7,7
+1396,Hasn't had COVID,Female,White,Hispanic or Latino/A,31,1,5,5,4,1,7,2
+1397,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,24,3,4,2,4,4,3,4
+1398,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,53,4,3,3,8,1,7,6
+1399,Had COVID,Male,White,Not Hispanic or Latino/A,23,4,1,3,9,3,7,7
+1400,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,43,4,4,4,7,5,4,6
+1401,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,39,4,6,3,3,3,7,5
+1402,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,28,2,4,1,3,2,6,4
+1403,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,70,5,3,3,3,5,7,5
+1404,Hasn't had COVID,Non-Binary or Transgender,White,Hispanic or Latino/A,12,3,8,2,7,5,4,5
+1405,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,3,1,9,5,5,7
+1406,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,46,5,8,2,5,4,3,6
+1407,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,30,4,4,3,6,3,4,6
+1408,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,67,3,6,2,10,4,7,5
+1409,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,41,5,2,5,10,5,5,7
+1410,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,47,5,1,1,10,3,7,7
+1411,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,29,2,6,1,7,3,5,5
+1412,Hasn't had COVID,Female,White,Hispanic or Latino/A,52,5,6,1,4,2,7,7
+1413,Had COVID,Female,White,Not Hispanic or Latino/A,29,3,1,3,8,1,7,6
+1414,Had COVID,Female,Other,Not Hispanic or Latino/A,27,1,2,6,8,3,3,2
+1415,Hasn't had COVID,Female,White,Hispanic or Latino/A,41,5,4,2,10,1,5,7
+1416,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,37,5,3,6,7,2,7,6
+1417,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,53,2,2,1,5,2,6,4
+1418,Hasn't had COVID,Female,White,Hispanic or Latino/A,28,1,3,2,3,2,3,2
+1419,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,43,5,1,4,8,2,7,6
+1420,Had COVID,Female,White,Not Hispanic or Latino/A,17,2,6,2,8,3,4,4
+1421,Hasn't had COVID,Male,White,Hispanic or Latino/A,22,3,6,6,2,2,7,4
+1422,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,1,3,6,3,3,6,2
+1423,Hasn't had COVID,Male,White,Hispanic or Latino/A,31,4,6,2,9,5,4,6
+1424,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,4,3,4,8,3,5,6
+1425,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,3,9,4,7,1,5,5
+1426,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,29,5,2,6,3,2,7,5
+1427,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,29,5,1,2,6,3,3,6
+1428,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,31,4,3,2,7,4,3,5
+1429,Had COVID,Male,Asian,Not Hispanic or Latino/A,56,4,5,3,10,2,2,7
+1430,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,26,5,5,6,4,3,5,5
+1431,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,22,5,7,1,6,5,3,7
+1432,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,32,3,7,3,4,5,4,3
+1433,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,37,3,4,6,5,4,1,4
+1434,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,30,4,5,3,8,4,2,6
+1435,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,49,3,4,1,2,5,2,3
+1436,Had COVID,Female,Asian,Not Hispanic or Latino/A,22,5,8,2,6,5,4,7
+1437,Had COVID,Female,White,Hispanic or Latino/A,33,4,3,3,10,2,7,7
+1438,Had COVID,Female,White,Not Hispanic or Latino/A,21,5,4,2,10,2,7,7
+1439,Hasn't had COVID,Male,White,Hispanic or Latino/A,40,5,5,1,6,5,4,7
+1440,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,23,3,4,5,8,2,7,6
+1441,Had COVID,Male,White,Not Hispanic or Latino/A,20,5,9,4,8,3,7,7
+1442,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,30,5,4,1,10,4,7,7
+1443,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,45,1,5,4,5,3,6,2
+1444,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,31,5,3,2,6,3,3,7
+1445,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,43,5,4,3,4,2,7,6
+1446,Had COVID,Female,Asian,Not Hispanic or Latino/A,75,4,3,3,7,2,7,7
+1447,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,34,2,6,1,4,5,6,3
+1448,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,23,5,4,5,5,5,7,5
+1449,Hasn't had COVID,Female,White,Hispanic or Latino/A,57,5,3,2,3,4,4,6
+1450,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,8,5,1,2,10,1,7,7
+1451,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,12,2,7,3,9,4,5,4
+1452,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,4,3,3,6,1,2,6
+1453,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,34,1,3,2,10,3,4,3
+1454,Had COVID,Male,Other,Not Hispanic or Latino/A,23,1,4,8,7,4,7,2
+1455,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,42,4,5,3,10,1,5,7
+1456,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,27,3,7,1,9,1,5,5
+1457,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,35,4,7,3,9,1,6,5
+1458,Had COVID,Male,White,Not Hispanic or Latino/A,26,5,5,5,10,5,5,7
+1459,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,26,2,3,2,8,2,7,4
+1460,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,29,5,1,1,7,1,7,7
+1461,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,4,4,1,8,5,6,6
+1462,Had COVID,Male,White,Hispanic or Latino/A,56,5,6,3,6,3,2,7
+1463,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,5,2,3,10,5,7,7
+1464,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,4,5,3,4,4,5,6,6
+1465,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,2,3,9,7,3,7,3
+1466,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,54,2,7,1,6,5,7,4
+1467,Hasn't had COVID,Non-Binary or Transgender,Asian,Not Hispanic or Latino/A,44,3,9,2,6,3,6,6
+1468,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,28,3,7,9,8,3,7,5
+1469,Had COVID,Female,White,Hispanic or Latino/A,29,4,7,2,6,3,4,6
+1470,Hasn't had COVID,Female,White,Hispanic or Latino/A,29,5,5,3,8,1,5,7
+1471,Had COVID,Female,White,Hispanic or Latino/A,11,3,4,6,10,3,7,6
+1472,Had COVID,Female,White,Not Hispanic or Latino/A,32,3,1,3,10,2,4,6
+1473,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,25,2,7,5,6,3,1,3
+1474,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,21,5,2,4,6,2,7,6
+1475,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,22,2,7,3,4,3,7,3
+1476,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,44,5,3,2,6,3,7,6
+1477,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,30,4,5,1,10,3,3,6
+1478,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,30,5,4,3,10,2,5,7
+1479,Had COVID,Female,White,Not Hispanic or Latino/A,60,1,3,1,6,2,4,3
+1480,Hasn't had COVID,Male,Other,Hispanic or Latino/A,10,2,7,1,8,3,7,4
+1481,Hasn't had COVID,Female,Other,Hispanic or Latino/A,45,5,5,5,6,5,5,6
+1482,Had COVID,Male,White,Not Hispanic or Latino/A,36,3,7,2,4,1,5,5
+1483,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,40,1,9,3,7,2,1,3
+1484,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,46,2,2,1,4,5,6,4
+1485,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,35,4,3,3,8,5,5,6
+1486,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,33,3,2,4,5,3,2,4
+1487,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,52,4,2,4,10,3,4,6
+1488,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,64,4,6,3,8,5,7,6
+1489,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,45,4,5,1,4,4,6,6
+1490,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,9,5,2,4,9,4,5,7
+1491,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,29,5,4,6,4,1,5,5
+1492,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,26,5,5,4,8,2,7,7
+1493,Had COVID,Male,Other,Hispanic or Latino/A,34,5,3,6,5,3,2,6
+1494,Hasn't had COVID,Male,White,Hispanic or Latino/A,53,3,2,1,5,5,7,5
+1495,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,47,5,3,2,5,2,3,6
+1496,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,33,4,2,7,10,1,7,7
+1497,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,34,3,1,2,8,1,7,4
+1498,Had COVID,Male,White,Not Hispanic or Latino/A,20,3,5,4,8,2,4,5
+1499,Hasn't had COVID,Male,Asian,Hispanic or Latino/A,22,5,1,1,10,4,7,7
+1500,Had COVID,Female,Asian,Hispanic or Latino/A,34,4,3,3,8,1,7,7
+1501,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,62,4,2,3,4,1,3,5
+1502,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,36,4,1,1,5,4,7,6
+1503,Hasn't had COVID,Female,Asian,Hispanic or Latino/A,56,3,4,1,7,4,4,6
+1504,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,36,1,4,2,2,2,4,2
+1505,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,37,4,5,2,5,5,7,5
+1506,Had COVID,Female,White,Hispanic or Latino/A,56,5,4,1,10,1,7,7
+1507,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,30,1,3,4,3,2,3,2
+1508,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,38,5,1,1,6,3,3,7
+1509,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,32,1,3,2,3,2,4,2
+1510,Hasn't had COVID,Female,White,Hispanic or Latino/A,45,5,4,2,9,1,3,7
+1511,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,31,1,7,2,5,2,6,2
+1512,Had COVID,Male,Asian,Not Hispanic or Latino/A,21,5,3,3,10,2,2,7
+1513,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,29,1,4,3,4,2,7,3
+1514,Had COVID,Female,White,Hispanic or Latino/A,38,5,2,4,2,4,6,6
+1515,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,2,3,2,9,2,4,4
+1516,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,35,5,7,1,10,3,7,7
+1517,Hasn't had COVID,Male,Black or African American,Not Hispanic or Latino/A,33,2,2,2,3,3,5,2
+1518,Hasn't had COVID,Male,White,Hispanic or Latino/A,34,2,6,2,4,4,2,3
+1519,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,51,5,7,3,6,4,5,6
+1520,Had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,41,5,4,2,4,5,6,7
+1521,Had COVID,Female,White,Hispanic or Latino/A,4,5,6,2,10,5,6,7
+1522,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,42,1,5,1,9,1,2,2
+1523,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,60,3,5,2,4,2,4,4
+1524,Hasn't had COVID,Male,White,Hispanic or Latino/A,26,5,3,4,7,5,7,7
+1525,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,27,3,7,5,7,2,4,5
+1526,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,43,5,5,1,8,1,5,7
+1527,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,42,1,2,5,2,3,7,2
+1528,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,59,5,6,3,7,4,4,7
+1529,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,27,5,3,1,2,5,6,6
+1530,Had COVID,Male,White,Not Hispanic or Latino/A,28,3,9,3,6,4,5,5
+1531,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,34,4,4,7,3,3,7,4
+1532,Hasn't had COVID,Female,Asian,Not Hispanic or Latino/A,25,4,7,3,9,3,2,6
+1533,Had COVID,Female,Black or African American,Not Hispanic or Latino/A,17,5,5,3,7,5,7,6
+1534,Had COVID,Female,Other,Not Hispanic or Latino/A,35,5,1,6,7,4,3,6
+1535,Hasn't had COVID,Non-Binary or Transgender,White,Not Hispanic or Latino/A,22,1,3,1,4,4,7,3
+1536,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,43,4,2,6,10,1,2,5
+1537,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,21,4,4,3,8,1,6,7
+1538,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,28,4,1,6,5,4,7,5
+1539,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,48,3,10,3,10,1,6,6
+1540,Hasn't had COVID,Female,Black or African American,Not Hispanic or Latino/A,38,2,1,2,8,3,7,3
+1541,Hasn't had COVID,Female,White,Hispanic or Latino/A,23,5,5,3,7,2,6,7
+1542,Hasn't had COVID,Male,White,Hispanic or Latino/A,20,5,3,3,7,5,2,7
+1543,Hasn't had COVID,Male,Black or African American,Hispanic or Latino/A,28,3,6,6,8,1,3,4
+1544,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,53,1,4,1,6,5,7,3
+1545,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,41,5,2,3,6,4,3,6
+1546,Hasn't had COVID,Female,Black or African American,Hispanic or Latino/A,61,1,5,2,7,5,3,2
+1547,Hasn't had COVID,Female,White,Hispanic or Latino/A,32,4,5,4,8,1,5,6
+1548,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,33,1,1,2,1,5,4,1
+1549,Hasn't had COVID,Male,Other,Not Hispanic or Latino/A,59,1,3,2,4,2,5,2
+1550,Hasn't had COVID,Male,White,Not Hispanic or Latino/A,23,5,2,2,8,5,7,7
+1551,Hasn't had COVID,Female,Other,Not Hispanic or Latino/A,28,1,3,4,5,3,7,2
+1552,Hasn't had COVID,Male,White,Hispanic or Latino/A,23,5,5,1,8,1,5,7
+1553,Hasn't had COVID,Male,Asian,Not Hispanic or Latino/A,23,2,3,2,4,2,7,4
+1554,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,64,1,8,4,8,5,6,3
+1555,Hasn't had COVID,Female,White,Not Hispanic or Latino/A,63,2,5,1,4,5,5,3
+1556,Had COVID,Male,Asian,Not Hispanic or Latino/A,46,5,5,3,5,2,3,7

@@ -1,0 +1,1599 @@
+,zip,city,county,lat,long
+0,90011,Los Angeles,Los Angeles,34.0079,-118.2582
+1,90650,Norwalk,Los Angeles,33.9056,-118.0818
+2,91331,Pacoima,Los Angeles,34.2556,-118.4208
+3,90201,Bell,Los Angeles,33.9653,-118.1515
+4,90044,Los Angeles,Los Angeles,33.9551,-118.2901
+5,92335,Fontana,San Bernardino,34.0794,-117.4551
+6,92336,Fontana,San Bernardino,34.1173,-117.4378
+7,94565,Pittsburg,Contra Costa,38.0031,-121.9172
+8,90250,Hawthorne,Los Angeles,33.9143,-118.3493
+9,90805,Long Beach,Los Angeles,33.8635,-118.1801
+10,90280,South Gate,Los Angeles,33.9462,-118.2013
+11,91342,Sylmar,Los Angeles,34.3054,-118.4322
+12,92503,Riverside,Riverside,33.9208,-117.4589
+13,92683,Westminster,Orange,33.7524,-117.9939
+14,91710,Chino,San Bernardino,34.0125,-117.6844
+15,92154,San Diego,San Diego,32.5753,-117.0707
+16,91911,Chula Vista,San Diego,32.6084,-117.0565
+17,92804,Anaheim,Orange,33.8186,-117.9729
+18,92376,Rialto,San Bernardino,34.1132,-117.3771
+19,93307,Bakersfield,Kern,35.3275,-118.9839
+20,92592,Temecula,Riverside,33.4983,-117.0958
+21,92704,Santa Ana,Orange,33.7249,-117.909
+22,93722,Fresno,Fresno,36.7918,-119.8801
+23,94112,San Francisco,San Francisco,37.7195,-122.4411
+24,93033,Oxnard,Ventura,34.1685,-119.1717
+25,93727,Fresno,Fresno,36.7528,-119.7061
+26,95076,Watsonville,Santa Cruz,36.9102,-121.7569
+27,92345,Hesperia,San Bernardino,34.4222,-117.3025
+28,91744,La Puente,Los Angeles,34.0289,-117.9373
+29,92126,San Diego,San Diego,32.9161,-117.1402
+30,91709,Chino Hills,San Bernardino,33.9797,-117.7308
+31,92509,Riverside,Riverside,34.0033,-117.445
+32,91335,Reseda,Los Angeles,34.2007,-118.5391
+33,95823,Sacramento,Sacramento,38.4797,-121.4438
+34,95630,Folsom,Sacramento,38.6709,-121.1529
+35,94533,Fairfield,Solano,38.2671,-122.0357
+36,94544,Hayward,Alameda,37.6374,-122.067
+37,91706,Baldwin Park,Los Angeles,34.0964,-117.9682
+38,90706,Bellflower,Los Angeles,33.8867,-118.1265
+39,92105,San Diego,San Diego,32.7423,-117.0947
+40,93550,Palmdale,Los Angeles,34.4133,-118.0917
+41,93257,Porterville,Tulare,36.0686,-119.0315
+42,95035,Milpitas,Santa Clara,37.4352,-121.895
+43,93274,Tulare,Tulare,36.2022,-119.338
+44,94587,Union City,Alameda,37.5895,-122.0497
+45,93535,Lancaster,Los Angeles,34.7131,-117.8783
+46,91730,Rancho Cucamonga,San Bernardino,34.107,-117.5941
+47,92882,Corona,Riverside,33.8419,-117.6043
+48,92805,Anaheim,Orange,33.8359,-117.9086
+49,94536,Fremont,Alameda,37.5605,-121.9999
+50,90255,Huntington Park,Los Angeles,33.9769,-118.2161
+51,93306,Bakersfield,Kern,35.3867,-118.9391
+52,91910,Chula Vista,San Diego,32.6371,-117.0676
+53,90003,Los Angeles,Los Angeles,33.9653,-118.2727
+54,92553,Moreno Valley,Riverside,33.9157,-117.2351
+55,94110,San Francisco,San Francisco,37.7509,-122.4153
+56,92880,Corona,Riverside,33.9208,-117.6096
+57,93065,Simi Valley,Ventura,34.2656,-118.7653
+58,92563,Murrieta,Riverside,33.569,-117.1783
+59,91766,Pomona,Los Angeles,34.0418,-117.7569
+60,92021,El Cajon,San Diego,32.8178,-116.9223
+61,91402,Panorama City,Los Angeles,34.2262,-118.447
+62,95123,San Jose,Santa Clara,37.2458,-121.8306
+63,92114,San Diego,San Diego,32.7059,-117.0524
+64,90262,Lynwood,Los Angeles,33.9241,-118.2013
+65,94509,Antioch,Contra Costa,37.9939,-121.8089
+66,95687,Vacaville,Solano,38.3482,-121.9538
+67,93230,Hanford,Kings,36.3314,-119.6491
+68,90631,La Habra,Orange,33.9331,-117.9493
+69,93536,Lancaster,Los Angeles,34.7471,-118.3687
+70,95747,Roseville,Placer,38.7703,-121.3372
+71,92407,San Bernardino,San Bernardino,34.2166,-117.3908
+72,90026,Los Angeles,Los Angeles,34.0766,-118.2646
+73,90037,Los Angeles,Los Angeles,34.003,-118.2863
+74,94538,Fremont,Alameda,37.5308,-121.9712
+75,94080,South San Francisco,San Mateo,37.6574,-122.4235
+76,95624,Elk Grove,Sacramento,38.4232,-121.3599
+77,94558,Napa,Napa,38.4549,-122.2564
+78,92703,Santa Ana,Orange,33.7489,-117.9072
+79,94541,Hayward,Alameda,37.674,-122.0894
+80,90022,Los Angeles,Los Angeles,34.0245,-118.1561
+81,95758,Elk Grove,Sacramento,38.4243,-121.437
+82,92801,Anaheim,Orange,33.8428,-117.9546
+83,95206,Stockton,San Joaquin,37.9177,-121.3123
+84,92677,Laguna Niguel,Orange,33.5145,-117.7084
+85,94513,Brentwood,Contra Costa,37.9324,-121.6894
+86,91343,North Hills,Los Angeles,34.2366,-118.4758
+87,94015,Daly City,San Mateo,37.6787,-122.478
+88,92562,Murrieta,Riverside,33.5631,-117.2738
+89,92201,Indio,Riverside,33.7207,-116.2168
+90,94501,Alameda,Alameda,37.7706,-122.2648
+91,91762,Ontario,San Bernardino,34.0584,-117.6665
+92,92115,San Diego,San Diego,32.7607,-117.0721
+93,93906,Salinas,Monterey,36.7103,-121.6438
+94,94806,San Pablo,Contra Costa,37.9724,-122.3369
+95,95020,Gilroy,Santa Clara,37.0139,-121.5773
+96,92346,Highland,San Bernardino,34.1283,-117.2087
+97,91977,Spring Valley,San Diego,32.724,-116.9976
+98,92404,San Bernardino,San Bernardino,34.1426,-117.2606
+99,95127,San Jose,Santa Clara,37.3692,-121.8208
+100,91770,Rosemead,Los Angeles,34.0658,-118.0853
+101,90640,Montebello,Los Angeles,34.0133,-118.113
+102,90019,Los Angeles,Los Angeles,34.0482,-118.3343
+103,91950,National City,San Diego,32.6749,-117.0897
+104,92707,Santa Ana,Orange,33.7086,-117.8701
+105,90660,Pico Rivera,Los Angeles,33.9886,-118.0883
+106,92627,Costa Mesa,Orange,33.6483,-117.9155
+107,92504,Riverside,Riverside,33.9315,-117.4119
+108,95608,Carmichael,Sacramento,38.6284,-121.3287
+109,93905,Salinas,Monterey,36.6811,-121.6176
+110,95014,Cupertino,Santa Clara,37.318,-122.0449
+111,92647,Huntington Beach,Orange,33.721,-118.0033
+112,91702,Azusa,Los Angeles,34.1248,-117.9031
+113,94122,San Francisco,San Francisco,37.7593,-122.4836
+114,95111,San Jose,Santa Clara,37.2827,-121.8265
+115,90004,Los Angeles,Los Angeles,34.0762,-118.3029
+116,91732,El Monte,Los Angeles,34.0705,-118.0149
+117,91761,Ontario,San Bernardino,34.0316,-117.6187
+118,90731,San Pedro,Los Angeles,33.7339,-118.2914
+119,92630,Lake Forest,Orange,33.6437,-117.6868
+120,90042,Los Angeles,Los Angeles,34.1145,-118.1929
+121,92570,Perris,Riverside,33.7852,-117.3166
+122,95112,San Jose,Santa Clara,37.3476,-121.887
+123,93030,Oxnard,Ventura,34.2141,-119.175
+124,92324,Colton,San Bernardino,34.0315,-117.2874
+125,92507,Riverside,Riverside,33.9761,-117.3389
+126,92571,Perris,Riverside,33.811,-117.218
+127,93117,Goleta,Santa Barbara,34.4296,-119.8612
+128,95355,Modesto,Stanislaus,37.6717,-120.9482
+129,95051,Santa Clara,Santa Clara,37.3483,-121.9844
+130,93312,Bakersfield,Kern,35.3935,-119.1205
+131,92057,Oceanside,San Diego,33.2407,-117.3025
+132,95828,Sacramento,Sacramento,38.4826,-121.4006
+133,90001,Los Angeles,Los Angeles,33.9731,-118.2479
+134,90066,Los Angeles,Los Angeles,34.003,-118.4298
+135,93309,Bakersfield,Kern,35.3384,-119.0627
+136,92780,Tustin,Orange,33.7364,-117.8229
+137,92117,San Diego,San Diego,32.8239,-117.1965
+138,90006,Los Angeles,Los Angeles,34.0493,-118.2917
+139,93291,Visalia,Tulare,36.3551,-119.301
+140,92113,San Diego,San Diego,32.697,-117.1153
+141,92020,El Cajon,San Diego,32.7928,-116.9665
+142,94568,Dublin,Alameda,37.7166,-121.9226
+143,91764,Ontario,San Bernardino,34.0763,-117.6254
+144,92027,Escondido,San Diego,33.1388,-117.052
+145,95670,Rancho Cordova,Sacramento,38.6072,-121.2761
+146,92071,Santee,San Diego,32.8486,-116.9862
+147,93313,Bakersfield,Kern,35.2974,-119.0509
+148,94087,Sunnyvale,Santa Clara,37.3502,-122.0349
+149,92392,Victorville,San Bernardino,34.4802,-117.4082
+150,92223,Beaumont,Riverside,33.9504,-116.9701
+151,91405,Van Nuys,Los Angeles,34.2001,-118.4456
+152,92708,Fountain Valley,Orange,33.7102,-117.9503
+153,92130,San Diego,San Diego,32.9555,-117.2252
+154,90813,Long Beach,Los Angeles,33.782,-118.1835
+155,92129,San Diego,San Diego,32.9652,-117.1213
+156,93458,Santa Maria,Santa Barbara,34.9535,-120.4957
+157,92646,Huntington Beach,Orange,33.6654,-117.9686
+158,90744,Wilmington,Los Angeles,33.7855,-118.2645
+159,92530,Lake Elsinore,Riverside,33.6598,-117.3485
+160,90034,Los Angeles,Los Angeles,34.029,-118.4005
+161,94591,Vallejo,Solano,38.0985,-122.2124
+162,93063,Simi Valley,Ventura,34.3046,-118.6844
+163,94109,San Francisco,San Francisco,37.7917,-122.4186
+164,93436,Lompoc,Santa Barbara,34.6583,-120.4506
+165,91344,Granada Hills,Los Angeles,34.2771,-118.4992
+166,93215,Delano,Kern,35.7715,-119.2459
+167,95122,San Jose,Santa Clara,37.3293,-121.8339
+168,90745,Carson,Los Angeles,33.823,-118.2684
+169,91745,Hacienda Heights,Los Angeles,33.9977,-117.9652
+170,95376,Tracy,San Joaquin,37.7383,-121.4345
+171,93308,Bakersfield,Kern,35.4244,-119.0433
+172,92399,Yucaipa,San Bernardino,34.0282,-117.0489
+173,94539,Fremont,Alameda,37.5176,-121.9287
+174,92234,Cathedral City,Riverside,33.8098,-116.4665
+175,92701,Santa Ana,Orange,33.7523,-117.8541
+176,95116,San Jose,Santa Clara,37.3518,-121.8508
+177,92505,Riverside,Riverside,33.9228,-117.4867
+178,92618,Irvine,Orange,33.7074,-117.7054
+179,92840,Garden Grove,Orange,33.7869,-117.9273
+180,91406,Van Nuys,Los Angeles,34.2006,-118.4868
+181,92557,Moreno Valley,Riverside,33.9553,-117.2457
+182,95023,Hollister,San Benito,36.8337,-121.3439
+183,91786,Upland,San Bernardino,34.1144,-117.6583
+184,91801,Alhambra,Los Angeles,34.0914,-118.1293
+185,92584,Menifee,Riverside,33.6647,-117.1743
+186,95125,San Jose,Santa Clara,37.296,-121.8939
+187,95350,Modesto,Stanislaus,37.6746,-121.0113
+188,90723,Paramount,Los Angeles,33.8969,-118.1632
+189,90063,Los Angeles,Los Angeles,34.0451,-118.1859
+190,95616,Davis,Yolo,38.5538,-121.7418
+191,91304,Canoga Park,Los Angeles,34.2197,-118.6111
+192,90002,Los Angeles,Los Angeles,33.9497,-118.2462
+193,92870,Placentia,Orange,33.8744,-117.8543
+194,92056,Oceanside,San Diego,33.1968,-117.2831
+195,93277,Visalia,Tulare,36.3114,-119.3065
+196,94601,Oakland,Alameda,37.7806,-122.2166
+197,92078,San Marcos,San Diego,33.1193,-117.185
+198,95648,Lincoln,Placer,38.8942,-121.2908
+199,94550,Livermore,Alameda,37.683,-121.763
+200,92833,Fullerton,Orange,33.8766,-117.9551
+201,90018,Los Angeles,Los Angeles,34.029,-118.3152
+202,91605,North Hollywood,Los Angeles,34.2057,-118.4001
+203,92025,Escondido,San Diego,33.1101,-117.07
+204,92128,San Diego,San Diego,33.0067,-117.069
+205,90024,Los Angeles,Los Angeles,34.0637,-118.4408
+206,95124,San Jose,Santa Clara,37.2563,-121.9229
+207,95037,Morgan Hill,Santa Clara,37.1353,-121.6501
+208,92656,Aliso Viejo,Orange,33.5701,-117.7086
+209,95207,Stockton,San Joaquin,38.0024,-121.3238
+210,93003,Ventura,Ventura,34.2846,-119.2222
+211,93638,Madera,Madera,37.0402,-120.0335
+212,92886,Yorba Linda,Orange,33.9058,-117.7865
+213,90047,Los Angeles,Los Angeles,33.9569,-118.3073
+214,91913,Chula Vista,San Diego,32.6513,-116.9852
+215,90220,Compton,Los Angeles,33.8748,-118.2402
+216,92024,Encinitas,San Diego,33.0535,-117.2689
+217,93551,Palmdale,Los Angeles,34.6017,-118.231
+218,92626,Costa Mesa,Orange,33.6801,-117.9085
+219,90221,Compton,Los Angeles,33.8796,-118.2168
+220,91767,Pomona,Los Angeles,34.0812,-117.7362
+221,92026,Escondido,San Diego,33.1605,-117.0978
+222,92544,Hemet,Riverside,33.739,-116.9243
+223,91306,Winnetka,Los Angeles,34.2092,-118.5749
+224,92084,Vista,San Diego,33.2131,-117.2243
+225,92243,El Centro,Imperial,32.7893,-115.5665
+226,92127,San Diego,San Diego,33.0279,-117.0856
+227,92691,Mission Viejo,Orange,33.6128,-117.6622
+228,92111,San Diego,San Diego,32.7972,-117.1708
+229,90046,Los Angeles,Los Angeles,34.1074,-118.3652
+230,94553,Martinez,Contra Costa,37.9864,-122.135
+231,90057,Los Angeles,Los Angeles,34.0622,-118.2763
+232,92064,Poway,San Diego,32.9756,-117.0402
+233,90033,Los Angeles,Los Angeles,34.0487,-118.2084
+234,90703,Cerritos,Los Angeles,33.8669,-118.0686
+235,94014,Daly City,San Mateo,37.6875,-122.4388
+236,92879,Corona,Riverside,33.8797,-117.5354
+237,95240,Lodi,San Joaquin,38.1222,-121.2555
+238,90630,Cypress,Orange,33.8181,-118.0357
+239,94086,Sunnyvale,Santa Clara,37.3764,-122.0238
+240,95060,Santa Cruz,Santa Cruz,37.0313,-122.1198
+241,95351,Modesto,Stanislaus,37.6236,-120.9966
+242,92028,Fallbrook,San Diego,33.369,-117.229
+243,90638,La Mirada,Los Angeles,33.9067,-118.0101
+244,95148,San Jose,Santa Clara,37.3304,-121.7913
+245,93611,Clovis,Fresno,36.8253,-119.6802
+246,94577,San Leandro,Alameda,37.7205,-122.1587
+247,95136,San Jose,Santa Clara,37.2685,-121.849
+248,92620,Irvine,Orange,33.7009,-117.7564
+249,94551,Livermore,Alameda,37.7526,-121.77
+250,94560,Newark,Alameda,37.5368,-122.032
+251,92069,San Marcos,San Diego,33.1444,-117.1697
+252,95843,Antelope,Sacramento,38.7159,-121.3648
+253,95008,Campbell,Santa Clara,37.2803,-121.9539
+254,90032,Los Angeles,Los Angeles,34.0818,-118.1753
+255,92122,San Diego,San Diego,32.8577,-117.2115
+256,94303,Palo Alto,San Mateo,37.4673,-122.1388
+257,92843,Garden Grove,Orange,33.7671,-117.929
+258,92692,Mission Viejo,Orange,33.6144,-117.6433
+259,90247,Gardena,Los Angeles,33.8925,-118.2961
+260,90025,Los Angeles,Los Angeles,34.0447,-118.4487
+261,90065,Los Angeles,Los Angeles,34.1073,-118.2266
+262,95336,Manteca,San Joaquin,37.8134,-121.2132
+263,95307,Ceres,Stanislaus,37.5833,-120.9496
+264,92705,Santa Ana,Orange,33.754,-117.7919
+265,92058,Oceanside,San Diego,33.1959,-117.3795
+266,95610,Citrus Heights,Sacramento,38.6946,-121.2692
+267,93304,Bakersfield,Kern,35.3396,-119.0218
+268,92009,Carlsbad,San Diego,33.0954,-117.2619
+269,92109,San Diego,San Diego,32.7969,-117.2405
+270,93720,Fresno,Fresno,36.8579,-119.7655
+271,91748,Rowland Heights,Los Angeles,33.9818,-117.8969
+272,93311,Bakersfield,Kern,35.3039,-119.1056
+273,94116,San Francisco,San Francisco,37.7441,-122.4863
+274,92555,Moreno Valley,Riverside,33.9377,-117.1851
+275,90023,Los Angeles,Los Angeles,34.0245,-118.1975
+276,93010,Camarillo,Ventura,34.2313,-119.0464
+277,90043,Los Angeles,Los Angeles,33.9871,-118.3321
+278,90016,Los Angeles,Los Angeles,34.0298,-118.3528
+279,91765,Diamond Bar,Los Angeles,34.0066,-117.8098
+280,90620,Buena Park,Orange,33.8439,-118.008
+281,91352,Sun Valley,Los Angeles,34.2209,-118.3699
+282,90027,Los Angeles,Los Angeles,34.104,-118.2925
+283,92236,Coachella,Riverside,33.675,-116.1772
+284,92506,Riverside,Riverside,33.9455,-117.3757
+285,92104,San Diego,San Diego,32.7454,-117.1272
+286,92040,Lakeside,San Diego,32.8562,-116.9201
+287,92648,Huntington Beach,Orange,33.6773,-118.0051
+288,93455,Santa Maria,Santa Barbara,34.8286,-120.4268
+289,95822,Sacramento,Sacramento,38.5091,-121.4935
+290,94546,Castro Valley,Alameda,37.7015,-122.0782
+291,91367,Woodland Hills,Los Angeles,34.1767,-118.6159
+292,94566,Pleasanton,Alameda,37.6658,-121.8755
+293,91606,North Hollywood,Los Angeles,34.1872,-118.3865
+294,93446,Paso Robles,San Luis Obispo,35.6406,-120.7003
+295,91733,South El Monte,Los Angeles,34.0557,-118.0444
+296,95403,Santa Rosa,Sonoma,38.4822,-122.7473
+297,92410,San Bernardino,San Bernardino,34.1069,-117.2975
+298,91320,Newbury Park,Ventura,34.1774,-118.9358
+299,91790,West Covina,Los Angeles,34.0673,-117.9366
+300,92688,Rancho Santa Margarita,Orange,33.6512,-117.5938
+301,94066,San Bruno,San Mateo,37.6247,-122.429
+302,92867,Orange,Orange,33.811,-117.8493
+303,92019,El Cajon,San Diego,32.7777,-116.9191
+304,94403,San Mateo,San Mateo,37.5395,-122.2998
+305,90503,Torrance,Los Angeles,33.8397,-118.3542
+306,95209,Stockton,San Joaquin,38.0377,-121.3445
+307,92545,Hemet,Riverside,33.7399,-117.0151
+308,96003,Redding,Shasta,40.6278,-122.353
+309,92374,Redlands,San Bernardino,34.065,-117.1672
+310,92802,Anaheim,Orange,33.8085,-117.9228
+311,94025,Menlo Park,San Mateo,37.4396,-122.1864
+312,95380,Turlock,Stanislaus,37.4888,-120.8535
+313,94928,Rohnert Park,Sonoma,38.347,-122.6941
+314,94121,San Francisco,San Francisco,37.7786,-122.4892
+315,93702,Fresno,Fresno,36.74,-119.7532
+316,91789,Walnut,Los Angeles,34.0183,-117.8546
+317,94117,San Francisco,San Francisco,37.7712,-122.4413
+318,95762,El Dorado Hills,El Dorado,38.685,-121.068
+319,94134,San Francisco,San Francisco,37.719,-122.4096
+320,94605,Oakland,Alameda,37.7641,-122.1633
+321,95831,Sacramento,Sacramento,38.4962,-121.5297
+322,95678,Roseville,Placer,38.7609,-121.2867
+323,94561,Oakley,Contra Costa,37.994,-121.7036
+324,93726,Fresno,Fresno,36.7949,-119.7604
+325,94521,Concord,Contra Costa,37.9575,-121.975
+326,95407,Santa Rosa,Sonoma,38.4089,-122.7339
+327,93292,Visalia,Tulare,36.3302,-119.2921
+328,90241,Downey,Los Angeles,33.9416,-118.1306
+329,95132,San Jose,Santa Clara,37.4031,-121.8585
+330,91360,Thousand Oaks,Ventura,34.2092,-118.8739
+331,94578,San Leandro,Alameda,37.7024,-122.124
+332,94010,Burlingame,San Mateo,37.5671,-122.3676
+333,92101,San Diego,San Diego,32.7185,-117.1593
+334,92102,San Diego,San Diego,32.7139,-117.1219
+335,90007,Los Angeles,Los Angeles,34.0294,-118.2871
+336,92308,Apple Valley,San Bernardino,34.4698,-117.1927
+337,90059,Los Angeles,Los Angeles,33.9293,-118.2463
+338,90501,Torrance,Los Angeles,33.8268,-118.3118
+339,94531,Antioch,Contra Costa,37.9658,-121.7758
+340,90815,Long Beach,Los Angeles,33.7939,-118.1192
+341,91311,Chatsworth,Los Angeles,34.2583,-118.5914
+342,95621,Citrus Heights,Sacramento,38.6952,-121.3075
+343,90275,Rancho Palos Verdes,Los Angeles,33.7515,-118.367
+344,90242,Downey,Los Angeles,33.9218,-118.1395
+345,95210,Stockton,San Joaquin,38.025,-121.2972
+346,92591,Temecula,Riverside,33.5217,-117.1286
+347,91016,Monrovia,Los Angeles,34.144,-118.0014
+348,92253,La Quinta,Riverside,33.6685,-116.3081
+349,93635,Los Banos,Merced,37.0627,-120.8544
+350,93706,Fresno,Fresno,36.6486,-119.9987
+351,94804,Richmond,Contra Costa,37.9265,-122.3342
+352,95926,Chico,Butte,39.7458,-121.8444
+353,90806,Long Beach,Los Angeles,33.8045,-118.1876
+354,94118,San Francisco,San Francisco,37.7812,-122.4614
+355,94901,San Rafael,Marin,37.9691,-122.5105
+356,90605,Whittier,Los Angeles,33.9413,-118.0356
+357,91387,Canyon Country,Los Angeles,34.4132,-118.426
+358,93637,Madera,Madera,36.9403,-120.082
+359,95628,Fair Oaks,Sacramento,38.6554,-121.2611
+360,95991,Yuba City,Sutter,39.1051,-121.6202
+361,91942,La Mesa,San Diego,32.7835,-117.0189
+362,92054,Oceanside,San Diego,33.2072,-117.3573
+363,95337,Manteca,San Joaquin,37.7808,-121.2344
+364,93454,Santa Maria,Santa Barbara,34.9545,-120.4325
+365,90604,Whittier,Los Angeles,33.9299,-118.0121
+366,91401,Van Nuys,Los Angeles,34.1802,-118.4324
+367,95833,Sacramento,Sacramento,38.6157,-121.5053
+368,95695,Woodland,Yolo,38.6816,-121.8052
+369,95129,San Jose,Santa Clara,37.3066,-122.0002
+370,92806,Anaheim,Orange,33.8356,-117.8681
+371,90278,Redondo Beach,Los Angeles,33.8707,-118.3715
+372,95838,Sacramento,Sacramento,38.6406,-121.444
+373,95765,Rocklin,Placer,38.8136,-121.2677
+374,91701,Rancho Cucamonga,San Bernardino,34.1376,-117.5999
+375,95301,Atwater,Merced,37.3489,-120.6028
+376,92231,Calexico,Imperial,32.6832,-115.5028
+377,92675,San Juan Capistrano,Orange,33.5085,-117.6565
+378,93534,Lancaster,Los Angeles,34.6909,-118.1491
+379,90045,Los Angeles,Los Angeles,33.9631,-118.3941
+380,93552,Palmdale,Los Angeles,34.5715,-118.0231
+381,90808,Long Beach,Los Angeles,33.8241,-118.1103
+382,92337,Fontana,San Bernardino,34.0498,-117.4706
+383,91763,Montclair,San Bernardino,34.0733,-117.6987
+384,90031,Los Angeles,Los Angeles,34.0783,-118.2113
+385,95835,Sacramento,Sacramento,38.6626,-121.4834
+386,90020,Los Angeles,Los Angeles,34.0665,-118.3022
+387,91739,Rancho Cucamonga,San Bernardino,34.1705,-117.5182
+388,90301,Inglewood,Los Angeles,33.955,-118.3556
+389,92083,Vista,San Diego,33.1978,-117.2482
+390,95826,Sacramento,Sacramento,38.5539,-121.3693
+391,95691,West Sacramento,Yolo,38.5673,-121.5516
+392,90802,Long Beach,Los Angeles,33.7706,-118.182
+393,92821,Brea,Orange,33.9291,-117.8845
+394,92706,Santa Ana,Orange,33.7691,-117.8855
+395,94611,Oakland,Alameda,37.8471,-122.2223
+396,94954,Petaluma,Sonoma,38.2507,-122.6155
+397,90005,Los Angeles,Los Angeles,34.0585,-118.3012
+398,95050,Santa Clara,Santa Clara,37.3492,-121.953
+399,95401,Santa Rosa,Sonoma,38.4432,-122.7547
+400,92307,Apple Valley,San Bernardino,34.5291,-117.2132
+401,94520,Concord,Contra Costa,37.9823,-122.0362
+402,93305,Bakersfield,Kern,35.3855,-118.986
+403,93711,Fresno,Fresno,36.8303,-119.8319
+404,94044,Pacifica,San Mateo,37.6196,-122.4816
+405,91776,San Gabriel,Los Angeles,34.089,-118.0955
+406,95928,Chico,Butte,39.7224,-121.8113
+407,91350,Santa Clarita,Los Angeles,34.4336,-118.5007
+408,94583,San Ramon,Contra Costa,37.7562,-121.9522
+409,92508,Riverside,Riverside,33.8897,-117.3043
+410,95404,Santa Rosa,Sonoma,38.4405,-122.7144
+411,93245,Lemoore,Kings,36.2682,-119.8173
+412,92037,La Jolla,San Diego,32.8455,-117.2521
+413,95121,San Jose,Santa Clara,37.3042,-121.8099
+414,93021,Moorpark,Ventura,34.2784,-118.8771
+415,95120,San Jose,Santa Clara,37.2144,-121.8574
+416,94061,Redwood City,San Mateo,37.4647,-122.2304
+417,90804,Long Beach,Los Angeles,33.7857,-118.1357
+418,95688,Vacaville,Solano,38.3847,-121.9887
+419,90036,Los Angeles,Los Angeles,34.0699,-118.3492
+420,95382,Turlock,Stanislaus,37.5239,-120.8517
+421,94555,Fremont,Alameda,37.5735,-122.0469
+422,91104,Pasadena,Los Angeles,34.1678,-118.1261
+423,95993,Yuba City,Sutter,39.1237,-121.6611
+424,94606,Oakland,Alameda,37.7957,-122.2429
+425,91205,Glendale,Los Angeles,34.1378,-118.2425
+426,92543,Hemet,Riverside,33.7416,-116.973
+427,94590,Vallejo,Solano,38.1053,-122.2474
+428,95825,Sacramento,Sacramento,38.5892,-121.4057
+429,90012,Los Angeles,Los Angeles,34.0614,-118.2385
+430,91340,San Fernando,Los Angeles,34.2875,-118.4352
+431,95476,Sonoma,Sonoma,38.2849,-122.4696
+432,95205,Stockton,San Joaquin,37.9625,-121.2624
+433,91362,Thousand Oaks,Ventura,34.1948,-118.8232
+434,95126,San Jose,Santa Clara,37.3249,-121.9153
+435,90505,Torrance,Los Angeles,33.8106,-118.3507
+436,95660,North Highlands,Sacramento,38.6707,-121.3781
+437,91001,Altadena,Los Angeles,34.1912,-118.1392
+438,90810,Long Beach,Los Angeles,33.8193,-118.2325
+439,90049,Los Angeles,Los Angeles,34.066,-118.474
+440,92883,Corona,Riverside,33.7541,-117.474
+441,93657,Sanger,Fresno,36.7243,-119.5478
+442,92065,Ramona,San Diego,33.0293,-116.8535
+443,95821,Sacramento,Sacramento,38.6239,-121.3837
+444,95062,Santa Cruz,Santa Cruz,36.9721,-121.9881
+445,95340,Merced,Merced,37.2983,-120.4649
+446,93705,Fresno,Fresno,36.7863,-119.8286
+447,94588,Pleasanton,Alameda,37.6873,-121.8957
+448,93405,San Luis Obispo,San Luis Obispo,35.2901,-120.6817
+449,94124,San Francisco,San Francisco,37.7309,-122.3886
+450,92869,Orange,Orange,33.7868,-117.7934
+451,95973,Chico,Butte,39.8032,-121.8673
+452,91711,Claremont,Los Angeles,34.1092,-117.7183
+453,92240,Desert Hot Springs,Riverside,33.9531,-116.5219
+454,92831,Fullerton,Orange,33.8873,-117.8946
+455,92139,San Diego,San Diego,32.6806,-117.0474
+456,91326,Northridge,Los Angeles,34.2619,-118.582
+457,90029,Los Angeles,Los Angeles,34.09,-118.2944
+458,94063,Redwood City,San Mateo,37.4815,-122.2091
+459,91752,Mira Loma,Riverside,33.9938,-117.5236
+460,94404,San Mateo,San Mateo,37.5538,-122.27
+461,92807,Anaheim,Orange,33.8544,-117.7858
+462,95128,San Jose,Santa Clara,37.3163,-121.9356
+463,90062,Los Angeles,Los Angeles,34.0032,-118.3073
+464,92649,Huntington Beach,Orange,33.718,-118.0505
+465,93012,Camarillo,Ventura,34.2218,-118.9866
+466,91768,Pomona,Los Angeles,34.0662,-117.7763
+467,94603,Oakland,Alameda,37.7402,-122.171
+468,93612,Clovis,Fresno,36.8149,-119.7106
+469,95667,Placerville,El Dorado,38.7195,-120.8046
+470,90621,Buena Park,Orange,33.8772,-117.9893
+471,92660,Newport Beach,Orange,33.6295,-117.8684
+472,91601,North Hollywood,Los Angeles,34.1687,-118.3713
+473,94952,Petaluma,Sonoma,38.2403,-122.6777
+474,95901,Marysville,Yuba,39.1663,-121.5105
+475,95820,Sacramento,Sacramento,38.5347,-121.4451
+476,93561,Tehachapi,Kern,35.1322,-118.449
+477,94114,San Francisco,San Francisco,37.7587,-122.433
+478,90266,Manhattan Beach,Los Angeles,33.8896,-118.3996
+479,94401,San Mateo,San Mateo,37.5735,-122.3225
+480,91722,Covina,Los Angeles,34.0972,-117.9065
+481,94523,Pleasant Hill,Contra Costa,37.954,-122.0737
+482,92131,San Diego,San Diego,32.9123,-117.0898
+483,91780,Temple City,Los Angeles,34.1016,-118.0537
+484,92394,Victorville,San Bernardino,34.5563,-117.3528
+485,94040,Mountain View,Santa Clara,37.3855,-122.088
+486,92301,Adelanto,San Bernardino,34.5841,-117.4242
+487,93955,Seaside,Monterey,36.6217,-121.7935
+488,92596,Winchester,Riverside,33.6243,-117.0885
+489,92672,San Clemente,Orange,33.4361,-117.6231
+490,91325,Northridge,Los Angeles,34.2353,-118.5188
+491,95361,Oakdale,Stanislaus,37.7741,-120.8377
+492,92260,Palm Desert,Riverside,33.7225,-116.377
+493,90222,Compton,Los Angeles,33.9099,-118.2357
+494,90260,Lawndale,Los Angeles,33.8879,-118.351
+495,90277,Redondo Beach,Los Angeles,33.8307,-118.3832
+496,91750,La Verne,Los Angeles,34.1159,-117.7708
+497,92551,Moreno Valley,Riverside,33.8814,-117.2261
+498,91321,Newhall,Los Angeles,34.3795,-118.523
+499,95348,Merced,Merced,37.3302,-120.508
+500,92103,San Diego,San Diego,32.7466,-117.1636
+501,93710,Fresno,Fresno,36.8236,-119.7621
+502,92123,San Diego,San Diego,32.7973,-117.1392
+503,95341,Merced,Merced,37.2308,-120.5144
+504,92595,Wildomar,Riverside,33.6021,-117.264
+505,91604,Studio City,Los Angeles,34.143,-118.3913
+506,96001,Redding,Shasta,40.5605,-122.4116
+507,93422,Atascadero,San Luis Obispo,35.4754,-120.6638
+508,91915,Chula Vista,San Diego,32.6315,-116.9408
+509,92841,Garden Grove,Orange,33.7817,-117.9766
+510,96002,Redding,Shasta,40.5486,-122.3339
+511,93555,Ridgecrest,Kern,35.6225,-117.6709
+512,94115,San Francisco,San Francisco,37.7856,-122.4358
+513,91007,Arcadia,Los Angeles,34.1243,-118.0515
+514,94621,Oakland,Alameda,37.7589,-122.1853
+515,93060,Santa Paula,Ventura,34.3547,-119.0713
+516,91206,Glendale,Los Angeles,34.1556,-118.2322
+517,94526,Danville,Contra Costa,37.814,-121.966
+518,91773,San Dimas,Los Angeles,34.1023,-117.8169
+519,91107,Pasadena,Los Angeles,34.151,-118.0889
+520,92220,Banning,Riverside,33.9282,-116.8899
+521,91754,Monterey Park,Los Angeles,34.0534,-118.1271
+522,91791,West Covina,Los Angeles,34.0653,-117.8978
+523,95842,Sacramento,Sacramento,38.6865,-121.3494
+524,94102,San Francisco,San Francisco,37.7813,-122.4167
+525,90230,Culver City,Los Angeles,33.9949,-118.3991
+526,91941,La Mesa,San Diego,32.7604,-117.0115
+527,91354,Valencia,Los Angeles,34.4466,-118.5374
+528,91423,Sherman Oaks,Los Angeles,34.1526,-118.4322
+529,92679,Trabuco Canyon,Orange,33.6625,-117.5903
+530,95118,San Jose,Santa Clara,37.2568,-121.8896
+531,92124,San Diego,San Diego,32.8201,-117.0986
+532,94941,Mill Valley,Marin,37.8958,-122.5339
+533,90504,Torrance,Los Angeles,33.8708,-118.3295
+534,90807,Long Beach,Los Angeles,33.8315,-118.1811
+535,93940,Monterey,Monterey,36.5802,-121.8443
+536,92881,Corona,Riverside,33.8241,-117.5198
+537,93101,Santa Barbara,Santa Barbara,34.4197,-119.7078
+538,90606,Whittier,Los Angeles,33.9777,-118.0658
+539,92311,Barstow,San Bernardino,34.8914,-117.0387
+540,95377,Tracy,San Joaquin,37.6567,-121.4955
+541,95358,Modesto,Stanislaus,37.6237,-121.0438
+542,94545,Hayward,Alameda,37.6332,-122.0971
+543,91006,Arcadia,Los Angeles,34.1324,-118.0264
+544,92373,Redlands,San Bernardino,34.0397,-117.1804
+545,95356,Modesto,Stanislaus,37.7005,-121.0252
+546,95662,Orangevale,Sacramento,38.6845,-121.2256
+547,92116,San Diego,San Diego,32.7624,-117.1242
+548,92203,Indio,Riverside,33.7532,-116.2676
+549,90803,Long Beach,Los Angeles,33.7619,-118.1341
+550,93703,Fresno,Fresno,36.7684,-119.7594
+551,95131,San Jose,Santa Clara,37.3864,-121.88
+552,92583,San Jacinto,Riverside,33.7967,-116.9324
+553,92612,Irvine,Orange,33.6607,-117.8264
+554,95632,Galt,Sacramento,38.2691,-121.3
+555,94043,Mountain View,Santa Clara,37.4056,-122.0775
+556,93618,Dinuba,Tulare,36.5349,-119.3909
+557,90008,Los Angeles,Los Angeles,34.0116,-118.3411
+558,95661,Roseville,Placer,38.7346,-121.234
+559,93001,Ventura,Ventura,34.3308,-119.3584
+560,95482,Ukiah,Mendocino,39.1552,-123.1951
+561,95117,San Jose,Santa Clara,37.3108,-121.9623
+562,91214,La Crescenta,Los Angeles,34.2316,-118.2457
+563,92107,San Diego,San Diego,32.7425,-117.2433
+564,94103,San Francisco,San Francisco,37.7725,-122.4147
+565,94608,Emeryville,Alameda,37.8365,-122.2804
+566,94610,Oakland,Alameda,37.8126,-122.2443
+567,94801,Richmond,Contra Costa,37.94,-122.362
+568,95070,Saratoga,Santa Clara,37.2713,-122.0227
+569,90028,Los Angeles,Los Angeles,34.1005,-118.3254
+570,93004,Ventura,Ventura,34.2788,-119.1651
+571,92173,San Ysidro,San Diego,32.5626,-117.043
+572,91505,Burbank,Los Angeles,34.169,-118.3442
+573,95834,Sacramento,Sacramento,38.6383,-121.5072
+574,91607,Valley Village,Los Angeles,34.1672,-118.3989
+575,91303,Canoga Park,Los Angeles,34.1993,-118.5983
+576,96080,Red Bluff,Tehama,40.1795,-122.2383
+577,91324,Northridge,Los Angeles,34.2367,-118.5466
+578,90680,Stanton,Orange,33.7991,-117.9956
+579,93654,Reedley,Fresno,36.6044,-119.4378
+580,92405,San Bernardino,San Bernardino,34.1446,-117.3013
+581,90712,Lakewood,Los Angeles,33.8512,-118.1457
+582,91351,Canyon Country,Los Angeles,34.4262,-118.449
+583,91356,Tarzana,Los Angeles,34.1671,-118.5414
+584,92673,San Clemente,Orange,33.4615,-117.6375
+585,90601,Whittier,Los Angeles,34.0011,-118.0371
+586,95134,San Jose,Santa Clara,37.4087,-121.9406
+587,94131,San Francisco,San Francisco,37.745,-122.4383
+588,93662,Selma,Fresno,36.5695,-119.617
+589,94132,San Francisco,San Francisco,37.7211,-122.4754
+590,94070,San Carlos,San Mateo,37.4969,-122.2674
+591,91316,Encino,Los Angeles,34.1655,-118.5175
+592,96150,South Lake Tahoe,El Dorado,38.917,-119.9865
+593,91731,El Monte,Los Angeles,34.0791,-118.0371
+594,95824,Sacramento,Sacramento,38.5178,-121.4419
+595,94589,Vallejo,Solano,38.1582,-122.2804
+596,94903,San Rafael,Marin,38.0339,-122.5855
+597,91803,Alhambra,Los Angeles,34.0745,-118.1434
+598,92653,Laguna Hills,Orange,33.5916,-117.6985
+599,92110,San Diego,San Diego,32.7635,-117.2028
+600,90039,Los Angeles,Los Angeles,34.1121,-118.2594
+601,95603,Auburn,Placer,38.9115,-121.08
+602,93420,Arroyo Grande,San Luis Obispo,35.1661,-120.4651
+603,90041,Los Angeles,Los Angeles,34.1339,-118.2082
+604,91746,La Puente,Los Angeles,34.0443,-117.9862
+605,91792,West Covina,Los Angeles,34.0229,-117.8975
+606,92120,San Diego,San Diego,32.7958,-117.0707
+607,94107,San Francisco,San Francisco,37.7621,-122.3971
+608,95472,Sebastopol,Sonoma,38.3941,-122.8433
+609,94580,San Lorenzo,Alameda,37.6787,-122.1295
+610,94602,Oakland,Alameda,37.8011,-122.2104
+611,95682,Shingle Springs,El Dorado,38.6465,-120.9641
+612,94704,Berkeley,Alameda,37.8664,-122.257
+613,95492,Windsor,Sonoma,38.5443,-122.8073
+614,95966,Oroville,Butte,39.4877,-121.4698
+615,91355,Valencia,Los Angeles,34.3985,-118.5535
+616,90302,Inglewood,Los Angeles,33.9745,-118.3548
+617,94585,Suisun City,Solano,38.2408,-122.042
+618,94549,Lafayette,Contra Costa,37.8961,-122.1119
+619,93704,Fresno,Fresno,36.7991,-119.8016
+620,92316,Bloomington,San Bernardino,34.0662,-117.3993
+621,95219,Stockton,San Joaquin,38.01,-121.3698
+622,95829,Sacramento,Sacramento,38.4689,-121.344
+623,95961,Olivehurst,Yuba,39.0861,-121.5497
+624,95204,Stockton,San Joaquin,37.9743,-121.3154
+625,94518,Concord,Contra Costa,37.9504,-122.0263
+626,91384,Castaic,Los Angeles,34.4827,-118.6254
+627,90061,Los Angeles,Los Angeles,33.9245,-118.2716
+628,93401,San Luis Obispo,San Luis Obispo,35.2635,-120.6509
+629,90038,Los Angeles,Los Angeles,34.0898,-118.3215
+630,90710,Harbor City,Los Angeles,33.797,-118.2991
+631,92262,Palm Springs,Riverside,33.8414,-116.5347
+632,93035,Oxnard,Ventura,34.1822,-119.216
+633,91364,Woodland Hills,Los Angeles,34.1557,-118.6
+634,93280,Wasco,Kern,35.648,-119.4487
+635,95363,Patterson,Stanislaus,37.4826,-121.1648
+636,92604,Irvine,Orange,33.6899,-117.7868
+637,95370,Sonora,Tuolumne,37.9957,-120.3368
+638,94510,Benicia,Solano,38.0685,-122.1614
+639,95212,Stockton,San Joaquin,38.0315,-121.2589
+640,95133,San Jose,Santa Clara,37.3729,-121.856
+641,93901,Salinas,Monterey,36.6677,-121.6596
+642,91504,Burbank,Los Angeles,34.2001,-118.3264
+643,90713,Lakewood,Los Angeles,33.8473,-118.1115
+644,94062,Redwood City,San Mateo,37.4245,-122.296
+645,90017,Los Angeles,Los Angeles,34.0559,-118.2666
+646,90035,Los Angeles,Los Angeles,34.0531,-118.3806
+647,94306,Palo Alto,Santa Clara,37.418,-122.1274
+648,94559,Napa,Napa,38.2904,-122.2841
+649,90291,Venice,Los Angeles,33.9938,-118.4635
+650,91724,Covina,Los Angeles,34.0938,-117.856
+651,90405,Santa Monica,Los Angeles,34.01,-118.4717
+652,92614,Irvine,Orange,33.6829,-117.8298
+653,90746,Carson,Los Angeles,33.8584,-118.2554
+654,92606,Irvine,Orange,33.6951,-117.8224
+655,95242,Lodi,San Joaquin,38.1308,-121.3345
+656,91755,Monterey Park,Los Angeles,34.048,-118.115
+657,95618,El Macero,Yolo,38.5449,-121.7405
+658,92860,Norco,Riverside,33.9247,-117.5517
+659,93725,Fresno,Fresno,36.6207,-119.7308
+660,92227,Brawley,Imperial,32.9792,-115.5296
+661,94506,Danville,Contra Costa,37.8321,-121.9167
+662,90270,Maywood,Los Angeles,33.989,-118.1877
+663,92008,Carlsbad,San Diego,33.1602,-117.325
+664,92629,Dana Point,Orange,33.4743,-117.6964
+665,93960,Soledad,Monterey,36.4196,-121.3243
+666,94002,Belmont,San Mateo,37.5174,-122.2927
+667,91302,Calabasas,Los Angeles,34.1419,-118.6641
+668,93105,Santa Barbara,Santa Barbara,34.4369,-119.7285
+669,94133,San Francisco,San Francisco,37.8002,-122.4091
+670,91945,Lemon Grove,San Diego,32.7332,-117.0326
+671,95677,Rocklin,Placer,38.7877,-121.2366
+672,91103,Pasadena,Los Angeles,34.1669,-118.1551
+673,90240,Downey,Los Angeles,33.9581,-118.1174
+674,95409,Santa Rosa,Sonoma,38.4592,-122.6393
+675,92694,Ladera Ranch,Orange,33.5472,-117.6238
+676,94598,Walnut Creek,Contra Costa,37.9194,-122.0259
+677,91042,Tujunga,Los Angeles,34.2544,-118.2849
+678,90304,Inglewood,Los Angeles,33.9379,-118.3586
+679,92868,Orange,Orange,33.7875,-117.8776
+680,91010,Duarte,Los Angeles,34.1407,-117.9567
+681,92411,San Bernardino,San Bernardino,34.1214,-117.3172
+682,91932,Imperial Beach,San Diego,32.5783,-117.1148
+683,91784,Upland,San Bernardino,34.141,-117.6581
+684,95945,Grass Valley,Nevada,39.2081,-121.0069
+685,90249,Gardena,Los Angeles,33.8998,-118.3199
+686,92835,Fullerton,Orange,33.8994,-117.9063
+687,91740,Glendora,Los Angeles,34.1287,-117.8552
+688,94547,Hercules,Contra Costa,38.0066,-122.2637
+689,94123,San Francisco,San Francisco,37.7999,-122.4342
+690,91741,Glendora,Los Angeles,34.1537,-117.8437
+691,94803,El Sobrante,Contra Costa,37.9693,-122.2901
+692,91301,Agoura Hills,Los Angeles,34.1227,-118.7573
+693,90064,Los Angeles,Los Angeles,34.0353,-118.4259
+694,94402,San Mateo,San Mateo,37.5507,-122.3276
+695,95815,Sacramento,Sacramento,38.6093,-121.4443
+696,94530,El Cerrito,Contra Costa,37.9156,-122.2985
+697,92832,Fullerton,Orange,33.868,-117.9265
+698,95032,Los Gatos,Santa Clara,37.2417,-121.9554
+699,91403,Sherman Oaks,Los Angeles,34.1514,-118.4603
+700,94947,Novato,Marin,38.0973,-122.5837
+701,91307,West Hills,Los Angeles,34.1963,-118.6389
+702,92284,Yucca Valley,San Bernardino,34.1559,-116.4313
+703,94607,Oakland,Alameda,37.8071,-122.2851
+704,92211,Palm Desert,Riverside,33.7644,-116.3398
+705,91030,South Pasadena,Los Angeles,34.1109,-118.1547
+706,95215,Stockton,San Joaquin,37.9551,-121.2041
+707,90602,Whittier,Los Angeles,33.9693,-118.0337
+708,92532,Lake Elsinore,Riverside,33.6927,-117.303
+709,95003,Aptos,Santa Cruz,36.9797,-121.8902
+710,91106,Pasadena,Los Angeles,34.1435,-118.1266
+711,93933,Marina,Monterey,36.6849,-121.7934
+712,95864,Sacramento,Sacramento,38.5878,-121.3769
+713,95367,Riverbank,Stanislaus,37.7298,-120.942
+714,92119,San Diego,San Diego,32.8036,-117.0261
+715,91411,Van Nuys,Los Angeles,34.1781,-118.4574
+716,94619,Oakland,Alameda,37.7878,-122.1884
+717,95503,Eureka,Humboldt,40.7592,-124.1593
+718,90274,Palos Verdes Peninsula,Los Angeles,33.7669,-118.3806
+719,91775,San Gabriel,Los Angeles,34.1155,-118.0857
+720,95354,Modesto,Stanislaus,37.6409,-120.9749
+721,92277,Twentynine Palms,San Bernardino,34.1455,-116.0601
+722,90403,Santa Monica,Los Angeles,34.0287,-118.4924
+723,93907,Salinas,Monterey,36.7563,-121.6703
+724,92251,Imperial,Imperial,32.847,-115.573
+725,95776,Woodland,Yolo,38.6808,-121.7411
+726,90740,Seal Beach,Orange,33.7602,-118.0808
+727,93041,Port Hueneme,Ventura,34.1626,-119.1973
+728,95330,Lathrop,San Joaquin,37.8209,-121.2827
+729,91737,Rancho Cucamonga,San Bernardino,34.1467,-117.5803
+730,95531,Crescent City,Del Norte,41.7817,-124.1332
+731,90303,Inglewood,Los Angeles,33.9377,-118.3321
+732,95054,Santa Clara,Santa Clara,37.3924,-121.9623
+733,95501,Eureka,Humboldt,40.7938,-124.1573
+734,90292,Marina Del Rey,Los Angeles,33.9779,-118.4525
+735,90015,Los Angeles,Los Angeles,34.0434,-118.2716
+736,92585,Sun City,Riverside,33.7467,-117.1721
+737,92651,Laguna Beach,Orange,33.5429,-117.7813
+738,94609,Oakland,Alameda,37.8361,-122.2637
+739,94024,Los Altos,Santa Clara,37.3547,-122.0862
+740,96007,Anderson,Shasta,40.4574,-122.3282
+741,94085,Sunnyvale,Santa Clara,37.3886,-122.0177
+742,92118,Coronado,San Diego,32.6807,-117.1698
+743,91202,Glendale,Los Angeles,34.1652,-118.2656
+744,93610,Chowchilla,Madera,37.1014,-120.2691
+745,94597,Walnut Creek,Contra Costa,37.9182,-122.0717
+746,95746,Granite Bay,Placer,38.7435,-121.1897
+747,92782,Tustin,Orange,33.7346,-117.7869
+748,90404,Santa Monica,Los Angeles,34.0268,-118.4733
+749,94089,Sunnyvale,Santa Clara,37.3983,-122.0006
+750,90720,Los Alamitos,Orange,33.7956,-118.0648
+751,94030,Millbrae,San Mateo,37.6004,-122.402
+752,92354,Loma Linda,San Bernardino,34.0528,-117.2513
+753,95405,Santa Rosa,Sonoma,38.4386,-122.6727
+754,91201,Glendale,Los Angeles,34.1716,-118.2899
+755,92663,Newport Beach,Orange,33.621,-117.9321
+756,92844,Garden Grove,Orange,33.7661,-117.9738
+757,93212,Corcoran,Kings,36.0865,-119.5607
+758,90732,San Pedro,Los Angeles,33.742,-118.3121
+759,93203,Arvin,Kern,35.1966,-118.8336
+760,92225,Blythe,Riverside,33.6103,-114.5963
+761,95135,San Jose,Santa Clara,37.2974,-121.7562
+762,93444,Nipomo,San Luis Obispo,35.0298,-120.4894
+763,95620,Dixon,Solano,38.4403,-121.8088
+764,94596,Walnut Creek,Contra Costa,37.9053,-122.0549
+765,92501,Riverside,Riverside,33.9924,-117.3694
+766,94703,Berkeley,Alameda,37.863,-122.2749
+767,91101,Pasadena,Los Angeles,34.1468,-118.1391
+768,93263,Shafter,Kern,35.497,-119.2801
+769,90272,Pacific Palisades,Los Angeles,34.0481,-118.5265
+770,92808,Anaheim,Orange,33.8579,-117.7513
+771,90048,Los Angeles,Los Angeles,34.0737,-118.372
+772,92602,Irvine,Orange,33.7419,-117.7467
+773,90068,Los Angeles,Los Angeles,34.1156,-118.3305
+774,94579,San Leandro,Alameda,37.6892,-122.1507
+775,95391,Tracy,San Joaquin,37.7695,-121.5397
+776,95818,Sacramento,Sacramento,38.5568,-121.4929
+777,94706,Albany,Alameda,37.89,-122.2954
+778,95827,Sacramento,Sacramento,38.5662,-121.3286
+779,95521,Arcata,Humboldt,40.8742,-124.0765
+780,92108,San Diego,San Diego,32.7783,-117.1335
+781,93023,Ojai,Ventura,34.4451,-119.2565
+782,92865,Orange,Orange,33.8263,-117.8511
+783,93560,Rosamond,Kern,34.8664,-118.3409
+784,90717,Lomita,Los Angeles,33.7938,-118.3172
+785,92264,Palm Springs,Riverside,33.8018,-116.517
+786,92371,Phelan,San Bernardino,34.4449,-117.5196
+787,90603,Whittier,Los Angeles,33.9432,-117.9927
+788,95949,Grass Valley,Nevada,39.1193,-121.0938
+789,93630,Kerman,Fresno,36.7306,-120.0724
+790,95965,Oroville,Butte,39.6054,-121.5751
+791,92377,Rialto,San Bernardino,34.1561,-117.4042
+792,91040,Sunland,Los Angeles,34.2618,-118.3371
+793,95138,San Jose,Santa Clara,37.2602,-121.7709
+794,92106,San Diego,San Diego,32.7272,-117.2268
+795,93103,Santa Barbara,Santa Barbara,34.4291,-119.6833
+796,90715,Lakewood,Los Angeles,33.8405,-118.0767
+797,94127,San Francisco,San Francisco,37.7354,-122.4571
+798,95819,Sacramento,Sacramento,38.5683,-121.4366
+799,91602,North Hollywood,Los Angeles,34.151,-118.3663
+800,94519,Concord,Contra Costa,37.9841,-122.0119
+801,94503,American Canyon,Napa,38.1668,-122.2553
+802,94019,Half Moon Bay,San Mateo,37.4791,-122.4459
+803,92603,Irvine,Orange,33.6245,-117.794
+804,91011,La Canada Flintridge,Los Angeles,34.2217,-118.2051
+805,95841,Sacramento,Sacramento,38.6627,-121.3406
+806,90069,West Hollywood,Los Angeles,34.0906,-118.3788
+807,95110,San Jose,Santa Clara,37.3391,-121.9016
+808,91361,Westlake Village,Ventura,34.1472,-118.8383
+809,96130,Susanville,Lassen,40.3983,-120.6464
+810,94022,Los Altos,Santa Clara,37.3814,-122.1258
+811,91381,Stevenson Ranch,Los Angeles,34.3775,-118.6131
+812,92082,Valley Center,San Diego,33.249,-117.0122
+813,91501,Burbank,Los Angeles,34.1862,-118.3009
+814,92887,Yorba Linda,Orange,33.8841,-117.7304
+815,92029,Escondido,San Diego,33.0895,-117.1128
+816,94563,Orinda,Contra Costa,37.8787,-122.1728
+817,90210,Beverly Hills,Los Angeles,34.0901,-118.4065
+818,94564,Pinole,Contra Costa,37.9969,-122.2875
+819,90254,Hermosa Beach,Los Angeles,33.8643,-118.3955
+820,95969,Paradise,Butte,39.7555,-121.6069
+821,91390,Santa Clarita,Los Angeles,34.4684,-118.5261
+822,91204,Glendale,Los Angeles,34.1379,-118.2599
+823,95519,Mckinleyville,Humboldt,40.9465,-124.0834
+824,91345,Mission Hills,Los Angeles,34.2619,-118.4587
+825,96161,Truckee,Nevada,39.3385,-120.1729
+826,95366,Ripon,San Joaquin,37.7491,-121.1284
+827,90814,Long Beach,Los Angeles,33.7716,-118.148
+828,92586,Sun City,Riverside,33.7044,-117.1969
+829,95602,Auburn,Placer,38.9829,-121.0944
+830,92270,Rancho Mirage,Riverside,33.7643,-116.4225
+831,90502,Torrance,Los Angeles,33.8286,-118.292
+832,93111,Santa Barbara,Santa Barbara,34.4453,-119.8025
+833,93268,Taft,Kern,35.1482,-119.4557
+834,93927,Greenfield,Monterey,36.3202,-121.2451
+835,93210,Coalinga,Fresno,36.1624,-120.3489
+836,92582,San Jacinto,Riverside,33.7883,-116.9819
+837,93015,Fillmore,Ventura,34.3992,-118.9182
+838,94945,Novato,Marin,38.1163,-122.5714
+839,90265,Malibu,Los Angeles,34.0402,-118.7351
+840,92587,Sun City,Riverside,33.707,-117.245
+841,94949,Novato,Marin,38.0618,-122.5404
+842,91901,Alpine,San Diego,32.8282,-116.7543
+843,91506,Burbank,Los Angeles,34.1717,-118.3231
+844,95959,Nevada City,Nevada,39.3017,-120.9717
+845,91902,Bonita,San Diego,32.6671,-117.0221
+846,94595,Walnut Creek,Contra Costa,37.8753,-122.0703
+847,91723,Covina,Los Angeles,34.086,-117.8843
+848,95334,Livingston,Merced,37.3763,-120.7252
+849,93930,King City,Monterey,36.2028,-121.1273
+850,94301,Palo Alto,Santa Clara,37.4443,-122.1497
+851,95448,Healdsburg,Sonoma,38.6184,-122.862
+852,93247,Lindsay,Tulare,36.2096,-119.0884
+853,94618,Oakland,Alameda,37.8431,-122.2402
+854,93013,Carpinteria,Santa Barbara,34.4036,-119.5183
+855,92610,Foothill Ranch,Orange,33.6748,-117.6649
+856,94702,Berkeley,Alameda,37.8656,-122.2851
+857,93241,Lamont,Kern,35.2571,-118.9124
+858,95816,Sacramento,Sacramento,38.5728,-121.4675
+859,91914,Chula Vista,San Diego,32.6587,-116.9652
+860,93728,Fresno,Fresno,36.7581,-119.8113
+861,91436,Encino,Los Angeles,34.151,-118.4882
+862,90245,El Segundo,Los Angeles,33.9243,-118.4119
+863,93648,Parlier,Fresno,36.6103,-119.5375
+864,90701,Artesia,Los Angeles,33.8654,-118.0731
+865,90670,Santa Fe Springs,Los Angeles,33.9464,-118.0838
+866,95673,Rio Linda,Sacramento,38.6895,-121.4479
+867,94305,Stanford,Santa Clara,37.4236,-122.1619
+868,94612,Oakland,Alameda,37.8085,-122.2668
+869,94960,San Anselmo,Marin,37.9846,-122.5711
+870,93402,Los Osos,San Luis Obispo,35.3172,-120.8333
+871,93631,Kingsburg,Fresno,36.508,-119.5433
+872,92637,Laguna Hills,Orange,33.6103,-117.7253
+873,95963,Orland,Glenn,39.7314,-122.2534
+874,91203,Glendale,Los Angeles,34.1517,-118.2636
+875,95252,Valley Springs,Calaveras,38.162,-120.8572
+876,93110,Santa Barbara,Santa Barbara,34.4418,-119.7647
+877,94556,Moraga,Contra Costa,37.8437,-122.1242
+878,95422,Clearlake,Lake,38.9576,-122.636
+879,90623,La Palma,Orange,33.8491,-118.0398
+880,95203,Stockton,San Joaquin,37.9532,-121.3116
+881,95304,Tracy,San Joaquin,37.7319,-121.4096
+882,92845,Garden Grove,Orange,33.7787,-118.0267
+883,93950,Pacific Grove,Monterey,36.6167,-121.922
+884,92866,Orange,Orange,33.7877,-117.8423
+885,90305,Inglewood,Los Angeles,33.9583,-118.3259
+886,94502,Alameda,Alameda,37.7351,-122.2431
+887,95066,Scotts Valley,Santa Cruz,37.0597,-122.0152
+888,95368,Salida,Stanislaus,37.7083,-121.0864
+889,94552,Castro Valley,Alameda,37.7131,-122.0381
+890,95650,Loomis,Placer,38.8071,-121.1698
+891,94542,Hayward,Alameda,37.6586,-122.0472
+892,91208,Glendale,Los Angeles,34.1921,-118.235
+893,95437,Fort Bragg,Mendocino,39.4402,-123.7703
+894,96021,Corning,Tehama,39.9296,-122.196
+895,90232,Culver City,Los Angeles,34.0168,-118.3973
+896,93250,Mc Farland,Kern,35.6758,-119.2272
+897,96022,Cottonwood,Shasta,40.3691,-122.3375
+898,93543,Littlerock,Los Angeles,34.4891,-117.9708
+899,93221,Exeter,Tulare,36.3041,-119.1293
+900,95605,West Sacramento,Yolo,38.5927,-121.5325
+901,95315,Delhi,Merced,37.4273,-120.7752
+902,93514,Bishop,Inyo,37.5014,-118.4048
+903,95540,Fortuna,Humboldt,40.5835,-124.1473
+904,92408,San Bernardino,San Bernardino,34.0831,-117.2711
+905,94805,Richmond,Contra Costa,37.9417,-122.3238
+906,90716,Hawaiian Gardens,Los Angeles,33.8296,-118.073
+907,92274,Thermal,Riverside,33.5578,-116.1572
+908,94507,Alamo,Contra Costa,37.8537,-122.0229
+909,95130,San Jose,Santa Clara,37.2886,-121.9818
+910,94041,Mountain View,Santa Clara,37.3893,-122.0783
+911,93505,California City,Kern,35.1278,-117.9651
+912,91377,Oak Park,Ventura,34.185,-118.7669
+913,95817,Sacramento,Sacramento,38.5498,-121.4583
+914,95388,Winton,Merced,37.4014,-120.6045
+915,95490,Willits,Mendocino,39.4493,-123.3679
+916,95030,Los Gatos,Santa Clara,37.2296,-121.9834
+917,94705,Berkeley,Alameda,37.8571,-122.25
+918,93640,Mendota,Fresno,36.7424,-120.4093
+919,95360,Newman,Stanislaus,37.3097,-121.0805
+920,94108,San Francisco,San Francisco,37.7929,-122.4079
+921,93433,Grover Beach,San Luis Obispo,35.121,-120.6173
+922,94904,Greenbrae,Marin,37.9479,-122.5363
+923,91108,San Marino,Los Angeles,34.1207,-118.1117
+924,92625,Corona Del Mar,Orange,33.6021,-117.8743
+925,92014,Del Mar,San Diego,32.9665,-117.249
+926,93204,Avenal,Kings,35.9877,-120.1227
+927,95357,Modesto,Stanislaus,37.6693,-120.8817
+928,90013,Los Angeles,Los Angeles,34.0448,-118.2434
+929,95320,Escalon,San Joaquin,37.7983,-121.0006
+930,94517,Clayton,Contra Costa,37.9154,-121.91
+931,94105,San Francisco,San Francisco,37.7864,-122.3892
+932,93923,Carmel,Monterey,36.5457,-121.8949
+933,90293,Playa Del Rey,Los Angeles,33.9577,-118.4373
+934,92055,Camp Pendleton,San Diego,33.2433,-117.3768
+935,95832,Sacramento,Sacramento,38.4695,-121.4883
+936,92075,Solana Beach,San Diego,32.9937,-117.2598
+937,91105,Pasadena,Los Angeles,34.1355,-118.1636
+938,95742,Rancho Cordova,Sacramento,38.5981,-121.2153
+939,93301,Bakersfield,Kern,35.3866,-119.0171
+940,94920,Belvedere Tiburon,Marin,37.8843,-122.4637
+941,92313,Grand Terrace,San Bernardino,34.031,-117.3129
+942,95814,Sacramento,Sacramento,38.5804,-121.4922
+943,94709,Berkeley,Alameda,37.8784,-122.2655
+944,90040,Los Angeles,Los Angeles,33.9909,-118.1532
+945,95954,Magalia,Butte,39.8912,-121.58
+946,93908,Salinas,Monterey,36.6011,-121.6729
+947,93614,Coarsegold,Madera,37.2214,-119.7455
+948,95948,Gridley,Butte,39.3532,-121.7137
+949,95451,Kelseyville,Lake,38.9421,-122.7777
+950,92007,Cardiff By The Sea,San Diego,33.023,-117.2745
+951,94708,Berkeley,Alameda,37.8918,-122.2604
+952,94707,Berkeley,Alameda,37.8927,-122.2761
+953,90212,Beverly Hills,Los Angeles,34.0619,-118.3995
+954,95640,Ione,Amador,38.3324,-120.9418
+955,90402,Santa Monica,Los Angeles,34.0349,-118.503
+956,94065,Redwood City,San Mateo,37.5331,-122.2486
+957,93647,Orosi,Tulare,36.5464,-119.2815
+958,94965,Sausalito,Marin,37.8601,-122.4946
+959,90248,Gardena,Los Angeles,33.8766,-118.2835
+960,91207,Glendale,Los Angeles,34.1649,-118.2451
+961,93109,Santa Barbara,Santa Barbara,34.4038,-119.7194
+962,95073,Soquel,Santa Cruz,37.0048,-121.9507
+963,93646,Orange Cove,Fresno,36.6255,-119.3204
+964,91502,Burbank,Los Angeles,34.1745,-118.3059
+965,95453,Lakeport,Lake,39.047,-122.9328
+966,95425,Cloverdale,Sonoma,38.7931,-123.0074
+967,95953,Live Oak,Sutter,39.2601,-121.6923
+968,93219,Earlimart,Tulare,35.8744,-119.281
+969,93442,Morro Bay,San Luis Obispo,35.3795,-120.8447
+970,91978,Spring Valley,San Diego,32.7329,-116.9596
+971,93223,Farmersville,Tulare,36.3002,-119.2054
+972,91024,Sierra Madre,Los Angeles,34.1651,-118.0519
+973,92314,Big Bear City,San Bernardino,34.261,-116.8131
+974,95326,Hughson,Stanislaus,37.5964,-120.8627
+975,95338,Mariposa,Mariposa,37.4931,-119.9219
+976,95064,Santa Cruz,Santa Cruz,36.9959,-122.0578
+977,95694,Winters,Yolo,38.5322,-121.9676
+978,95713,Colfax,Placer,39.0783,-120.9549
+979,95386,Waterford,Stanislaus,37.652,-120.7292
+980,93286,Woodlake,Tulare,36.4313,-119.0918
+981,93108,Santa Barbara,Santa Barbara,34.4378,-119.6159
+982,95119,San Jose,Santa Clara,37.2329,-121.7875
+983,93701,Fresno,Fresno,36.7487,-119.7867
+984,94571,Rio Vista,Solano,38.1637,-121.7016
+985,96019,Shasta Lake,Shasta,40.6969,-122.3683
+986,95012,Castroville,Monterey,36.7658,-121.758
+987,95322,Gustine,Merced,37.2001,-121.0047
+988,92567,Nuevo,Riverside,33.8123,-117.1048
+989,94572,Rodeo,Contra Costa,38.0307,-122.2581
+990,95033,Los Gatos,Santa Clara,37.1539,-121.9816
+991,94925,Corte Madera,Marin,37.9223,-122.5132
+992,92359,Mentone,San Bernardino,34.0774,-117.1126
+993,93546,Mammoth Lakes,Mono,37.6094,-118.8656
+994,92310,Fort Irwin,San Bernardino,35.2625,-116.6966
+995,92252,Joshua Tree,San Bernardino,34.1502,-116.3038
+996,96097,Yreka,Siskiyou,41.7206,-122.6376
+997,93465,Templeton,San Luis Obispo,35.5551,-120.7107
+998,95006,Boulder Creek,Santa Cruz,37.1547,-122.1365
+999,93622,Firebaugh,Fresno,36.8651,-120.47
+1000,91935,Jamul,San Diego,32.7163,-116.8323
+1001,90211,Beverly Hills,Los Angeles,34.0652,-118.383
+1002,90014,Los Angeles,Los Angeles,34.0443,-118.2509
+1003,94931,Cotati,Sonoma,38.3259,-122.7048
+1004,90094,Los Angeles,Los Angeles,33.9728,-118.4276
+1005,92320,Calimesa,Riverside,33.9946,-117.043
+1006,92657,Newport Coast,Orange,33.5943,-117.8334
+1007,92067,Rancho Santa Fe,San Diego,33.005,-117.2157
+1008,95010,Capitola,Santa Cruz,36.9767,-121.9555
+1009,93926,Gonzales,Monterey,36.49,-121.4103
+1010,94930,Fairfax,Marin,37.9883,-122.5937
+1011,91020,Montrose,Los Angeles,34.2114,-118.2305
+1012,95019,Freedom,Santa Cruz,36.9356,-121.7767
+1013,95324,Hilmar,Merced,37.4002,-120.8723
+1014,92655,Midway City,Orange,33.7446,-117.984
+1015,92325,Crestline,San Bernardino,34.2433,-117.2811
+1016,95327,Jamestown,Tuolumne,37.8906,-120.4717
+1017,94574,Saint Helena,Napa,38.5138,-122.4619
+1018,92548,Homeland,Riverside,33.7453,-117.1118
+1019,93721,Fresno,Fresno,36.7377,-119.7843
+1020,95988,Willows,Glenn,39.5353,-122.2597
+1021,92249,Heber,Imperial,32.7218,-115.4383
+1022,93620,Dos Palos,Merced,37.0025,-120.6333
+1023,92254,Mecca,Riverside,33.545,-116.0187
+1024,95946,Penn Valley,Nevada,39.2019,-121.2026
+1025,90077,Los Angeles,Los Angeles,34.1112,-118.4502
+1026,93644,Oakhurst,Madera,37.3476,-119.6449
+1027,92250,Holtville,Imperial,32.8104,-115.3775
+1028,95220,Acampo,San Joaquin,38.2004,-121.2186
+1029,95726,Pollock Pines,El Dorado,38.7708,-120.5427
+1030,95065,Santa Cruz,Santa Cruz,37.0089,-121.9849
+1031,92276,Thousand Palms,Riverside,33.8082,-116.3713
+1032,94710,Berkeley,Alameda,37.8696,-122.2959
+1033,95316,Denair,Stanislaus,37.539,-120.7758
+1034,90056,Los Angeles,Los Angeles,33.9853,-118.3707
+1035,93449,Pismo Beach,San Luis Obispo,35.1578,-120.6522
+1036,93463,Solvang,Santa Barbara,34.6488,-120.1701
+1037,95005,Ben Lomond,Santa Cruz,37.0882,-122.0887
+1038,92241,Desert Hot Springs,Riverside,33.8763,-116.354
+1039,93625,Fowler,Fresno,36.6282,-119.671
+1040,93434,Guadalupe,Santa Barbara,34.96,-120.5703
+1041,95932,Colusa,Colusa,39.2345,-122.0277
+1042,94515,Calistoga,Napa,38.5823,-122.5814
+1043,92233,Calipatria,Imperial,33.167,-115.5114
+1044,93510,Acton,Los Angeles,34.4835,-118.1959
+1045,93445,Oceano,San Luis Obispo,35.1019,-120.608
+1046,95139,San Jose,Santa Clara,37.2252,-121.7687
+1047,93234,Huron,Fresno,36.2371,-120.102
+1048,94027,Atherton,San Mateo,37.4563,-122.2002
+1049,96094,Weed,Siskiyou,41.4226,-122.3861
+1050,90401,Santa Monica,Los Angeles,34.0176,-118.4907
+1051,96067,Mount Shasta,Siskiyou,41.3174,-122.324
+1052,94939,Larkspur,Marin,37.9367,-122.5362
+1053,92342,Helendale,San Bernardino,34.7499,-117.3367
+1054,94028,Portola Valley,San Mateo,37.3702,-122.2182
+1055,95202,Stockton,San Joaquin,37.9606,-121.2871
+1056,93022,Oak View,Ventura,34.402,-119.2982
+1057,95631,Foresthill,Placer,39.0682,-120.7224
+1058,95436,Forestville,Sonoma,38.4923,-122.9042
+1059,93591,Palmdale,Los Angeles,34.6019,-117.8123
+1060,95642,Jackson,Amador,38.3545,-120.7573
+1061,95672,Rescue,El Dorado,38.7194,-120.9945
+1062,95619,Diamond Springs,El Dorado,38.6865,-120.8145
+1063,95658,Newcastle,Placer,38.8763,-121.143
+1064,93924,Carmel Valley,Monterey,36.4787,-121.7244
+1065,95693,Wilton,Sacramento,38.3983,-121.2303
+1066,92624,Capistrano Beach,Orange,33.46,-117.6632
+1067,95018,Felton,Santa Cruz,37.0662,-122.0618
+1068,93615,Cutler,Tulare,36.5243,-119.287
+1069,93267,Strathmore,Tulare,36.1472,-119.0792
+1070,92352,Lake Arrowhead,San Bernardino,34.2606,-117.2016
+1071,92356,Lucerne Valley,San Bernardino,34.447,-116.9189
+1072,93427,Buellton,Santa Barbara,34.6209,-120.1922
+1073,93240,Lake Isabella,Kern,35.669,-118.457
+1074,95683,Sloughhouse,Sacramento,38.5143,-121.0964
+1075,95987,Williams,Colusa,39.1337,-122.2162
+1076,93460,Santa Ynez,Santa Barbara,34.624,-120.0713
+1077,95249,San Andreas,Calaveras,38.1904,-120.6441
+1078,95971,Quincy,Plumas,39.9284,-120.9698
+1079,95046,San Martin,Santa Clara,37.0911,-121.5999
+1080,92861,Villa Park,Orange,33.8205,-117.8104
+1081,95626,Elverta,Sacramento,38.7233,-121.4497
+1082,93256,Pixley,Tulare,35.9553,-119.2564
+1083,93656,Riverdale,Fresno,36.4295,-119.872
+1084,92372,Pinon Hills,San Bernardino,34.4429,-117.6403
+1085,93428,Cambria,San Luis Obispo,35.5566,-121.084
+1086,95709,Camino,El Dorado,38.747,-120.6743
+1087,93225,Frazier Park,Kern,34.8265,-119.0355
+1088,93270,Terra Bella,Tulare,35.957,-119.0312
+1089,95231,French Camp,San Joaquin,37.878,-121.2827
+1090,95222,Angels Camp,Calaveras,38.071,-120.5722
+1091,92363,Needles,San Bernardino,34.7824,-114.5871
+1092,95470,Redwood Valley,Mendocino,39.2779,-123.2243
+1093,93609,Caruthers,Fresno,36.5358,-119.8446
+1094,92315,Big Bear Lake,San Bernardino,34.235,-116.9053
+1095,92590,Temecula,Riverside,33.4903,-117.1824
+1096,90290,Topanga,Los Angeles,34.1076,-118.6023
+1097,96101,Alturas,Modoc,41.4767,-120.5456
+1098,92210,Indian Wells,Riverside,33.7163,-116.3381
+1099,92003,Bonsall,San Diego,33.294,-117.1897
+1100,95912,Arbuckle,Colusa,39.0138,-122.0274
+1101,96088,Shingletown,Shasta,40.505,-121.8857
+1102,92278,Twentynine Palms,San Bernardino,34.238,-116.0604
+1103,92823,Brea,Orange,33.923,-117.798
+1104,95722,Meadow Vista,Placer,39.0031,-121.0292
+1105,95446,Guerneville,Sonoma,38.5055,-122.9965
+1106,93272,Tipton,Tulare,36.0546,-119.3078
+1107,95692,Wheatland,Yuba,39.0337,-121.4235
+1108,95669,Plymouth,Amador,38.4916,-120.8819
+1109,96013,Burney,Shasta,40.8949,-121.655
+1110,91708,Chino,San Bernardino,33.954,-117.6404
+1111,92382,Running Springs,San Bernardino,34.2102,-117.1109
+1112,93501,Mojave,Kern,35.0478,-118.1735
+1113,95685,Sutter Creek,Amador,38.4175,-120.7951
+1114,95666,Pioneer,Amador,38.4319,-120.5719
+1115,92121,San Diego,San Diego,32.8919,-117.2035
+1116,94005,Brisbane,San Mateo,37.6811,-122.4001
+1117,92397,Wrightwood,San Bernardino,34.3628,-117.6249
+1118,93235,Ivanhoe,Tulare,36.3856,-119.2189
+1119,96073,Palo Cedro,Shasta,40.5767,-122.2398
+1120,95627,Esparto,Yolo,38.7061,-122.0152
+1121,95228,Copperopolis,Calaveras,37.944,-120.6423
+1122,95633,Garden Valley,El Dorado,38.8665,-120.8567
+1123,95236,Linden,San Joaquin,38.032,-121.0493
+1124,95614,Cool,El Dorado,38.8923,-120.9802
+1125,92539,Anza,Riverside,33.5688,-116.7135
+1126,94304,Palo Alto,Santa Clara,37.4334,-122.1842
+1127,96064,Montague,Siskiyou,41.7243,-122.4638
+1128,95045,San Juan Bautista,San Benito,36.8463,-121.5346
+1129,95655,Mather,Sacramento,38.5579,-121.291
+1130,91906,Campo,San Diego,32.6605,-116.4905
+1131,95004,Aromas,Monterey,36.8769,-121.6324
+1132,95365,Planada,Merced,37.2908,-120.3185
+1133,93202,Armona,Kings,36.3095,-119.7053
+1134,93451,San Miguel,San Luis Obispo,35.9004,-120.5929
+1135,95938,Durham,Butte,39.633,-121.7886
+1136,90704,Avalon,Los Angeles,33.332,-118.3437
+1137,96055,Los Molinos,Tehama,40.0497,-122.0992
+1138,90010,Los Angeles,Los Angeles,34.0606,-118.3027
+1139,94508,Angwin,Napa,38.5769,-122.4477
+1140,93660,San Joaquin,Fresno,36.6059,-120.1889
+1141,94111,San Francisco,San Francisco,37.7974,-122.4001
+1142,94129,San Francisco,San Francisco,37.8005,-122.465
+1143,95623,El Dorado,El Dorado,38.633,-120.8498
+1144,95634,Georgetown,El Dorado,38.9185,-120.7599
+1145,95917,Biggs,Butte,39.4162,-121.7189
+1146,95379,Tuolumne,Tuolumne,37.9678,-120.2357
+1147,95247,Murphys,Calaveras,38.1345,-120.4516
+1148,95053,Santa Clara,Santa Clara,37.3498,-121.9378
+1149,92661,Newport Beach,Orange,33.6045,-117.9021
+1150,95258,Woodbridge,San Joaquin,38.1551,-121.3086
+1151,95383,Twain Harte,Tuolumne,38.0454,-120.2178
+1152,93953,Pebble Beach,Monterey,36.5907,-121.942
+1153,93675,Squaw Valley,Fresno,36.7071,-119.1814
+1154,90089,Los Angeles,Los Angeles,33.7866,-118.2987
+1155,95665,Pine Grove,Amador,38.4049,-120.6544
+1156,93523,Edwards,Kern,34.9261,-117.9351
+1157,95328,Keyes,Stanislaus,37.5591,-120.9148
+1158,94951,Penngrove,Sonoma,38.3153,-122.6483
+1159,95237,Lockeford,San Joaquin,38.1613,-121.1424
+1160,93437,Lompoc,Santa Barbara,34.7532,-120.5171
+1161,95423,Clearlake Oaks,Lake,39.0664,-122.6558
+1162,96122,Portola,Plumas,39.8105,-120.4691
+1163,95321,Groveland,Tuolumne,37.8298,-120.1037
+1164,95546,Hoopa,Humboldt,41.0504,-123.6742
+1165,96093,Weaverville,Trinity,40.7317,-122.9353
+1166,93242,Laton,Fresno,36.4378,-119.7156
+1167,92140,San Diego,San Diego,32.7434,-117.2004
+1168,95562,Rio Dell,Humboldt,40.4987,-124.1102
+1169,94535,Travis Afb,Solano,38.2743,-121.9463
+1170,96143,Kings Beach,Placer,39.2401,-120.0233
+1171,94038,Moss Beach,San Mateo,37.531,-122.5068
+1172,96035,Gerber,Tehama,40.043,-122.1649
+1173,93602,Auberry,Fresno,37.0726,-119.4572
+1174,90021,Los Angeles,Los Angeles,34.0333,-118.2447
+1175,94525,Crockett,Contra Costa,38.0519,-122.2177
+1176,93265,Springville,Tulare,36.1363,-118.7961
+1177,94130,San Francisco,San Francisco,37.8231,-122.3693
+1178,93252,Maricopa,Kern,35.0589,-119.401
+1179,92256,Morongo Valley,San Bernardino,34.0606,-116.5656
+1180,95442,Glen Ellen,Sonoma,38.3662,-122.5196
+1181,91330,Northridge,Los Angeles,34.2283,-118.5368
+1182,96114,Janesville,Lassen,40.2963,-120.5098
+1183,95982,Sutter,Sutter,39.1779,-121.7758
+1184,95536,Ferndale,Humboldt,40.5259,-124.2514
+1185,96137,Westwood,Lassen,40.3038,-121.0226
+1186,94599,Yountville,Napa,38.4016,-122.3608
+1187,95457,Lower Lake,Lake,38.8915,-122.5914
+1188,93643,North Fork,Madera,37.2125,-119.5143
+1189,95333,Le Grand,Merced,37.2496,-120.2667
+1190,90058,Los Angeles,Los Angeles,33.9994,-118.2133
+1191,92549,Idyllwild,Riverside,33.7304,-116.7107
+1192,94964,San Quentin,Marin,37.9416,-122.4844
+1193,93921,Carmel,Monterey,36.5552,-121.9233
+1194,93066,Somis,Ventura,34.2798,-119.0115
+1195,93650,Fresno,Fresno,36.8411,-119.801
+1196,96041,Hayfork,Trinity,40.5504,-123.1634
+1197,92281,Westmorland,Imperial,33.038,-115.5914
+1198,95684,Somerset,El Dorado,38.5953,-120.5949
+1199,94037,Montara,San Mateo,37.5428,-122.5052
+1200,94720,Berkeley,Alameda,37.8738,-122.2549
+1201,95458,Lucerne,Lake,39.0783,-122.7846
+1202,95428,Covelo,Mendocino,39.82,-123.0585
+1203,95485,Upper Lake,Lake,39.1804,-122.9144
+1204,95663,Penryn,Placer,38.8567,-121.1791
+1205,96032,Fort Jones,Siskiyou,41.617,-122.8832
+1206,95464,Nice,Lake,39.1194,-122.8315
+1207,95461,Middletown,Lake,38.7824,-122.6487
+1208,92662,Newport Beach,Orange,33.6062,-117.8931
+1209,93271,Three Rivers,Tulare,36.4377,-118.8875
+1210,93430,Cayucos,San Luis Obispo,35.4446,-120.8908
+1211,96145,Tahoe City,Placer,39.1806,-120.1445
+1212,91962,Pine Valley,San Diego,32.835,-116.5127
+1213,92536,Aguanga,Riverside,33.4473,-116.7997
+1214,93532,Lake Hughes,Los Angeles,34.6847,-118.5442
+1215,92036,Julian,San Diego,33.0534,-116.5658
+1216,95918,Browns Valley,Yuba,39.2882,-121.3303
+1217,95951,Hamilton City,Glenn,39.7386,-122.0085
+1218,95223,Arnold,Calaveras,38.3086,-120.268
+1219,95570,Trinidad,Humboldt,41.0593,-124.1431
+1220,90067,Los Angeles,Los Angeles,34.0551,-118.4095
+1221,95113,San Jose,Santa Clara,37.3329,-121.8916
+1222,92275,Salton City,Imperial,33.3092,-115.9578
+1223,92365,Newberry Springs,San Bernardino,34.885,-116.7464
+1224,93626,Friant,Fresno,37.0422,-119.6807
+1225,92285,Landers,San Bernardino,34.3103,-116.5241
+1226,96020,Chester,Plumas,40.2975,-121.2273
+1227,93453,Santa Margarita,San Luis Obispo,35.3584,-120.2596
+1228,93516,Boron,Kern,35.0037,-117.6629
+1229,93616,Del Rey,Fresno,36.6543,-119.5929
+1230,92230,Cabazon,Riverside,33.9086,-116.7739
+1231,95211,Stockton,San Joaquin,37.9809,-121.311
+1232,95329,La Grange,Stanislaus,37.6899,-120.3851
+1233,93651,Prather,Fresno,36.9938,-119.5268
+1234,92004,Borrego Springs,San Diego,33.2386,-116.3514
+1235,96027,Etna,Siskiyou,41.4463,-123.01
+1236,92061,Pauma Valley,San Diego,33.3063,-116.9596
+1237,92391,Twin Peaks,San Bernardino,34.2379,-117.2348
+1238,95542,Garberville,Humboldt,40.0864,-123.7991
+1239,95002,Alviso,Santa Clara,37.426,-121.9736
+1240,96025,Dunsmuir,Siskiyou,41.2124,-122.2734
+1241,93283,Weldon,Kern,35.6391,-118.2859
+1242,93261,Richgrove,Tulare,35.805,-119.1315
+1243,95454,Laytonville,Mendocino,39.6627,-123.4929
+1244,93205,Bodfish,Kern,35.587,-118.4847
+1245,95638,Herald,Sacramento,38.3119,-121.1729
+1246,93667,Tollhouse,Fresno,36.9943,-119.3914
+1247,95460,Mendocino,Mendocino,39.3173,-123.7739
+1248,94514,Byron,Contra Costa,37.8254,-121.6236
+1249,96134,Tulelake,Siskiyou,41.9316,-121.4347
+1250,95690,Walnut Grove,Sacramento,38.2396,-121.5443
+1251,92386,Sugarloaf,San Bernardino,34.2372,-116.8277
+1252,92676,Silverado,Orange,33.7451,-117.6153
+1253,94511,Bethel Island,Contra Costa,38.0266,-121.6425
+1254,93285,Wofford Heights,Kern,35.7246,-118.4559
+1255,95445,Gualala,Mendocino,38.8251,-123.5399
+1256,94020,La Honda,San Mateo,37.2726,-122.2495
+1257,95311,Coulterville,Mariposa,37.7197,-120.1197
+1258,92401,San Bernardino,San Bernardino,34.1105,-117.2898
+1259,93249,Lost Hills,Kern,35.6163,-119.6943
+1260,92145,San Diego,San Diego,32.8891,-117.1005
+1261,96113,Herlong,Lassen,40.1485,-120.1713
+1262,95465,Occidental,Sonoma,38.4087,-122.9954
+1263,95567,Smith River,Del Norte,41.9404,-124.1587
+1264,92273,Seeley,Imperial,32.7941,-115.6948
+1265,93040,Piru,Ventura,34.4352,-118.7855
+1266,90263,Malibu,Los Angeles,34.005,-118.8101
+1267,93222,Frazier Park,Kern,34.8469,-119.1568
+1268,93925,Chualar,Monterey,36.595,-121.432
+1269,93239,Kettleman City,Kings,36.0083,-119.9618
+1270,91916,Descanso,San Diego,32.873,-116.6027
+1271,95524,Bayside,Humboldt,40.8266,-124.0552
+1272,95372,Soulsbyville,Tuolumne,37.9926,-120.2624
+1273,93562,Trona,San Bernardino,35.7481,-117.3808
+1274,95528,Carlotta,Humboldt,40.507,-123.9743
+1275,93206,Buttonwillow,Kern,35.4033,-119.4659
+1276,95975,Rough And Ready,Nevada,39.2286,-121.1509
+1277,96056,Mcarthur,Shasta,41.0502,-121.3991
+1278,92283,Winterhaven,Imperial,32.9818,-114.6854
+1279,96052,Lewiston,Trinity,40.746,-122.8426
+1280,93426,Bradley,Monterey,35.8093,-120.9728
+1281,95374,Stevinson,Merced,37.3283,-120.8764
+1282,95645,Knights Landing,Yolo,38.8517,-121.7334
+1283,95441,Geyserville,Sonoma,38.7173,-122.8834
+1284,93527,Inyokern,Kern,35.6397,-117.857
+1285,95947,Greenville,Plumas,40.1699,-120.9014
+1286,96118,Loyalton,Sierra,39.663,-120.2297
+1287,91905,Boulevard,San Diego,32.6719,-116.32
+1288,95421,Cazadero,Sonoma,38.5918,-123.1965
+1289,95310,Columbia,Tuolumne,38.044,-120.3971
+1290,95245,Mokelumne Hill,Calaveras,38.3152,-120.5591
+1291,92398,Yermo,San Bernardino,34.905,-116.8203
+1292,95942,Forest Ranch,Butte,39.8821,-121.6728
+1293,95903,Beale Afb,Yuba,39.1115,-121.3604
+1294,95551,Loleta,Humboldt,40.6589,-124.2251
+1295,95255,West Point,Calaveras,38.4197,-120.4759
+1296,95977,Smartville,Yuba,39.2076,-121.3001
+1297,92059,Pala,San Diego,33.3777,-117.0717
+1298,95319,Empire,Stanislaus,37.6382,-120.9005
+1299,95937,Dunnigan,Yolo,38.887,-121.9992
+1300,95560,Redway,Humboldt,40.1201,-123.8234
+1301,93545,Lone Pine,Inyo,36.5798,-118.0578
+1302,94973,Woodacre,Marin,38.0069,-122.6382
+1303,93243,Lebec,Kern,34.8818,-118.8566
+1304,93553,Pearblossom,Los Angeles,34.4225,-117.9055
+1305,95955,Maxwell,Colusa,39.3163,-122.1849
+1306,95469,Potter Valley,Mendocino,39.3932,-123.0647
+1307,95323,Hickman,Stanislaus,37.6156,-120.7011
+1308,92561,Mountain Center,Riverside,33.7042,-116.7259
+1309,95612,Clarksburg,Yolo,38.3945,-121.5641
+1310,95389,Yosemite National Park,Mariposa,37.7314,-119.6489
+1311,93513,Big Pine,Inyo,37.1679,-118.2916
+1312,95641,Isleton,Sacramento,38.157,-121.6066
+1313,95689,Volcano,Amador,38.4765,-120.6017
+1314,92282,White Water,Riverside,33.989,-116.6566
+1315,93461,Shandon,San Luis Obispo,35.6513,-120.372
+1316,93920,Big Sur,Monterey,36.2458,-121.7009
+1317,93601,Ahwahnee,Madera,37.4076,-119.7233
+1318,95525,Blue Lake,Humboldt,40.9374,-123.8913
+1319,95449,Hopland,Mendocino,38.938,-123.0703
+1320,95636,Grizzly Flats,El Dorado,38.6489,-120.5098
+1321,92339,Forest Falls,San Bernardino,34.0937,-116.9362
+1322,95468,Point Arena,Mendocino,38.9152,-123.6
+1323,93258,Porterville,Tulare,36.0331,-119.0073
+1324,93440,Los Alamos,Santa Barbara,34.7457,-120.2049
+1325,96140,Carnelian Bay,Placer,39.2319,-120.0753
+1326,96103,Blairsden-Graeagle,Plumas,40.1919,-120.1746
+1327,96008,Bella Vista,Shasta,40.7409,-122.0725
+1328,92091,Rancho Santa Fe,San Diego,32.9623,-117.0462
+1329,95919,Brownsville,Yuba,39.4525,-121.2612
+1330,93653,Raymond,Madera,37.279,-119.8766
+1331,92242,Earp,San Bernardino,34.1652,-114.3197
+1332,95573,Willow Creek,Humboldt,40.9484,-123.6276
+1333,95664,Pilot Hill,El Dorado,38.8135,-121.0308
+1334,94924,Bolinas,Marin,37.9079,-122.6947
+1335,95415,Boonville,Mendocino,39.0197,-123.3856
+1336,92518,March Air Force Base,Riverside,33.9533,-117.3962
+1337,92086,Warner Springs,San Diego,33.3096,-116.6527
+1338,93201,Alpaugh,Tulare,35.8877,-119.4873
+1339,95246,Mountain Ranch,Calaveras,38.2328,-120.4994
+1340,95462,Monte Rio,Sonoma,38.4706,-123.0172
+1341,96062,Millville,Shasta,40.5653,-122.1111
+1342,92257,Niland,Imperial,33.3784,-115.6965
+1343,95039,Moss Landing,Monterey,36.8175,-121.7773
+1344,95916,Berry Creek,Butte,39.6776,-121.3689
+1345,93668,Tranquillity,Fresno,36.6584,-120.2617
+1346,96051,Lakehead,Shasta,40.9105,-122.4106
+1347,96023,Dorris,Siskiyou,41.9194,-121.9739
+1348,94923,Bodega Bay,Sonoma,38.3309,-123.0373
+1349,94957,Ross,Marin,37.9624,-122.555
+1350,94956,Point Reyes Station,Marin,38.0691,-122.8069
+1351,94575,Moraga,Contra Costa,37.7772,-121.9554
+1352,95968,Palermo,Butte,39.4361,-121.5454
+1353,96069,Oak Run,Shasta,40.6863,-122.0409
+1354,95313,Crows Landing,Stanislaus,37.4218,-121.0411
+1355,95346,Mi Wuk Village,Tuolumne,38.0675,-120.1794
+1356,95497,The Sea Ranch,Sonoma,38.7256,-123.4675
+1357,95589,Whitethorn,Humboldt,40.0231,-124.0139
+1358,95686,Thornton,San Joaquin,38.2261,-121.4236
+1359,96044,Hornbrook,Siskiyou,41.9077,-122.5265
+1360,95426,Cobb,Lake,38.8155,-122.7132
+1361,95548,Klamath,Del Norte,41.5804,-124.0387
+1362,93432,Creston,San Luis Obispo,35.4779,-120.4361
+1363,94060,Pescadero,San Mateo,37.2065,-122.3649
+1364,96146,Olympic Valley,Placer,39.1752,-120.1954
+1365,96057,Mccloud,Siskiyou,41.2475,-122.1128
+1366,95549,Kneeland,Humboldt,40.6405,-123.8826
+1367,93266,Stratford,Kings,36.179,-119.8236
+1368,93544,Llano,Los Angeles,34.493,-117.7543
+1369,95317,El Nido,Merced,37.1391,-120.5251
+1370,95701,Alta,Placer,39.2441,-120.7531
+1371,92368,Oro Grande,San Bernardino,34.6178,-117.3327
+1372,93608,Cantua Creek,Fresno,36.4921,-120.3353
+1373,96107,Coleville,Mono,38.5029,-119.4828
+1374,95962,Oregon House,Yuba,39.3459,-121.2663
+1375,95547,Hydesville,Humboldt,40.5485,-124.0847
+1376,91917,Dulzura,San Diego,32.6152,-116.7285
+1377,94592,Vallejo,Solano,38.0968,-122.2699
+1378,93666,Sultana,Tulare,36.5455,-119.3401
+1379,95681,Sheridan,Placer,38.9953,-121.368
+1380,95303,Ballico,Merced,37.4548,-120.6931
+1381,93928,Jolon,Monterey,35.9708,-121.176
+1382,96028,Fall River Mills,Shasta,41.0393,-121.4606
+1383,95369,Snelling,Merced,37.5354,-120.378
+1384,95410,Albion,Mendocino,39.2131,-123.72
+1385,94938,Lagunitas,Marin,38.0139,-122.7016
+1386,90073,Los Angeles,Los Angeles,33.7866,-118.2987
+1387,93424,Avila Beach,San Luis Obispo,35.18,-120.7318
+1388,95466,Philo,Mendocino,39.0657,-123.445
+1389,96047,Igo,Shasta,40.4318,-122.654
+1390,93624,Five Points,Fresno,36.3386,-120.1118
+1391,96142,Tahoma,El Dorado,39.0644,-120.1357
+1392,96120,Markleeville,Alpine,38.7713,-119.8327
+1393,96104,Cedarville,Modoc,41.4759,-120.1516
+1394,94937,Inverness,Marin,38.1126,-122.8877
+1395,96109,Doyle,Lassen,40.0008,-120.1077
+1396,95556,Orleans,Humboldt,41.3115,-123.5399
+1397,95674,Rio Oso,Sutter,38.967,-121.4773
+1398,95703,Applegate,Placer,39.0007,-120.9924
+1399,92321,Cedar Glen,San Bernardino,34.2545,-117.1533
+1400,96039,Happy Camp,Siskiyou,41.8018,-123.388
+1401,92070,Santa Ysabel,San Diego,33.1476,-116.6963
+1402,94933,Forest Knolls,Marin,38.0122,-122.6907
+1403,95615,Courtland,Sacramento,38.3137,-121.563
+1404,94567,Pope Valley,Napa,38.6152,-122.4278
+1405,94613,Oakland,Alameda,37.7811,-122.1866
+1406,93441,Los Olivos,Santa Barbara,34.6678,-120.1149
+1407,93450,San Ardo,Monterey,35.9857,-120.8612
+1408,93255,Onyx,Kern,35.6824,-118.0959
+1409,95941,Forbestown,Butte,39.521,-121.2423
+1410,95306,Catheys Valley,Mariposa,37.4404,-120.1438
+1411,95459,Manchester,Mendocino,39.0097,-123.6523
+1412,92327,Daggett,San Bernardino,34.8668,-116.8876
+1413,93518,Caliente,Kern,35.3701,-118.4612
+1414,95017,Davenport,Santa Cruz,37.0423,-122.2137
+1415,93218,Ducor,Tulare,35.8916,-119.0473
+1416,96024,Douglas City,Trinity,40.6342,-122.9239
+1417,96128,Standish,Lassen,40.3509,-120.4068
+1418,94586,Sunol,Alameda,37.6094,-121.8986
+1419,93238,Kernville,Kern,35.755,-118.4047
+1420,94528,Diablo,Contra Costa,37.8387,-121.9667
+1421,95635,Greenwood,El Dorado,38.9143,-120.9001
+1422,96048,Junction City,Trinity,40.7411,-123.0718
+1423,91934,Jacumba,San Diego,32.6249,-116.1952
+1424,95553,Miranda,Humboldt,40.2397,-123.8077
+1425,93606,Biola,Fresno,36.8032,-120.0185
+1426,93526,Independence,Inyo,36.8396,-118.2048
+1427,93254,New Cuyama,Santa Barbara,34.9967,-119.8238
+1428,95659,Nicolaus,Sutter,38.8657,-121.557
+1429,95452,Kenwood,Sonoma,38.4168,-122.5547
+1430,95227,Clements,San Joaquin,38.1929,-121.0811
+1431,95943,Glenn,Glenn,39.6069,-122.0384
+1432,95043,Paicines,San Benito,36.4985,-120.9744
+1433,94922,Bodega,Sonoma,38.3514,-122.9741
+1434,94946,Nicasio,Marin,38.0546,-122.6964
+1435,95957,Meridian,Sutter,39.052,-121.8061
+1436,95254,Wallace,Calaveras,38.1983,-120.9793
+1437,96096,Whitmore,Shasta,40.6525,-121.8771
+1438,96038,Grenada,Siskiyou,41.6125,-122.5258
+1439,95345,Midpines,Mariposa,37.5757,-119.9601
+1440,93673,Traver,Tulare,36.4552,-119.4848
+1441,92358,Lytle Creek,San Bernardino,34.2558,-117.5186
+1442,95552,Mad River,Trinity,40.3316,-123.3904
+1443,96087,Shasta,Shasta,40.6109,-122.4968
+1444,92347,Hinkley,San Bernardino,34.9279,-117.1809
+1445,95456,Littleriver,Mendocino,39.2707,-123.7883
+1446,96148,Tahoe Vista,Placer,39.2448,-120.0521
+1447,96091,Trinity Center,Trinity,41.0615,-122.7239
+1448,95830,Sacramento,Sacramento,38.4896,-121.2772
+1449,95565,Scotia,Humboldt,40.4583,-124.0517
+1450,95230,Farmington,San Joaquin,37.9299,-121.0002
+1451,95914,Bangor,Butte,39.3885,-121.4052
+1452,94970,Stinson Beach,Marin,37.902,-122.6393
+1453,92135,San Diego,San Diego,32.7153,-117.1573
+1454,95652,Mcclellan,Sacramento,38.6621,-121.3955
+1455,92309,Baker,San Bernardino,35.3606,-116.0638
+1456,95543,Gasquet,Del Norte,41.9056,-123.831
+1457,93517,Bridgeport,Mono,38.2566,-119.208
+1458,95225,Burson,Calaveras,38.1838,-120.8894
+1459,90742,Sunset Beach,Orange,33.7164,-118.069
+1460,96006,Adin,Modoc,41.2175,-120.9432
+1461,92305,Angelus Oaks,San Bernardino,34.1531,-116.9485
+1462,95387,Westley,Stanislaus,37.5452,-121.2255
+1463,95432,Elk,Mendocino,39.1593,-123.7219
+1464,95939,Elk Creek,Glenn,39.5306,-122.6124
+1465,95960,North San Juan,Nevada,39.3765,-121.0891
+1466,95563,Salyer,Trinity,40.8558,-123.573
+1467,95668,Pleasant Grove,Sutter,38.8115,-121.4982
+1468,92328,Death Valley,Inyo,36.4672,-116.8937
+1469,95537,Fields Landing,Humboldt,40.7268,-124.2174
+1470,94021,Loma Mar,San Mateo,37.2708,-122.2807
+1471,95471,Rio Nido,Sonoma,38.521,-122.9769
+1472,93652,Raisin,Fresno,36.6024,-119.904
+1473,92322,Cedarpines Park,San Bernardino,34.2544,-117.3265
+1474,92678,Trabuco Canyon,Orange,33.6643,-117.5896
+1475,93452,San Simeon,San Luis Obispo,35.6668,-121.144
+1476,95427,Comptche,Mendocino,39.2767,-123.5873
+1477,95970,Princeton,Colusa,39.4168,-122.0519
+1478,91931,Guatay,San Diego,32.8497,-116.5583
+1479,92258,North Palm Springs,Riverside,33.9228,-116.5431
+1480,96084,Round Mountain,Shasta,40.794,-121.9419
+1481,95922,Camptonville,Yuba,39.4518,-121.0486
+1482,95629,Fiddletown,Amador,38.5234,-120.6763
+1483,96058,Macdoel,Siskiyou,41.883,-121.9445
+1484,96090,Tehama,Tehama,40.0271,-122.1233
+1485,93932,Lockwood,Monterey,35.95,-121.0626
+1486,95653,Madison,Yolo,38.6802,-121.9721
+1487,95251,Vallecito,Calaveras,38.1013,-120.4676
+1488,95950,Grimes,Colusa,39.0744,-121.8927
+1489,93665,South Dos Palos,Merced,36.9644,-120.6532
+1490,95412,Annapolis,Sonoma,38.7026,-123.3539
+1491,96033,French Gulch,Shasta,40.7035,-122.6229
+1492,95651,Lotus,El Dorado,38.8278,-120.9238
+1493,91963,Potrero,San Diego,32.6205,-116.6037
+1494,96059,Manton,Tehama,40.4331,-121.8365
+1495,96106,Clio,Plumas,39.7546,-120.5951
+1496,95564,Samoa,Humboldt,40.8037,-124.1936
+1497,92155,San Diego,San Diego,32.6716,-117.1657
+1498,96141,Homewood,Placer,39.0786,-120.1734
+1499,92060,Palomar Mountain,San Diego,33.3228,-116.8786
+1500,95714,Dutch Flat,Placer,39.1978,-120.8262
+1501,95439,Fulton,Sonoma,38.4947,-122.7761
+1502,93954,San Lucas,Monterey,36.1289,-121.0205
+1503,94104,San Francisco,San Francisco,37.7915,-122.4018
+1504,95527,Burnt Ranch,Trinity,40.7897,-123.4113
+1505,95385,Vernalis,San Joaquin,37.6176,-121.2581
+1506,95075,Tres Pinos,San Benito,36.767,-121.3017
+1507,95675,River Pines,Amador,38.5463,-120.743
+1508,95585,Leggett,Mendocino,39.8481,-123.6615
+1509,95554,Myers Flat,Humboldt,40.2841,-123.7945
+1510,93563,Valyermo,Los Angeles,34.3966,-117.7604
+1511,96050,Klamath River,Siskiyou,41.8637,-122.8197
+1512,93529,June Lake,Mono,37.7773,-119.0825
+1513,95558,Petrolia,Humboldt,40.2868,-124.2271
+1514,92333,Fawnskin,San Bernardino,34.2583,-116.9515
+1515,95956,Meadow Valley,Plumas,39.9296,-121.0608
+1516,95979,Stonyford,Colusa,39.3176,-122.5393
+1517,92147,San Diego,San Diego,32.7153,-117.1573
+1518,95007,Brookdale,Santa Cruz,37.1063,-122.105
+1519,95555,Orick,Humboldt,41.3596,-124.0317
+1520,95257,Wilseyville,Calaveras,38.3793,-120.4627
+1521,95233,Hathaway Pines,Calaveras,38.1919,-120.3644
+1522,93962,Spreckels,Monterey,36.6261,-121.6555
+1523,93531,Keene,Kern,35.2375,-118.6076
+1524,93664,Shaver Lake,Fresno,37.1397,-119.273
+1525,93067,Summerland,Santa Barbara,34.4214,-119.5965
+1526,96124,Calpine,Sierra,39.6139,-120.4046
+1527,93604,Bass Lake,Madera,37.3244,-119.5568
+1528,96016,Cassel,Shasta,40.9337,-121.5677
+1529,93224,Fellows,Kern,35.1786,-119.5412
+1530,92268,Pioneertown,San Bernardino,34.1887,-116.5048
+1531,95444,Graton,Sonoma,38.4335,-122.8676
+1532,96075,Paynes Creek,Tehama,40.3514,-121.765
+1533,91210,Glendale,Los Angeles,34.1425,-118.2551
+1534,91759,Mt Baldy,Los Angeles,34.2361,-117.6601
+1535,96105,Chilcoot,Plumas,39.7977,-120.1396
+1536,92066,Ranchita,San Diego,33.21,-116.5167
+1537,95041,Mount Hermon,Santa Cruz,37.0511,-122.0575
+1538,96015,Canby,Modoc,41.4664,-120.9218
+1539,96034,Gazelle,Siskiyou,41.5105,-122.5371
+1540,95728,Soda Springs,Nevada,39.317,-120.4259
+1541,93244,Lemon Cove,Tulare,36.4969,-118.9941
+1542,96092,Vina,Tehama,39.9272,-122.025
+1543,93669,Wishon,Madera,37.281,-119.557
+1544,93592,Trona,San Bernardino,35.7627,-117.3728
+1545,95435,Finley,Lake,39.0043,-122.8755
+1546,94929,Dillon Beach,Marin,38.2508,-122.9653
+1547,95639,Hood,Sacramento,38.3702,-121.5143
+1548,95983,Taylorsville,Plumas,40.0357,-120.7353
+1549,95920,Butte City,Glenn,39.4568,-121.9515
+1550,96117,Litchfield,Lassen,40.4073,-120.4092
+1551,95984,Twain,Plumas,40.0509,-121.1268
+1552,95606,Brooks,Yolo,38.8065,-122.2039
+1553,95607,Capay,Yolo,38.7209,-122.0912
+1554,96129,Beckwourth,Plumas,39.7721,-120.4051
+1555,96121,Milford,Lassen,40.1828,-120.3895
+1556,92134,San Diego,San Diego,32.7242,-117.1466
+1557,92239,Desert Center,Riverside,33.809,-115.3666
+1558,96009,Bieber,Lassen,41.1315,-121.1286
+1559,93628,Hume,Fresno,36.7515,-118.9575
+1560,96065,Montgomery Creek,Shasta,40.9124,-121.9233
+1561,96135,Vinton,Plumas,39.8043,-120.1783
+1562,95736,Weimar,Placer,39.0375,-120.9713
+1563,93549,Olancha,Inyo,36.23,-117.9552
+1564,95318,El Portal,Mariposa,37.6747,-119.7841
+1565,93541,Lee Vining,Mono,37.989,-119.1234
+1566,95837,Sacramento,Sacramento,38.6817,-121.603
+1567,96054,Lookout,Modoc,41.2347,-121.2156
+1568,93641,Miramonte,Fresno,36.6894,-119.0477
+1569,95925,Challenge,Yuba,39.4685,-121.1936
+1570,96011,Big Bend,Shasta,40.9749,-121.825
+1571,95417,Branscomb,Mendocino,39.6949,-123.5527
+1572,90743,Surfside,Orange,33.7264,-118.0833
+1573,96063,Mineral,Tehama,40.3564,-121.571
+1574,92341,Green Valley Lake,San Bernardino,34.2348,-117.066
+1575,94548,Knightsen,Contra Costa,37.9726,-121.6652
+1576,94940,Marshall,Marin,38.1762,-122.89
+1577,95569,Redcrest,Humboldt,40.3437,-123.9095
+1578,93260,Posey,Tulare,35.8135,-118.6643
+1579,93512,Benton,Mono,37.8926,-118.5647
+1580,94569,Port Costa,Contra Costa,38.046,-122.1866
+1581,96086,Seiad Valley,Siskiyou,41.8866,-123.2438
+1582,93251,Mc Kittrick,Kern,35.3031,-119.6366
+1583,95420,Caspar,Mendocino,39.3629,-123.7944
+1584,92385,Skyforest,San Bernardino,34.2353,-117.1792
+1585,94516,Canyon,Contra Costa,37.8339,-122.165
+1586,94972,Valley Ford,Sonoma,38.318,-122.9242
+1587,95450,Jenner,Sonoma,38.4987,-123.1974
+1588,93645,O Neals,Madera,37.1639,-119.6652
+1589,93207,California Hot Springs,Tulare,35.8818,-118.6561
+1590,92389,Tecopa,Inyo,35.9021,-116.1544
+1591,95568,Somes Bar,Siskiyou,41.4533,-123.4634
+1592,96112,Fort Bidwell,Modoc,41.8644,-120.162
+1593,95526,Bridgeville,Humboldt,40.4693,-123.7998
+1594,95312,Cressey,Merced,37.4197,-120.6663
+1595,95232,Glencoe,Calaveras,38.3554,-120.5778
+1596,96017,Castella,Shasta,41.1103,-122.3161
+1597,96076,Platina,Shasta,40.376,-122.937
