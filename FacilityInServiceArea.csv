@@ -1,0 +1,60 @@
+serviceAreas,facility zip,facility county,facility city,facility type,Unnamed: 0,zip,city,county,lat,long,Facility Type,Cost to Renovate Per Square Meter,Square Meteres Available,"Vaccines delivered per square meter, per day",Daily Capacity,100days Capacity
+Colusa,95932,Colusa,Colusa,outpatient clinic,1041,95932,Colusa,Colusa,39.2345,-122.0277,outpatient clinic,1200,40,10,400,40000
+Yolo,95605,Yolo,West Sacramento,outpatient clinic,900,95605,West Sacramento,Yolo,38.5927,-121.5325,outpatient clinic,1200,40,10,400,40000
+Yolo,95618,Yolo,El Macero,outpatient clinic,657,95618,El Macero,Yolo,38.5449,-121.7405,outpatient clinic,1200,40,10,400,40000
+Yolo,95691,Yolo,West Sacramento,outpatient clinic,391,95691,West Sacramento,Yolo,38.5673,-121.5516,outpatient clinic,1200,40,10,400,40000
+Yolo,95695,Yolo,Woodland,outpatient clinic,368,95695,Woodland,Yolo,38.6816,-121.8052,outpatient clinic,1200,40,10,400,40000
+Yolo,95776,Yolo,Woodland,outpatient clinic,725,95776,Woodland,Yolo,38.6808,-121.7411,outpatient clinic,1200,40,10,400,40000
+Solano,94510,Solano,Benicia,outpatient clinic,638,94510,Benicia,Solano,38.0685,-122.1614,outpatient clinic,1200,40,10,400,40000
+Solano,94589,Solano,Vallejo,outpatient clinic,595,94589,Vallejo,Solano,38.1582,-122.2804,outpatient clinic,1200,40,10,400,40000
+Solano,94590,Solano,Vallejo,outpatient clinic,427,94590,Vallejo,Solano,38.1053,-122.2474,outpatient clinic,1200,40,10,400,40000
+Solano,94592,Solano,Vallejo,outpatient clinic,1377,94592,Vallejo,Solano,38.0968,-122.2699,outpatient clinic,1200,40,10,400,40000
+Solano,95688,Solano,Vacaville,outpatient clinic,418,95688,Vacaville,Solano,38.3847,-121.9887,outpatient clinic,1200,40,10,400,40000
+Sacramento,95621,Sacramento,Citrus Heights,outpatient clinic,342,95621,Citrus Heights,Sacramento,38.6952,-121.3075,outpatient clinic,1200,40,10,400,40000
+Sacramento,95628,Sacramento,Fair Oaks,outpatient clinic,359,95628,Fair Oaks,Sacramento,38.6554,-121.2611,outpatient clinic,1200,40,10,400,40000
+Sacramento,95641,Sacramento,Isleton,outpatient clinic,1312,95641,Isleton,Sacramento,38.157,-121.6066,outpatient clinic,1200,40,10,400,40000
+Sacramento,95742,Sacramento,Rancho Cordova,outpatient clinic,938,95742,Rancho Cordova,Sacramento,38.5981,-121.2153,outpatient clinic,1200,40,10,400,40000
+Sacramento,95758,Sacramento,Elk Grove,outpatient clinic,81,95758,Elk Grove,Sacramento,38.4243,-121.437,outpatient clinic,1200,40,10,400,40000
+Sacramento,95815,Sacramento,Sacramento,outpatient clinic,695,95815,Sacramento,Sacramento,38.6093,-121.4443,outpatient clinic,1200,40,10,400,40000
+Sacramento,95817,Sacramento,Sacramento,outpatient clinic,913,95817,Sacramento,Sacramento,38.5498,-121.4583,outpatient clinic,1200,40,10,400,40000
+Sacramento,95818,Sacramento,Sacramento,outpatient clinic,776,95818,Sacramento,Sacramento,38.5568,-121.4929,outpatient clinic,1200,40,10,400,40000
+Sacramento,95819,Sacramento,Sacramento,outpatient clinic,798,95819,Sacramento,Sacramento,38.5683,-121.4366,outpatient clinic,1200,40,10,400,40000
+Sacramento,95820,Sacramento,Sacramento,outpatient clinic,475,95820,Sacramento,Sacramento,38.5347,-121.4451,outpatient clinic,1200,40,10,400,40000
+Sacramento,95821,Sacramento,Sacramento,outpatient clinic,443,95821,Sacramento,Sacramento,38.6239,-121.3837,outpatient clinic,1200,40,10,400,40000
+Sacramento,95824,Sacramento,Sacramento,outpatient clinic,594,95824,Sacramento,Sacramento,38.5178,-121.4419,outpatient clinic,1200,40,10,400,40000
+Sacramento,95827,Sacramento,Sacramento,outpatient clinic,778,95827,Sacramento,Sacramento,38.5662,-121.3286,outpatient clinic,1200,40,10,400,40000
+Sacramento,95829,Sacramento,Sacramento,outpatient clinic,622,95829,Sacramento,Sacramento,38.4689,-121.344,outpatient clinic,1200,40,10,400,40000
+Sacramento,95832,Sacramento,Sacramento,outpatient clinic,935,95832,Sacramento,Sacramento,38.4695,-121.4883,outpatient clinic,1200,40,10,400,40000
+Sacramento,95833,Sacramento,Sacramento,outpatient clinic,367,95833,Sacramento,Sacramento,38.6157,-121.5053,outpatient clinic,1200,40,10,400,40000
+Sacramento,95834,Sacramento,Sacramento,outpatient clinic,573,95834,Sacramento,Sacramento,38.6383,-121.5072,outpatient clinic,1200,40,10,400,40000
+Sacramento,95841,Sacramento,Sacramento,outpatient clinic,805,95841,Sacramento,Sacramento,38.6627,-121.3406,outpatient clinic,1200,40,10,400,40000
+Sacramento,95842,Sacramento,Sacramento,outpatient clinic,523,95842,Sacramento,Sacramento,38.6865,-121.3494,outpatient clinic,1200,40,10,400,40000
+El Dorado,95619,El Dorado,Diamond Springs,outpatient clinic,1062,95619,Diamond Springs,El Dorado,38.6865,-120.8145,outpatient clinic,1200,40,10,400,40000
+El Dorado,95651,El Dorado,Lotus,outpatient clinic,1492,95651,Lotus,El Dorado,38.8278,-120.9238,outpatient clinic,1200,40,10,400,40000
+El Dorado,95667,El Dorado,Placerville,outpatient clinic,469,95667,Placerville,El Dorado,38.7195,-120.8046,outpatient clinic,1200,40,10,400,40000
+El Dorado,95682,El Dorado,Shingle Springs,outpatient clinic,611,95682,Shingle Springs,El Dorado,38.6465,-120.9641,outpatient clinic,1200,40,10,400,40000
+Sutter,95991,Sutter,Yuba City,outpatient clinic,360,95991,Yuba City,Sutter,39.1051,-121.6202,outpatient clinic,1200,40,10,400,40000
+Sutter,95993,Sutter,Yuba City,outpatient clinic,423,95993,Yuba City,Sutter,39.1237,-121.6611,outpatient clinic,1200,40,10,400,40000
+Placer,95602,Placer,Auburn,outpatient clinic,829,95602,Auburn,Placer,38.9829,-121.0944,outpatient clinic,1200,40,10,400,40000
+Placer,95603,Placer,Auburn,outpatient clinic,601,95603,Auburn,Placer,38.9115,-121.08,outpatient clinic,1200,40,10,400,40000
+Placer,95650,Placer,Loomis,outpatient clinic,890,95650,Loomis,Placer,38.8071,-121.1698,outpatient clinic,1200,40,10,400,40000
+Placer,95658,Placer,Newcastle,outpatient clinic,1063,95658,Newcastle,Placer,38.8763,-121.143,outpatient clinic,1200,40,10,400,40000
+Placer,95661,Placer,Roseville,outpatient clinic,558,95661,Roseville,Placer,38.7346,-121.234,outpatient clinic,1200,40,10,400,40000
+Placer,95681,Placer,Sheridan,outpatient clinic,1379,95681,Sheridan,Placer,38.9953,-121.368,outpatient clinic,1200,40,10,400,40000
+Placer,95765,Placer,Rocklin,outpatient clinic,373,95765,Rocklin,Placer,38.8136,-121.2677,outpatient clinic,1200,40,10,400,40000
+Placer,96145,Placer,Tahoe City,outpatient clinic,1211,96145,Tahoe City,Placer,39.1806,-120.1445,outpatient clinic,1200,40,10,400,40000
+Nevada,95946,Nevada,Penn Valley,outpatient clinic,1024,95946,Penn Valley,Nevada,39.2019,-121.2026,outpatient clinic,1200,40,10,400,40000
+Nevada,95949,Nevada,Grass Valley,outpatient clinic,788,95949,Grass Valley,Nevada,39.1193,-121.0938,outpatient clinic,1200,40,10,400,40000
+Solano,94533,Solano,Fairfield,medium hospital,35,94533,Fairfield,Solano,38.2671,-122.0357,medium hospital,750,175,15,2625,262500
+Solano,95687,Solano,Vacaville,medium hospital,66,95687,Vacaville,Solano,38.3482,-121.9538,medium hospital,750,175,15,2625,262500
+Sacramento,95624,Sacramento,Elk Grove,medium hospital,76,95624,Elk Grove,Sacramento,38.4232,-121.3599,medium hospital,750,175,15,2625,262500
+Sacramento,95630,Sacramento,Folsom,medium hospital,34,95630,Folsom,Sacramento,38.6709,-121.1529,medium hospital,750,175,15,2625,262500
+Placer,95747,Placer,Roseville,medium hospital,70,95747,Roseville,Placer,38.7703,-121.3372,medium hospital,750,175,15,2625,262500
+Solano,94591,Solano,Vallejo,small hospital,161,94591,Vallejo,Solano,38.0985,-122.2124,small hospital,1000,125,15,1875,187500
+Sacramento,95608,Sacramento,Carmichael,small hospital,108,95608,Carmichael,Sacramento,38.6284,-121.3287,small hospital,1000,125,15,1875,187500
+Sacramento,95670,Sacramento,Rancho Cordova,small hospital,145,95670,Rancho Cordova,Sacramento,38.6072,-121.2761,small hospital,1000,125,15,1875,187500
+Sacramento,95843,Sacramento,Antelope,small hospital,252,95843,Antelope,Sacramento,38.7159,-121.3648,small hospital,1000,125,15,1875,187500
+El Dorado,95762,El Dorado,El Dorado Hills,small hospital,318,95762,El Dorado Hills,El Dorado,38.685,-121.068,small hospital,1000,125,15,1875,187500
+Sacramento,95823,Sacramento,Sacramento,urgent care,33,95823,Sacramento,Sacramento,38.4797,-121.4438,urgent care,2000,20,10,200,20000
+Sacramento,95831,Sacramento,Sacramento,surgery center,321,95831,Sacramento,Sacramento,38.4962,-121.5297,surgery center,2500,20,10,200,20000
+Placer,95678,Placer,Roseville,surgery center,322,95678,Roseville,Placer,38.7609,-121.2867,surgery center,2500,20,10,200,20000

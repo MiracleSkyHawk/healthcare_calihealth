@@ -1,0 +1,105 @@
+Unnamed: 0_x,City,Site Name,Facility Type,Unnamed: 0_y,zip,city,county,lat,long
+0,Chico,Chico Athletic Center,Pop-Up Clinic,352,95926,Chico,Butte,39.7458,-121.8444
+0,Chico,Chico Athletic Center,Pop-Up Clinic,406,95928,Chico,Butte,39.7224,-121.8113
+0,Chico,Chico Athletic Center,Pop-Up Clinic,451,95973,Chico,Butte,39.8032,-121.8673
+1,Davis,Davis Community Center,Pop-Up Clinic,190,95616,Davis,Yolo,38.5538,-121.7418
+2,Lincoln,Lincoln Community Center,Pop-Up Clinic,198,95648,Lincoln,Placer,38.8942,-121.2908
+3,Oroville,Oroville Middle School,Pop-Up Clinic,614,95966,Oroville,Butte,39.4877,-121.4698
+3,Oroville,Oroville Middle School,Pop-Up Clinic,790,95965,Oroville,Butte,39.6054,-121.5751
+4,North Highlands,North Highlands Recreation Center,Pop-Up Clinic,436,95660,North Highlands,Sacramento,38.6707,-121.3781
+5,Marysville,Marysville Athletic Center,Pop-Up Clinic,474,95901,Marysville,Yuba,39.1663,-121.5105
+6,Orangevale,Orangevale High School,Pop-Up Clinic,546,95662,Orangevale,Sacramento,38.6845,-121.2256
+7,Galt,Galt Methodist Church,Pop-Up Clinic,554,95632,Galt,Sacramento,38.2691,-121.3
+8,South Lake Tahoe,South Lake Tahoe Community Center,Pop-Up Clinic,592,96150,South Lake Tahoe,El Dorado,38.917,-119.9865
+9,Suisun City,Suisun City Community Center,Pop-Up Clinic,617,94585,Suisun City,Solano,38.2408,-122.042
+10,Olivehurst,Olivehurst Mosque,Pop-Up Clinic,623,95961,Olivehurst,Yuba,39.0861,-121.5497
+11,Granite Bay,Granite Bay Community Center,Pop-Up Clinic,746,95746,Granite Bay,Placer,38.7435,-121.1897
+12,Dixon,Dixon Mosque,Pop-Up Clinic,763,95620,Dixon,Solano,38.4403,-121.8088
+13,Paradise,Paradise Middle School,Pop-Up Clinic,820,95969,Paradise,Butte,39.7555,-121.6069
+14,Truckee,Truckee Synagogue,Pop-Up Clinic,825,96161,Truckee,Nevada,39.3385,-120.1729
+15,Nevada City,Nevada City Mosque,Pop-Up Clinic,844,95959,Nevada City,Nevada,39.3017,-120.9717
+16,Rio Linda,Rio Linda Methodist Church,Pop-Up Clinic,866,95673,Rio Linda,Sacramento,38.6895,-121.4479
+17,Orland,Orland Recreation Center,Pop-Up Clinic,873,95963,Orland,Glenn,39.7314,-122.2534
+18,Magalia,Magalia High School,Pop-Up Clinic,945,95954,Magalia,Butte,39.8912,-121.58
+19,Gridley,Gridley Mosque,Pop-Up Clinic,948,95948,Gridley,Butte,39.3532,-121.7137
+20,Live Oak,Live Oak Middle School,Pop-Up Clinic,967,95953,Live Oak,Sutter,39.2601,-121.6923
+21,Winters,Winters Synagogue,Pop-Up Clinic,977,95694,Winters,Yolo,38.5322,-121.9676
+22,Colfax,Colfax Community Center,Pop-Up Clinic,978,95713,Colfax,Placer,39.0783,-120.9549
+23,Rio Vista,Rio Vista Community Center,Pop-Up Clinic,984,94571,Rio Vista,Solano,38.1637,-121.7016
+24,Willows,Willows Athletic Center,Pop-Up Clinic,1020,95988,Willows,Glenn,39.5353,-122.2597
+25,Pollock Pines,Pollock Pines Athletic Center,Pop-Up Clinic,1029,95726,Pollock Pines,El Dorado,38.7708,-120.5427
+26,Foresthill,Foresthill Recreation Center,Pop-Up Clinic,1057,95631,Foresthill,Placer,39.0682,-120.7224
+27,Rescue,Rescue Synagogue,Pop-Up Clinic,1061,95672,Rescue,El Dorado,38.7194,-120.9945
+28,Wilton,Wilton Athletic Center,Pop-Up Clinic,1065,95693,Wilton,Sacramento,38.3983,-121.2303
+29,Sloughhouse,Sloughhouse Community Center,Pop-Up Clinic,1074,95683,Sloughhouse,Sacramento,38.5143,-121.0964
+30,Williams,Williams Community Center,Pop-Up Clinic,1075,95987,Williams,Colusa,39.1337,-122.2162
+31,Elverta,Elverta High School,Pop-Up Clinic,1081,95626,Elverta,Sacramento,38.7233,-121.4497
+32,Camino,Camino Recreation Center,Pop-Up Clinic,1086,95709,Camino,El Dorado,38.747,-120.6743
+33,Arbuckle,Arbuckle Middle School,Pop-Up Clinic,1100,95912,Arbuckle,Colusa,39.0138,-122.0274
+34,Meadow Vista,Meadow Vista High School,Pop-Up Clinic,1104,95722,Meadow Vista,Placer,39.0031,-121.0292
+35,Wheatland,Wheatland Synagogue,Pop-Up Clinic,1107,95692,Wheatland,Yuba,39.0337,-121.4235
+36,Esparto,Esparto Community Center,Pop-Up Clinic,1120,95627,Esparto,Yolo,38.7061,-122.0152
+37,Garden Valley,Garden Valley Mosque,Pop-Up Clinic,1122,95633,Garden Valley,El Dorado,38.8665,-120.8567
+38,Cool,Cool Recreation Center,Pop-Up Clinic,1124,95614,Cool,El Dorado,38.8923,-120.9802
+39,Mather,Mather Synagogue,Pop-Up Clinic,1129,95655,Mather,Sacramento,38.5579,-121.291
+40,Durham,Durham Athletic Center,Pop-Up Clinic,1135,95938,Durham,Butte,39.633,-121.7886
+41,El Dorado,El Dorado Methodist Church,Pop-Up Clinic,1143,95623,El Dorado,El Dorado,38.633,-120.8498
+42,Georgetown,Georgetown Mosque,Pop-Up Clinic,1144,95634,Georgetown,El Dorado,38.9185,-120.7599
+43,Biggs,Biggs Mosque,Pop-Up Clinic,1145,95917,Biggs,Butte,39.4162,-121.7189
+44,Travis Afb,Travis Afb Community Center,Pop-Up Clinic,1169,94535,Travis Afb,Solano,38.2743,-121.9463
+45,Kings Beach,Kings Beach Athletic Center,Pop-Up Clinic,1170,96143,Kings Beach,Placer,39.2401,-120.0233
+46,Sutter,Sutter Athletic Center,Pop-Up Clinic,1183,95982,Sutter,Sutter,39.1779,-121.7758
+47,Somerset,Somerset Synagogue,Pop-Up Clinic,1198,95684,Somerset,El Dorado,38.5953,-120.5949
+48,Penryn,Penryn Methodist Church,Pop-Up Clinic,1204,95663,Penryn,Placer,38.8567,-121.1791
+49,Browns Valley,Browns Valley Synagogue,Pop-Up Clinic,1216,95918,Browns Valley,Yuba,39.2882,-121.3303
+50,Hamilton City,Hamilton City Community Center,Pop-Up Clinic,1217,95951,Hamilton City,Glenn,39.7386,-122.0085
+51,Herald,Herald Synagogue,Pop-Up Clinic,1245,95638,Herald,Sacramento,38.3119,-121.1729
+52,Walnut Grove,Walnut Grove Community Center,Pop-Up Clinic,1250,95690,Walnut Grove,Sacramento,38.2396,-121.5443
+53,Rough And Ready,Rough And Ready Athletic Center,Pop-Up Clinic,1276,95975,Rough And Ready,Nevada,39.2286,-121.1509
+54,Knights Landing,Knights Landing Community Center,Pop-Up Clinic,1282,95645,Knights Landing,Yolo,38.8517,-121.7334
+55,Loyalton,Loyalton Athletic Center,Pop-Up Clinic,1286,96118,Loyalton,Sierra,39.663,-120.2297
+56,Forest Ranch,Forest Ranch Methodist Church,Pop-Up Clinic,1292,95942,Forest Ranch,Butte,39.8821,-121.6728
+57,Beale Afb,Beale Afb High School,Pop-Up Clinic,1293,95903,Beale Afb,Yuba,39.1115,-121.3604
+58,Smartville,Smartville Synagogue,Pop-Up Clinic,1296,95977,Smartville,Yuba,39.2076,-121.3001
+59,Dunnigan,Dunnigan Synagogue,Pop-Up Clinic,1299,95937,Dunnigan,Yolo,38.887,-121.9992
+60,Maxwell,Maxwell Athletic Center,Pop-Up Clinic,1305,95955,Maxwell,Colusa,39.3163,-122.1849
+61,Clarksburg,Clarksburg Community Center,Pop-Up Clinic,1309,95612,Clarksburg,Yolo,38.3945,-121.5641
+62,Grizzly Flats,Grizzly Flats Mosque,Pop-Up Clinic,1320,95636,Grizzly Flats,El Dorado,38.6489,-120.5098
+63,Carnelian Bay,Carnelian Bay Community Center,Pop-Up Clinic,1325,96140,Carnelian Bay,Placer,39.2319,-120.0753
+64,Brownsville,Brownsville Methodist Church,Pop-Up Clinic,1329,95919,Brownsville,Yuba,39.4525,-121.2612
+65,Pilot Hill,Pilot Hill Synagogue,Pop-Up Clinic,1333,95664,Pilot Hill,El Dorado,38.8135,-121.0308
+66,Berry Creek,Berry Creek Methodist Church,Pop-Up Clinic,1344,95916,Berry Creek,Butte,39.6776,-121.3689
+67,Palermo,Palermo Athletic Center,Pop-Up Clinic,1352,95968,Palermo,Butte,39.4361,-121.5454
+68,Olympic Valley,Olympic Valley Recreation Center,Pop-Up Clinic,1364,96146,Olympic Valley,Placer,39.1752,-120.1954
+69,Alta,Alta Mosque,Pop-Up Clinic,1370,95701,Alta,Placer,39.2441,-120.7531
+70,Oregon House,Oregon House Middle School,Pop-Up Clinic,1374,95962,Oregon House,Yuba,39.3459,-121.2663
+71,Tahoma,Tahoma Recreation Center,Pop-Up Clinic,1391,96142,Tahoma,El Dorado,39.0644,-120.1357
+72,Rio Oso,Rio Oso Mosque,Pop-Up Clinic,1397,95674,Rio Oso,Sutter,38.967,-121.4773
+73,Applegate,Applegate Mosque,Pop-Up Clinic,1398,95703,Applegate,Placer,39.0007,-120.9924
+74,Courtland,Courtland Methodist Church,Pop-Up Clinic,1403,95615,Courtland,Sacramento,38.3137,-121.563
+75,Forbestown,Forbestown Middle School,Pop-Up Clinic,1409,95941,Forbestown,Butte,39.521,-121.2423
+76,Greenwood,Greenwood Middle School,Pop-Up Clinic,1421,95635,Greenwood,El Dorado,38.9143,-120.9001
+77,Nicolaus,Nicolaus Community Center,Pop-Up Clinic,1428,95659,Nicolaus,Sutter,38.8657,-121.557
+78,Glenn,Glenn Mosque,Pop-Up Clinic,1431,95943,Glenn,Glenn,39.6069,-122.0384
+79,Meridian,Meridian Methodist Church,Pop-Up Clinic,1435,95957,Meridian,Sutter,39.052,-121.8061
+80,Tahoe Vista,Tahoe Vista Community Center,Pop-Up Clinic,1446,96148,Tahoe Vista,Placer,39.2448,-120.0521
+81,Bangor,Bangor Community Center,Pop-Up Clinic,1451,95914,Bangor,Butte,39.3885,-121.4052
+82,Mcclellan,Mcclellan Athletic Center,Pop-Up Clinic,1454,95652,Mcclellan,Sacramento,38.6621,-121.3955
+83,Elk Creek,Elk Creek Athletic Center,Pop-Up Clinic,1464,95939,Elk Creek,Glenn,39.5306,-122.6124
+84,North San Juan,North San Juan Methodist Church,Pop-Up Clinic,1465,95960,North San Juan,Nevada,39.3765,-121.0891
+85,Pleasant Grove,Pleasant Grove Synagogue,Pop-Up Clinic,1467,95668,Pleasant Grove,Sutter,38.8115,-121.4982
+86,Princeton,Princeton Community Center,Pop-Up Clinic,1477,95970,Princeton,Colusa,39.4168,-122.0519
+87,Camptonville,Camptonville Methodist Church,Pop-Up Clinic,1481,95922,Camptonville,Yuba,39.4518,-121.0486
+88,Madison,Madison Community Center,Pop-Up Clinic,1486,95653,Madison,Yolo,38.6802,-121.9721
+89,Grimes,Grimes Community Center,Pop-Up Clinic,1488,95950,Grimes,Colusa,39.0744,-121.8927
+90,Homewood,Homewood Recreation Center,Pop-Up Clinic,1498,96141,Homewood,Placer,39.0786,-120.1734
+91,Dutch Flat,Dutch Flat Mosque,Pop-Up Clinic,1500,95714,Dutch Flat,Placer,39.1978,-120.8262
+92,Stonyford,Stonyford Mosque,Pop-Up Clinic,1516,95979,Stonyford,Colusa,39.3176,-122.5393
+93,Calpine,Calpine Mosque,Pop-Up Clinic,1526,96124,Calpine,Sierra,39.6139,-120.4046
+94,Soda Springs,Soda Springs Athletic Center,Pop-Up Clinic,1540,95728,Soda Springs,Nevada,39.317,-120.4259
+95,Hood,Hood Athletic Center,Pop-Up Clinic,1547,95639,Hood,Sacramento,38.3702,-121.5143
+96,Butte City,Butte City Middle School,Pop-Up Clinic,1549,95920,Butte City,Glenn,39.4568,-121.9515
+97,Brooks,Brooks Mosque,Pop-Up Clinic,1552,95606,Brooks,Yolo,38.8065,-122.2039
+98,Capay,Capay Community Center,Pop-Up Clinic,1553,95607,Capay,Yolo,38.7209,-122.0912
+99,Weimar,Weimar Middle School,Pop-Up Clinic,1562,95736,Weimar,Placer,39.0375,-120.9713
+100,Challenge,Challenge Middle School,Pop-Up Clinic,1569,95925,Challenge,Yuba,39.4685,-121.1936
